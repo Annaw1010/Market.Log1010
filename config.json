@@ -1,0 +1,140 @@
+{
+  "site_title": "Market Pulse",
+  "timezone": "America/New_York",
+  "latest_count": 150,
+  "retention_hours": 54,
+
+  "feeds": [
+    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "weight": 1.0},
+    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "weight": 1.0},
+    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258", "weight": 1.0},
+    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135", "weight": 0.9},
+    {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "weight": 0.9},
+    {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse", "weight": 0.8},
+    {"name": "The Wall Street Journal", "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", "weight": 1.1},
+    {"name": "The Wall Street Journal", "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness", "weight": 1.1},
+    {"name": "Financial Times", "url": "https://www.ft.com/markets?format=rss", "weight": 1.1},
+    {"name": "Financial Times", "url": "https://www.ft.com/companies/financials?format=rss", "weight": 1.1},
+    {"name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "weight": 1.0},
+    {"name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml", "weight": 1.0},
+    {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex", "weight": 0.8},
+    {"name": "The Economist", "url": "https://www.economist.com/finance-and-economics/rss.xml", "weight": 1.0},
+    {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "weight": 1.5}
+  ],
+
+  "google_news": [
+    "stock market",
+    "\"Federal Reserve\" OR \"Treasury yields\"",
+    "merger OR acquisition OR IPO",
+    "\"wealth management\" OR \"private bank\" OR \"private banking\"",
+    "bank earnings OR \"bank stocks\"",
+    "inflation OR \"jobs report\" OR GDP"
+  ],
+  "google_weight": 0.8,
+
+  "publisher_weights": {
+    "Reuters": 1.2,
+    "Bloomberg": 1.2,
+    "Bloomberg.com": 1.2,
+    "The Wall Street Journal": 1.1,
+    "WSJ": 1.1,
+    "Financial Times": 1.1,
+    "Associated Press": 1.0,
+    "AP News": 1.0,
+    "CNBC": 1.0,
+    "The New York Times": 1.0,
+    "Barron's": 1.0,
+    "Axios": 0.9,
+    "MarketWatch": 0.9,
+    "Fortune": 0.9,
+    "Business Insider": 0.8,
+    "Yahoo Finance": 0.8,
+    "Investopedia": 0.6
+  },
+
+  "themes": [
+    {"name": "Fed & rates", "weight": 1.0, "keywords": ["Fed", "FOMC", "federal reserve", "rate cut", "rate cuts", "rate hike", "interest rate", "interest rates", "treasury yield", "treasury yields", "treasuries", "bond market", "bond yields", "mortgage rates", "fed chair"]},
+    {"name": "Wealth & banking", "weight": 1.0, "keywords": ["wealth management", "private bank", "private banking", "family office", "high-net-worth", "ultra-high-net-worth", "UHNW", "financial advisor", "financial advisers", "asset manager", "asset management", "JPMorgan", "Goldman Sachs", "Morgan Stanley", "UBS", "RBC", "Merrill", "Bank of America", "Citigroup", "Citi", "Wells Fargo", "Schwab", "bank stocks", "banks", "lender", "lenders"]},
+    {"name": "Deals & IPOs", "weight": 0.7, "keywords": ["merger", "mergers", "acquisition", "acquisitions", "acquire", "acquires", "buyout", "takeover", "IPO", "IPOs", "go public", "listing", "private equity", "deal talks", "to buy", "agrees to buy", "SPAC"]},
+    {"name": "Macro & data", "weight": 0.6, "keywords": ["inflation", "CPI", "PCE", "GDP", "jobs report", "payrolls", "unemployment", "recession", "consumer spending", "retail sales", "tariff", "tariffs", "trade war", "economy", "economic"]},
+    {"name": "Tax & policy", "weight": 0.6, "keywords": ["tax", "taxes", "IRS", "estate tax", "capital gains", "regulation", "regulators", "SEC", "Congress", "legislation", "Basel", "stress test", "stress tests"]},
+    {"name": "Private markets", "weight": 0.6, "keywords": ["private credit", "private markets", "hedge fund", "hedge funds", "venture capital", "alternative investments", "alternatives", "real estate", "REIT", "endowment"]},
+    {"name": "Crypto", "weight": 0.2, "keywords": ["bitcoin", "crypto", "cryptocurrency", "ethereum", "stablecoin", "stablecoins"]},
+    {"name": "Commodities & FX", "weight": 0.3, "keywords": ["oil", "OPEC", "crude", "gold", "natural gas", "copper", "commodities", "dollar", "currency", "yen", "euro"]},
+    {"name": "Earnings", "weight": 0.4, "keywords": ["earnings", "quarterly results", "quarterly profit", "revenue", "profit", "guidance", "outlook", "beats estimates", "misses estimates"]},
+    {"name": "Global", "weight": 0.3, "keywords": ["China", "Europe", "ECB", "Bank of Japan", "BOJ", "Bank of England", "emerging markets", "geopolitical", "sanctions"]},
+    {"name": "Markets", "weight": 0.4, "keywords": ["stocks", "stock market", "S&P 500", "Nasdaq", "Dow", "Wall Street", "rally", "selloff", "sell-off", "shares", "equities", "volatility", "VIX"]}
+  ],
+
+  "indicators": [
+    {"id": "spx", "name": "S&P 500", "group": "Equities", "kind": "index", "yahoo": "^GSPC", "fred": "SP500"},
+    {"id": "dji", "name": "Dow Jones", "group": "Equities", "kind": "index", "yahoo": "^DJI", "fred": "DJIA"},
+    {"id": "ixic", "name": "Nasdaq Composite", "group": "Equities", "kind": "index", "yahoo": "^IXIC", "fred": "NASDAQCOM"},
+    {"id": "rut", "name": "Russell 2000", "group": "Equities", "kind": "index", "yahoo": "^RUT"},
+    {"id": "bkx", "name": "KBW Bank Index", "group": "Equities", "kind": "index", "yahoo": "^BKX"},
+    {"id": "xlf", "name": "Financials (XLF)", "group": "Equities", "kind": "price", "yahoo": "XLF"},
+    {"id": "vix", "name": "VIX", "group": "Equities", "kind": "level", "yahoo": "^VIX", "fred": "VIXCLS"},
+
+    {"id": "dff", "name": "Fed funds (effective)", "group": "Rates & credit", "kind": "yield", "fred": "DFF"},
+    {"id": "us3m", "name": "3-month T-bill", "group": "Rates & credit", "kind": "yield", "fred": "DGS3MO"},
+    {"id": "us2y", "name": "2-year Treasury", "group": "Rates & credit", "kind": "yield", "fred": "DGS2"},
+    {"id": "us10y", "name": "10-year Treasury", "group": "Rates & credit", "kind": "yield", "yahoo": "^TNX", "fred": "DGS10"},
+    {"id": "us30y", "name": "30-year Treasury", "group": "Rates & credit", "kind": "yield", "yahoo": "^TYX", "fred": "DGS30"},
+    {"id": "t10y2y", "name": "2s10s curve", "group": "Rates & credit", "kind": "spread", "fred": "T10Y2Y"},
+    {"id": "hy", "name": "High-yield spread", "group": "Rates & credit", "kind": "spread", "fred": "BAMLH0A0HYM2"},
+    {"id": "mort30", "name": "30-year mortgage", "group": "Rates & credit", "kind": "yield", "fred": "MORTGAGE30US"},
+
+    {"id": "dxy", "name": "Dollar index", "group": "FX & commodities", "kind": "price", "yahoo": "DX-Y.NYB"},
+    {"id": "eurusd", "name": "EUR/USD", "group": "FX & commodities", "kind": "fx", "yahoo": "EURUSD=X", "fred": "DEXUSEU"},
+    {"id": "usdjpy", "name": "USD/JPY", "group": "FX & commodities", "kind": "fx", "yahoo": "JPY=X", "fred": "DEXJPUS"},
+    {"id": "wti", "name": "WTI crude", "group": "FX & commodities", "kind": "price", "yahoo": "CL=F", "fred": "DCOILWTICO"},
+    {"id": "gold", "name": "Gold", "group": "FX & commodities", "kind": "price", "yahoo": "GC=F"},
+    {"id": "btc", "name": "Bitcoin", "group": "FX & commodities", "kind": "price", "yahoo": "BTC-USD"}
+  ],
+
+  "macro": [
+    {"id": "fedtarget", "name": "Fed funds target (upper)", "fred": "DFEDTARU", "transform": "level", "unit": "%"},
+    {"id": "cpi", "name": "CPI inflation (YoY)", "fred": "CPIAUCSL", "transform": "yoy", "unit": "%"},
+    {"id": "corepce", "name": "Core PCE (YoY)", "fred": "PCEPILFE", "transform": "yoy", "unit": "%"},
+    {"id": "unrate", "name": "Unemployment rate", "fred": "UNRATE", "transform": "level", "unit": "%"},
+    {"id": "payrolls", "name": "Payrolls (monthly change)", "fred": "PAYEMS", "transform": "diff", "unit": "k"},
+    {"id": "gdp", "name": "Real GDP growth (annualized)", "fred": "A191RL1Q225SBEA", "transform": "level", "unit": "%"},
+    {"id": "sentiment", "name": "Consumer sentiment (UMich)", "fred": "UMCSENT", "transform": "level", "unit": ""}
+  ],
+
+  "firm_watch": [
+    {"name": "J.P. Morgan Private Bank", "query": "\"JPMorgan Private Bank\" OR \"J.P. Morgan Private Bank\" OR \"JPMorgan wealth\""},
+    {"name": "Goldman Sachs PWM", "query": "\"Goldman Sachs\" wealth OR \"private wealth\""},
+    {"name": "Morgan Stanley Wealth", "query": "\"Morgan Stanley\" \"wealth management\""},
+    {"name": "RBC", "query": "\"RBC Wealth Management\" OR \"RBC Capital Markets\""},
+    {"name": "UBS Global Wealth", "query": "UBS \"wealth management\""},
+    {"name": "BofA Private Bank / Merrill", "query": "\"Bank of America Private Bank\" OR \"Merrill Lynch\" wealth"},
+    {"name": "Industry", "query": "\"private banking\" OR \"ultra-high-net-worth\" OR \"family office\""}
+  ],
+
+  "backfill_queries": [
+    "stock market",
+    "Federal Reserve",
+    "wealth management",
+    "merger acquisition",
+    "IPO",
+    "inflation",
+    "bank earnings",
+    "private credit"
+  ],
+
+  "tape": [
+    {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+    {"proName": "FOREXCOM:NSXUSD", "title": "Nasdaq 100"},
+    {"proName": "FOREXCOM:DJI", "title": "Dow 30"},
+    {"proName": "TVC:US10Y", "title": "US 10Y"},
+    {"proName": "TVC:US02Y", "title": "US 2Y"},
+    {"proName": "TVC:DXY", "title": "Dollar"},
+    {"proName": "TVC:USOIL", "title": "WTI"},
+    {"proName": "TVC:GOLD", "title": "Gold"},
+    {"proName": "BITSTAMP:BTCUSD", "title": "Bitcoin"},
+    {"proName": "NYSE:JPM", "title": "JPM"},
+    {"proName": "NYSE:GS", "title": "GS"},
+    {"proName": "NYSE:MS", "title": "MS"}
+  ]
+}

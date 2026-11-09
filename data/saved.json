@@ -1,0 +1,13 @@
+{
+  "articles": [],
+  "tickers": [
+    {"symbol": "NYSE:JPM", "query": "JPMorgan Chase", "note": "", "added": "2026-11-08T00:00:00Z"},
+    {"symbol": "NYSE:GS", "query": "Goldman Sachs", "note": "", "added": "2026-11-08T00:00:00Z"},
+    {"symbol": "NYSE:MS", "query": "Morgan Stanley", "note": "", "added": "2026-11-08T00:00:00Z"},
+    {"symbol": "NYSE:RY", "query": "Royal Bank of Canada RBC", "note": "", "added": "2026-11-08T00:00:00Z"},
+    {"symbol": "NYSE:UBS", "query": "UBS Group", "note": "", "added": "2026-11-08T00:00:00Z"},
+    {"symbol": "NYSE:BAC", "query": "Bank of America", "note": "", "added": "2026-11-08T00:00:00Z"},
+    {"symbol": "NYSE:SCHW", "query": "Charles Schwab", "note": "", "added": "2026-11-08T00:00:00Z"}
+  ],
+  "updated": "2026-11-08T00:00:00Z"
+}

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Market Pulse</title>
+  <meta name="description" content="Daily, weekly, monthly and yearly market news with key indicators, a watchlist and saved articles.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="masthead">
+    <div class="wrap masthead-row">
+      <a class="brand" href="#day">Market Pulse</a>
+      <div class="masthead-tools">
+        <span id="status" class="status" aria-live="polite">Loading</span>
+        <span id="sync-state" class="sync-state"></span>
+        <button id="btn-refresh" class="btn btn-quiet" type="button">Update now</button>
+        <button id="btn-settings" class="btn btn-quiet" type="button">Settings</button>
+      </div>
+    </div>
+    <div id="tape" class="tape" aria-label="Live market prices"></div>
+    <nav class="wrap tabs" aria-label="Views">
+      <div class="tab-group">
+        <a href="#live" data-view="live">Live</a>
+        <a href="#day" data-view="day">Today</a>
+        <a href="#week" data-view="week">Week</a>
+        <a href="#month" data-view="month">Month</a>
+        <a href="#year" data-view="year">Year</a>
+      </div>
+      <div class="tab-group">
+        <a href="#desk" data-view="desk">My desk</a>
+        <a href="#recruit" data-view="recruit">Recruiting</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1"></main>
+
+  <footer class="wrap footer">
+    <p>Headlines come from publisher RSS feeds and Google News. Indicators come from Yahoo Finance and FRED. Both refresh about every 20 minutes. Live quotes, the ticker tape and the live headline stream are TradingView widgets.</p>
+  </footer>
+
+  <dialog id="settings" aria-labelledby="settings-title">
+    <form id="settings-form" method="dialog">
+      <h2 id="settings-title">Settings</h2>
+
+      <fieldset>
+        <legend>Sync with GitHub</legend>
+        <p class="help">Syncing saves your articles and watchlist to <code>data/saved.json</code> in your repo. That lets every device see them, and lets the updater fetch article titles, follow-up coverage and ticker news. The token stays in this browser only.</p>
+        <div class="field-row">
+          <label>Owner <input name="owner" autocomplete="off" spellcheck="false" placeholder="your-github-username"></label>
+          <label>Repository <input name="repo" autocomplete="off" spellcheck="false" placeholder="market-pulse"></label>
+          <label>Branch <input name="branch" autocomplete="off" spellcheck="false" placeholder="main"></label>
+        </div>
+        <label>Access token <input name="token" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></label>
+        <p class="help">Create a fine-grained token on GitHub (Settings, Developer settings, Personal access tokens, Fine-grained). Give it access to this one repository with <b>Contents: read and write</b> and <b>Actions: read and write</b>.</p>
+        <div class="row-actions">
+          <button class="btn" type="button" id="btn-sync-save">Save and test</button>
+          <button class="btn btn-quiet" type="button" id="btn-sync-clear">Disconnect</button>
+          <span id="sync-result" class="help" aria-live="polite"></span>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Backup</legend>
+        <div class="row-actions">
+          <button class="btn btn-quiet" type="button" id="btn-export">Export saved items</button>
+          <label class="btn btn-quiet file-btn">Import a backup <input type="file" id="import-file" accept="application/json"></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Appearance</legend>
+        <div class="row-actions radios">
+          <label><input type="radio" name="theme" value="system"> Match my device</label>
+          <label><input type="radio" name="theme" value="light"> Light</label>
+          <label><input type="radio" name="theme" value="dark"> Dark</label>
+        </div>
+      </fieldset>
+
+      <div class="dialog-foot">
+        <button class="btn" value="close">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
