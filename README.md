@@ -1,4 +1,4 @@
-# Market Pulse
+# Market Pulse https://annaw1010.github.io/Market.Log1010/#day
 
 A personal market news desk that runs free on GitHub. It ranks the top stories for the day, week, month and year, shows the key indicators for each period, writes a "walk me through the markets" brief, and keeps your saved articles and watchlist in sync across devices.
 
