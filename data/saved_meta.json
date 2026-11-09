@@ -1,1 +1,252 @@
-{"articles": {}, "tickers": {}}
+{
+ "articles": {},
+ "tickers": {
+  "NYSE:JPM": {
+   "news": [
+    {
+     "title": "JPMorgan Stock Slides on Epstein Probe Fears: Bitcoin Has No CEO to Drag Into the Scandal",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblE2eENzZ2lta3NMQXBId1J3bEdEeHl4bDUtcjF2TFA0bnR5ejFkRkpYbHVPcnZNOEpwLUZtRHp1VkVlZ0I1VHRGN1Vrb244N014WW9peHBiUW9HNnhxTEFsRDBFM1l6bkdjNy12RWdmUS0zc2hrd1NrVXpVSmpUUnNKb0JLSXpPWkl5TGlkcWV0Rmp2bkNaWVVkQnRUM1VwS0VuZWVmdmtzU2ZxamQ3bGRwUERpTXl5eEZPY3lGRDlmTXc0?oc=5",
+     "source": "CryptoRank",
+     "published": "2026-11-08T16:21:59Z"
+    },
+    {
+     "title": "Jamie Dimon says the bigger your job gets, ‘the less you know—literally.’ The CEOs too insecure to admit it are the ones who get into trouble",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSGxfd2NmNkdkQnNlWG9RSDZ2ZnYxZzFvZGEySzVMM1Z1THhMSmEteDlNNHFOZTF1bTMyVDVfYVRabmo5eFRJN1JqUDdqbGo2ZUZ5a2FfU0o3MEdJZFVFeV9ickc4RmVwQjJEQ01fVjdMUWo2RV9YU09BaTZBUzl2MDBsdUFTcGZubUlEOWZVUW9MTm1nZUxqOW1la25QRUJueXpZYXlQUmFndDF4UW1CYTlsY2RQdUYyNEp4WjN5SGxvWlo2OXJMWU9jbnJsWU4yRGw5bDVwdGdvbTdQa3BV?oc=5",
+     "source": "Fortune",
+     "published": "2026-11-08T14:23:00Z"
+    },
+    {
+     "title": "JPMorgan vs. Bank of America: Which Dividend Stock Is Better for Retirement?",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWUtMWtFNVJ0WlNRcTkzZ21Jc0pQaS1MTDhybWxlY3lGbXplbGJLUmo3UDJMU0VBc1h6YWozOFY5WGViWWR4TG5UYkFKcVR1RVl5Z2ZXSjFWNjBSUkVTRk9xeGpELUVHdUlnZ1VMYUNUeVIwMXpJX3M1S1V2RVgzMGdjdw?oc=5",
+     "source": "AOL.com",
+     "published": "2026-11-08T12:07:58Z"
+    },
+    {
+     "title": "JP Morgan Athlete Center of Excellence: athletes need a financial playbook now more than ever",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWROTTdsd0R3ZmNaWmVLVTd6VWNOWDRsQ3J2b3BBcUozV3haMlh6MzFXS2FDUU5aYklwMk4wNS1YdjZYeXZ0cVRpY1R2cmM4eTc5RTZlZ0RmbmgxNzZTVnl4LWtGZ3BOdmRwYnlQWFlub3ZJcVFfNFNIV1RVQk9JVGszbm5mMDlLY29jMmltTkgwVVE?oc=5",
+     "source": "Fortune",
+     "published": "2026-11-08T11:00:00Z"
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock Purchased by IPG Investment Advisors LLC",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0ZRMUZpeHZObDl2NjFYN29XMkZ6NXFwdVRlUVJNRmZ1SVM5YjdiYTljcms2NG5KeGdvOFVSMWZQNDR3YzI3dnY0TmFBTlFMN1hMSjd4QkUyR3h3cHU5R2JUREpjWHpJMFhNSFAxbExOOEUwMk5aX3BXbl9GWkVCVUtTSW96N0ZfM253SzlKaDM4ci1Ub2tmd1F5UTAxenM0cF95bXB6OWtxUFRtSElkUU1WanJfVFpRNmt1VGlPVlEwc2M5MWxtbA?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-08T10:15:47Z"
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock: Summit Wealth Group LLC Co. Boosts Stake",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGJiMWhTQTVnVjBFRHlkcU9pWTBxWVMyTGtHMkZJOU5KaW5sWEJQeDNSVElObmhTZzNlbVhiS0Y5SlBFRHlIWnE0WVRZVmNQLXk1S1Jsc29EMHBLMUJMOW0yNkY2YXJWaGhKaUNmVkhZLXlRYjUwamZ6aXBpXzVNOHVneUQ3Z3BwWHdFcVlDa0h0NHJXRUxZYk5RNDlsMFljRXNVTG1IVVowSVlrYmFXNDVvcVZUNmZJOWs1WkJlbmM2Y1ZaeFlv?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-08T10:15:44Z"
+    }
+   ],
+   "news_at": "2026-11-09T03:55:25Z"
+  },
+  "NYSE:GS": {
+   "news": [
+    {
+     "title": "Divi's Laboratories Q2 Review: Goldman Sachs, Jefferies, JPMorgan Raise Target Prices; Kotak Maintains Sell",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLW5ZUWFGem5WVmc2b3RmMFc1Y24weGdPWjgtaWYyZXJGVVNHdF9ocnQzV0tScGZETmxTaGpvVVF1TXhTMjlzZi1tcmlsNW5fZHl6ZHVYOXlhNzlRbHItQjh1SGY2NlNzMC1ubWV5emhzZzczcENFY2t6Z1hXQ3ZSR1BZaTVQSHIwbWVtQjkySHl0SXRpVWNyV2NucWstRVk1QWczRU45WXRIcTFsZFVBTHVtRjEzM2JOblYxME9EMGgxeW0xR2xIZnFOZGxBMndZT2JXS2hxUnRFWkxYbHpz0gHnAUFVX3lxTFBtdlRpV1NnX2RhMnpLTmdCSV9FU0psM0Z5UXEwN2wwMktXdUk2b0IxWFhEZERsVm9KV0F0TVI3YzF2QUJudFVJVWVhcTVBazZaUDFNVVRCWHNuQzZhcHBjMDlnZW9VYU0yMlpiUzIxOG5lRUxLUDV0SmJqeWlEbGtyN2o2aEZ4ampGcGx4S0JILU1fT2VYeHh3YV9lN0ZEQzY4ZTVvVk96MVJkWm80bnE3UGpCNzdLMGMzdVAtaE5rdUJNRHVrUGMxNnNHMS1uYjBuSGNOY2NvZnU0YXhERl9XVlc0Vko1dw?oc=5",
+     "source": "NDTV Profit",
+     "published": "2026-11-09T03:35:01Z"
+    },
+    {
+     "title": "Voltas Q2 Review: Goldman, Jefferies, UBS Split On Outlook As Margin Recovery Remains Key Concern",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXdKWEdBSm9VZ1VOanJYVzFzZ2lydXF5NThVQ3RUd3ZudnZmb1RjS051NXZqUE5pTG9fWk9sVDBEQmM4eDAxOGZ1akU1QXNDY09RNU9xbmtDeWVqWU9kdkFwbU5Dc1JKYy1IWDFNc2RqdzZ4WkVsUHROMzhBbGtGdGdCUWwya3dfQmlXVmJHbHgtU1h4RjhwMTZzOXk3dzJyNXcyQmYxUlZpcEZZODVsQlZKaDlPUkJsbTBiemE4WnVGUXNVenkxVUdhR0JPWXFwb3d1QdIB3AFBVV95cUxQcWhreFFxY19ON0VoazdNQzBRTmY3LVBSaldIRVc0M01rRDdUMlotWXMxN2hubk8zQUh1ZEZJMVd0NUFmNVBDZUxWZXBXTmplWFlUTTlIOG9DSEN6NjBBRnlMeHNDQU5fZ0xGbVFOY2Q3bHlvWC1ial9KS2haMy1qMTJxQ01wajJYTkRhOXZKUURWR1diLURnb2ZGNk5QVXVuTTN6eWIwVTF0WWNwX1hpc19uS0FCbml3RmJObWQ3Y0FYR1dIbWdWVmZrUTFUdC1ydVB5bWVpdjNDSXpK?oc=5",
+     "source": "NDTV Profit",
+     "published": "2026-11-09T03:01:37Z"
+    },
+    {
+     "title": "Tata Steel Q2 Review: Goldman Sachs Hikes Target; HSBC, Jefferies Remain Bullish After Earnings Beat",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQmVOUGhQNER4WHo5WkQxZk1ySzRiQXlUTGxhMVRxMTg4QjBJZVBsVndVcTk3SW9keWVNMFpGcHVFMHgwN0xBTkd1RlgtaDJoQU1NSHN2Z3lZN2xqamM5VVpIT3Y2WmNtU1RIZVBXc0N6NUEtWHhlVGJ5R05vU1VwRzhmalRINlY0RVRjUVUtTDVoS0plTms1a0lYbmxack9MeTJEbElSVXFUbjFiX2NVempuanZiOGxkb3JTSUVuZFNpN21aM3R5X3hKOFFMcllGeW9pWGllVS3SAeABQVVfeXFMT1lldEdFOHJMUXhpMkdIczJuZ3hpOVdpVTNUNlIwNjZfZGVqWjk5MlFrODBSVDJwRlYyMm5tb1RYRUM1VFo3cThWSE81aXluSV9uMGhERXlTNDB0UWt6eWsySlpLcVZENTFGTGdCVF9lZHgyVVdtV19EOU1CcnVDaDJaaUFhOFdobkptbUZVOUFOTlQxbkloTTBoOERuNHpXcFRfRTJGMXY4OGx1bVdDc0Q2T2JSSGYtb1lwRXNuQjl0ZWZDamFuc3NBWk5Gdk9sYXUta3p1QlVpbzBEWEVWa24?oc=5",
+     "source": "NDTV Profit",
+     "published": "2026-11-09T02:38:47Z"
+    },
+    {
+     "title": "Goldman Sachs Panic Index Breaches Extreme 9.5 Threshold; History Shows S&P 500 Averaged 4.6% Gain Over Following Three Months",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05Y1lmRXZqUU5VdHJtaC1PV1RVNkZHT2dRemZTZ2hZbDlzRGFpdk5ZV1pCelZBVlFJQ2xEV3d6TXdYYmxPX0VHUjJJc1ZRc1lQdFdVQ01vam9Dd1o4VndtZHBJMmlpaTBmV01fUXQyQUN1ZW9lbFE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-09T02:35:00Z"
+    },
+    {
+     "title": "Gold Is Up 4% Since Midterms: Here’s Where Markets Think The Precious Metal Prices Are Headed",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSmtkeFJRQ1M2QkFjT1YzZUdmMjV0eXp4ajVBb3dkU1JtNWRTS0NyS3pkTDFsOTBzalRRRk1LRGpGMk5KbkNkMTlCQm1zS0otaEJVUWM3TFlDcnFqWGVsYTJXdjg3dnpHTVVCSUJuSmJ0Q2s5eUZhcXNUd3Uzd1hmQjB0bVp6cUd6NWZRXzlTdnhIeGhha0xkOGRadUZlV1hFT0l6TnFnWU5JMGhKbW9pTmZ6OU9YQ0JabV9YVzBFOEkwdWFLeXJFSUtCT3lFWkV6LThxZC1vcTRreDA1Ujh1dlRWNDFzVWM?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-09T02:32:02Z"
+    },
+    {
+     "title": "U.S. stock market panic indicator approaches extreme levels! Goldman Sachs: Historical signals point to a medium-term rebound",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUxWWXRsNVM1d2Y4V3ZVU1R6NUVlZXFxSGwxQ2lCeW1SQjgzbk9MYXZyeUp5SE8yMXg5Z1hJT0ZsNk1MNXFZR0E0RHluZFBvcThfVEdKb2F5X29DQURfZldBUzVzYUlfalJlWmRXRHpHakllck1FYWFxUmRHMDdUaWNURDdIRW1zck9zTnluLXFndEc5VDg4U05sNnBnNlR4eklJWF9kZFNCU2xSU04xTDNuTHo?oc=5",
+     "source": "富途牛牛",
+     "published": "2026-11-09T00:56:26Z"
+    }
+   ],
+   "news_at": "2026-11-09T03:55:25Z"
+  },
+  "NYSE:MS": {
+   "news": [
+    {
+     "title": "SpaceX (SPCX.US) Under a $500 Billion Growth Vision: Morgan Stanley Bets on an AI Computing Boom, While \"The Big Short\" Warns of a Bubble",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREczM3hWN3ZOVVpiZ0hFV05pZlA4SUFrb21FT3BEYXpGZ0RWOXl6SkVCMmVXTUVVb0F4NVhUV2VuUWZjYlRrOVQydW01MkpRWEtHSy1EUGtJeFdkc1RVMUgtejJfQjl5SXJ1NGxkR1hMaFp2R00yVWF5VUFpczdUNThfMFRqQ29udlNnN1lVQlFSbWljcFhpeC01eWFNNmRidnVkQVVHM0FZZw?oc=5",
+     "source": "Moomoo",
+     "published": "2026-11-09T00:35:07Z"
+    },
+    {
+     "title": "Morgan Stanley (MS) Could Be 18% Undervalued Following Its New Bond Offering",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHNKNjQ0aGlWUWV6b1djaHFuNkZGWnczWmZlRkhwZGlpdmM1aDY5RmtjYkJidl9Wa09qQVBWdGxTWHdxeFJ6NnBNQ1JEREZtMk14My1tMDJUaXZxNjV5WWdPdk9oLVB3T2w3cVBxNm5paVhuV2Z2cEs1YmFUYXZrSGF6SDVXajRWWHd3eWZBWWdlWk9FUUE?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-08T23:14:04Z"
+    },
+    {
+     "title": "Weekly Recap: 2027 capacity largely filled and buybacks protect investors",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMzdROUZhaUdOZml5WnNVZnJkRkZnWmY5V2VCOW4wNDdCa2dabFQ4Slo4SERQSlFsYl9BREIyRVdQYjlOOVdjZDA0OUhqNmE5Qno4enVRUllIMkdzYnpXQnU4MHpUaTdzYWd4ekllWERfWEt5OFlvUkFEWkdBRmxrV0xiX0JlZC1la0dmZklPdVBqSlpSdUhZbVl4ald6T3JGS3ZSdTNaSUlCMVo4MlhKeGpDM0J0bHR4Y2NvTGpEZW8wMTBCRE13UWFpdkRFTmM?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-08T23:00:00Z"
+    },
+    {
+     "title": "OMV's Refining Bonanza Draws a Skeptical Eye as Morgan Stanley Cuts to Underweight",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdXVtbnY2aHdJVElidF9VQkxzaG5vb1FhZ0xtU2VYaHloMk90VTBqSWRZaGVmZnkyTE5rQ2YtYzVDT3l0UndqT0xjT3J6aEVHT1BTbXluQlNCbk1NejlWVnd3LXJQWUNnc1dvTnQtMzB4cjIwS2tKY1FTUVpoMTgxcUNsRVF3c19hQ1JsSUU1UnpKSnQtMnY0aUs4WklOWTR6bDRVQmE5cl9KNUR3OF9yZThaWVhXX2MxOFg5aWFQZUxVTW5HZmI2TG9KSVFMVDVROFNudmdTZERxTXFtTENKdWpGSFRnamVER1E?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-08T19:02:43Z"
+    },
+    {
+     "title": "OMV's Neptun Deep Timeline Meets a Refining Margin Boom and a Morgan Stanley Downgrade",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ0J0dk5aYmVIWHlENmpvbThmaU9OYVdjWFlQMHJ4NGZKSTBwaGpPb1RmaVpiTVJjSHpJaloweXJJT1J1czhoSXFBa1h2Zjh1OEVMMFJVVjF0QUtRNmpIbkplRlBHaXJ6NHJkbkt4bTFDZk1lYTRiZDZLMnpDZEZlYzhKX2JwdWt2V0hPcFd6MnJVOVVHYTg3SnV6dU9ydFMwcV9ucmxZTi1aREVVdGROdk9mOVFNbHhhR196dEt4Y0tUajE5c3VORjdZdXpMYW83elkzSUp3Y05oZDJITmlhVUFoeTBUemt2TS1waG42UQ?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-08T17:21:26Z"
+    },
+    {
+     "title": "OMV Raises Refining Guidance as Chemicals Division and Analyst Downgrade Cloud the Picture",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2gtUEVxV0hvX200VHl1S1hOcFlVTUltdV92R1hqUVdtcV9TYTlQR0ZXVG1vYnI0WnZ1bVNqQnFFSW5ocVRlMGVLVmN6MW83dTBwY1RfWDRRcVM3UUdEcFpjOEprRWhHQnVVWGVPa29kUXF2QkZYQi03MEZpYWN3aEIzM0RzellWdEhyUjZQV3c5bEFCVkdWZTdJdHFDUjV6bV9xWXRuYk9OWUtzaHA3ekNwV2E0bTkzVFVMbmlGLXhudUlSNTJZcXNqenNmTExtSU1WRUx1cHphXzdvWk9KRHo2WkhjNWJLUXdXNU8wS1N2SThs?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-08T17:11:35Z"
+    }
+   ],
+   "news_at": "2026-11-09T03:55:25Z"
+  },
+  "NYSE:RY": {
+   "news": [
+    {
+     "title": "Form 4 Apollo Global Management LLC For: 8 November By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVlUNklMUHVxY1JoOFFZSHVFMzAyQ1hJLW5Md3VXLXcwaGZRcXllVmlacUJZdUNOM3FzdHZvMlJ3Q1RxUGpUNk9vMU92cVYwcXQ3dU12M3VtWUNoNHBZeHZMSmFvUXpkLWM2UjNfVGVYTGJReXV0X2lPMi05VWcyVjdWWDJXcHVxT2ttbkRkWGpKUDBhMjZucVpES01XczZtWEVMdUFNRlNqbkJERWtycA?oc=5",
+     "source": "Investing.com India",
+     "published": "2026-11-08T23:23:03Z"
+    },
+    {
+     "title": "Candriam S.C.A. Sells 35,483 Shares of Royal Bank Of Canada $RY",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdk5hZDhLRzBLblBXN1BNSHZYNERKLXJIckVxbUxEQ2JHRS1aMDBGWGp1Q3Z3TXVieG5zUkswNXZhOXB2NkpzR2lzZTVpOWJZSGdLVDRwZjJVNVJLb1lvN2Fhc2lUbmoyOURHazh4cnFqNGN6NkZYaHdWdXN6OWtiZXlqbk04UlFnUXUwMVdvdjhKOTFLT0tNaWU2TDlWb2t2aUMtaV9pZnhuYkg4MExxNTgzVUV1ZUlGRHln?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-08T09:35:21Z"
+    },
+    {
+     "title": "Royal Bank Of Canada (NYSE:RY) Share Price Breaks Below Fifty Day Moving Average - Here's Why",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU1VFRjBLR3BIZmhISThPSEJUeV83UUFsZzRhMS1ZX04xY1F1TnF2enV2aDFzS3dLZnZyYXlXVTdPdERrd3Yta3JCQmd1cHBwZlNVNWxrbm5rQ1JBTmxldzl6T083YUVfQlN3SW5HTTI3SGJiQnFwRTFpRWRVSGEwWWRyRkV6YXhtQ2hxYU95bWxydHhMMWdhS3UybU5uR2ZnSWlIaTBrQ1JMOWZ4a21RcElCeWpjUGFHOXpDZ1J0Z3g0U1E0WVpzUWFqVFpkSG1tSzZDLUZEb2FWVjNCcS1PVU5R?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-07T13:55:48Z"
+    },
+    {
+     "title": "Royal Bank of Canada stock: RBC upgrades cash-back card rewards",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWxiYTNKejlwWk8xMG1LejVDRlM1Y2duX21NcUFJc0NxbS1aSEg4OTFRM1czX1l1eGI1NVlCYVVsYXNPendtMC1pYm9GSDhVWjZudHMwbWhlU2hsZFZWdHhYZTFUbURITEZmWXJLZE03QmxIZmh1djE1TXJyVkRwN0JxOFBsVm1kMGNoMGpaNFU4SndwdFhVaWZ4TUxNdFhVVllWVVY2WlNBSUszR0tKWU5ESnpac3pQVVV3Sjl3RTJOenc?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-07T10:34:48Z"
+    },
+    {
+     "title": "Canada’s Biggest Banks Block Personal AI Agents",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zbjRnZkRUUjBQaEJ1QUd5dEhhaEdxRV9rd2NQVTZlUS12SE5lQ00tMUNLWjBFd25sbnlpRnRQVGw5WGxNUmVubjRIejZiQ3R4TmRVOUEtNFloYWRoTnJqX1NtM1drNFo0NzN5aHpKR2I5OE1CYVJ6TjAtNWQ?oc=5",
+     "source": "News Ghana",
+     "published": "2026-11-07T10:11:25Z"
+    },
+    {
+     "title": "Royal Bank of Canada Issues $2 Billion in Senior Notes",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWdNMThPWjZCUjFScFhLYUN0UWJFamlzekRLUm5qRFpNVnM2MnlMd3NCbTFFWl9SM2VDdDZLeUdmbUh0TW15VlZFOWZHd0Y1cVg1eVZPZ3hhcURSaVg5ZThkREZEOVljRDRYelBJZ1BzSFhTX0ZYOVJ5R2s1RUEzSVNUclhjWkREcXhWNEtzRC03a2stQ1ZPY2dLc1MwSXRoMmdfaGZUdFVNUlg1RWhCdWh5X0ZUZmRPLW9LeHoyT0xsUkJxaGJWdGZYdmtYeVFLMV9DNw?oc=5",
+     "source": "The Globe and Mail",
+     "published": "2026-11-06T23:59:15Z"
+    }
+   ],
+   "news_at": "2026-11-09T03:55:25Z"
+  },
+  "NYSE:UBS": {
+   "news": [
+    {
+     "title": "Voltas Q2 Review: Goldman, Jefferies, UBS Split On Outlook As Margin Recovery Remains Key Concern",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXdKWEdBSm9VZ1VOanJYVzFzZ2lydXF5NThVQ3RUd3ZudnZmb1RjS051NXZqUE5pTG9fWk9sVDBEQmM4eDAxOGZ1akU1QXNDY09RNU9xbmtDeWVqWU9kdkFwbU5Dc1JKYy1IWDFNc2RqdzZ4WkVsUHROMzhBbGtGdGdCUWwya3dfQmlXVmJHbHgtU1h4RjhwMTZzOXk3dzJyNXcyQmYxUlZpcEZZODVsQlZKaDlPUkJsbTBiemE4WnVGUXNVenkxVUdhR0JPWXFwb3d1QdIB3AFBVV95cUxQcWhreFFxY19ON0VoazdNQzBRTmY3LVBSaldIRVc0M01rRDdUMlotWXMxN2hubk8zQUh1ZEZJMVd0NUFmNVBDZUxWZXBXTmplWFlUTTlIOG9DSEN6NjBBRnlMeHNDQU5fZ0xGbVFOY2Q3bHlvWC1ial9KS2haMy1qMTJxQ01wajJYTkRhOXZKUURWR1diLURnb2ZGNk5QVXVuTTN6eWIwVTF0WWNwX1hpc19uS0FCbml3RmJObWQ3Y0FYR1dIbWdWVmZrUTFUdC1ydVB5bWVpdjNDSXpK?oc=5",
+     "source": "NDTV Profit",
+     "published": "2026-11-09T03:01:37Z"
+    },
+    {
+     "title": "UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWFURUFoZ2xIajEwdEMwX0ZhNXVGbHBPak53MDdfdV9panVLbElLTno1T2xUVGxWWVlOM1Q1aENZbnZPTWFOMXFseUtFNmI2cmJNXzhGb0h5QmFfWkZQUXA5YjZ0d2lwbUtEd3VDRnhnY0VkaHhCRUpUWWp0UGtkNWhBSDNicHVHVUhpUmtfV0ZaQVhjNUt0OGJUcjlpb3gzMUJFbFEzZHAzaHc3ZEpXamNhcXR4M29zdm94d2VtNGhDTC1mWkdnRVRZUHJLQQ?oc=5",
+     "source": "CNA",
+     "published": "2026-11-09T02:43:20Z"
+    },
+    {
+     "title": "Watch UBS CEO: Midterms Creating Uncertainty for AI Buildout",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzZaUG1VNmp4Zkx0ZVZzNjcwbFJyZW5TSS0tUV9jQzFsbVVZZEFZcFE0QWVxX2tLOUY3M3ltbzNqQURxQURWcm1qQk1fUF9mbmt3cE12azdzX2FKZnN1aHV6T1llR3BuUkdtN0RDVEI4ZTQxX1dMbm5VUkVjM2tuMTdQbzVnd2FnTzVQMy1GQUVmLU03UzRjWW5ienZWNmxocG5SNU1wdmZzTVI0?oc=5",
+     "source": "Bloomberg",
+     "published": "2026-11-09T02:33:17Z"
+    },
+    {
+     "title": "UBS CEO Flags US Midterm Election Impact on AI, UBS (UBS) Divide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1hEcU43ODFJOVNkOGUxU003U0ZZek8yQkZETFZ0UW9Xd0lpTXFGekF5YzhMZ090dHBwbWFrTzd2aWRkUHI4NzdoRktTdGNmVkVRRkVjWGtUSHNjYkhUZV9yTkktMkdBeTZQdG8yeGlWS0hZdTJhdURjaWdDaXBEQS03cGlER1NTajh2TTBGT0tRenY3MUV2cVhXcE5yT1pKM2xERk8wS2VCSEJnQUhrTVJxU1c5a1E4U290XzVUODZsNmZZ?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-11-09T02:23:25Z"
+    },
+    {
+     "title": "UBS CEO Ermotti says midterms create uncertainty for AI buildout",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJLTg1amFaLXdqdHR6eUxrNDQ4amZ1WDN6NUhjWm9KWW9ud0IyQU5HTDdXdmRzMVRrZ2FtbUFtLVVaV0xiQlBRYWwxSmZ1TG5I?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-09T02:21:43Z"
+    },
+    {
+     "title": "UBS Downgrades Seres Group to Sell, Adjusts Price Target to 37 Yuan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUNSUHJYcDExaUZtUFFOaGVudDk5VDZ3UHFrNUotYkFBc3Vib1o0X1FfZ0FlVmpma0NUdFU5SFZaNzNDOUlSR29mYk13aXRnQnlCQVJ6ZmxDQkVGeHhVc3h1ZG5QZGhNaUxVcVg2YTRZNWdySzBPbnk5UGstbDB5RWJTWk1OdGN3S1B2U0dwYWN2YU91dXhqaHcxeDhwYThPRW5pbjR5QnQ4X1k2a1BFbHM3RmdiQmljY29Z?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-11-09T01:15:12Z"
+    }
+   ],
+   "news_at": "2026-11-09T03:55:25Z"
+  },
+  "NYSE:BAC": {
+   "news": [
+    {
+     "title": "Chip Stocks Shed 38% in Four Months as BofA Sees 'Indiscriminate Selling' Bottoming Out in Early 2027",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kX3YxX291eWh2MGdFR1ZkT3pEdGVLN0RCdFBTUHRjdmpfYS1GM0dtRVhWQUptSmxjeVhCa3lFeTZGdEJUdFNLRzJEXzU2OWlTV3dYQlhzS1N2N3pkYkZEUmtlQ1FpTVlXWlFiMjE4V2lKQXV4dWc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-09T03:35:00Z"
+    },
+    {
+     "title": "Keeler: Broncos, Sean Payton have won NFL-record 16 1-score games. How? The Key is in the details.",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1udzlJY2JDX3VrVmJQVk9HYmxZelVNR3hSNDBXVlVmYjJwZUpnNVhaQVdvUGRwVXNJRmtPVFJWREotVFdndi1lRkJfeGdVOTMwTUFyN0pJRUphbDVvNVdwQ19kdzBHLWlfX1NybFRTR3BPRmYtRENMTmFJdlM?oc=5",
+     "source": "The Denver Post",
+     "published": "2026-11-09T01:01:54Z"
+    },
+    {
+     "title": "Bank relationship may unlock GHA Titanium status",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEdJZ1FIaGdJRFFRem5UcVJKVEtGN3Z0azVoR3E2NkNKM21qdzcweG5QU1E1RjBtSzF3OGtpYkRFMTcwNkFidlE2RE11OFFFcm02WlFRRGJCTFIzOWMwTVMwWkhQMkpyNVBHSm5tUnFPZ29YM2NYNUxzNWFKbTBkMVFMemt3eVp4V1BF?oc=5",
+     "source": "InsideFlyer",
+     "published": "2026-11-08T22:04:02Z"
+    },
+    {
+     "title": "Free GHA Titanium Hotel Status For Bank Of America’s $100,000 Rewards Tier",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUJsb0YtbEpkT1hudzlnb0txR1RkdUp1TFUxN1ExU0N3UXp2NEM3UjF0OHRrWDNpU2JqTVdmc2lJeEU4bFpLSGhHWUxZSDk5ZjRlVjNpMU9vUWROZnBPV3E2YktpTGN6LWI2M1JPTG1jMFEyWlMtWFp5V2lINzE1STVZVllXQVVKUXhKTGlsQTZsSEc4emtMc3lWOUhGSGpWUVE?oc=5",
+     "source": "View from the Wing",
+     "published": "2026-11-08T22:04:02Z"
+    },
+    {
+     "title": "Broncos vs. Panthers game gallery: Photos from Denver's Week 9 game at Carolina",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTJVODZSWi1EUjEzQjVMdU9aSklxOE9XZUx3eFBDcE54LU1peGVJdUNUakFheVZKRERJUHotcE1HOVNzSjNpd1pnRGE2aVVSQ3lBNzdidVpmeEt4UXplZTNxWlBHVWE4Z2N2eHlHenM0Vm5lRjRhWTI2aEMteUlaQVFxcjNzLUJyNm51Ynpmd3p3R2YxQ3pVYVdRWUFjbXY2T0xHOHUxbnUzVmNSZEY3ZzBvZHg?oc=5",
+     "source": "Denver Broncos",
+     "published": "2026-11-08T19:40:39Z"
+    },
+    {
+     "title": "America’s favorite Christmas markets revealed, and one in NYC wins by a mile",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3Rob1VCeE9TRFJ2dGRNUkxJUEM4N29QWkZMd0tMd1NjSS1VaVh0ck11UTNQeGJ1ekkxZXlsb2w4UUhYRVJrdllmcXZtdFZkNnpuS2t3MUFzN3VxSUJfMEJGWm9ydWItQkVIQVNwWERIWnVSTVA5Ui1nV1BvWm9ETjVMU0liaE4tbzJwamVlRnVnRHpMVWhNV25iX3JaOW5LUC1ReWM5SzRlM2pST0RkMUFhc0JwclBI?oc=5",
+     "source": "New York Post",
+     "published": "2026-11-08T18:03:00Z"
+    }
+   ],
+   "news_at": "2026-11-09T03:55:25Z"
+  },
+  "NYSE:SCHW": {}
+ }
+}
