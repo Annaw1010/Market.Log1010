@@ -250,6 +250,18 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean?",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjd1QmJMQVlTc3kyeFBtbzVjZmJlNzF1clNYa2xIWDdaQ2U2VmhhTndndUZkS2ZlYUNWVXRzZUhPeldhR3VOQU5mWld1STUwNS1mMmRYaFdXOHZhcXBVcnlxMlJ5bEk5UVNmcE5sRzhMN0xKM0lNbXdEOEpIWjUxUEVEVWlDak5JcDM5Rll0dkZCMzNuT0hEc3RocWNVOTFVbURmZGVWQUdnVkVwUDJsaFdSTVIwTmdaWWtYMldyWFUxMVlfSlBJb2p2V1VfSHhYSzZWaTY0YXFDTGNGUXc?oc=5",
+     "source": "Simply Wall St",
+     "published": "2026-11-11T20:18:24Z"
+    },
+    {
+     "title": "2026 Charles Schwab Cup Championship: Stewart Cink and Zach Johnson battle for title",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjaVZEVGdvc21mVngyV3dHNk9DanhLbFhxbGVhS2lKRE1lMHN5Z2swazJ4UjNJTERINGhOR3pONVFfRjZaN2UtRVhyalZlaXp0Y3otWnhjQnFzcnJKaTJoeWs2aGR2QXJ4M1ZaNnBhalVOQmhiN2VpTmVZSnJvYVE?oc=5",
+     "source": "Cronkite News",
+     "published": "2026-11-11T20:00:57Z"
+    },
+    {
      "title": "What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink?",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2p3WG9NSmZCbDZZUzZDaFh4RE9QeEg4YVZBTUFmbHpxWUZVTWdUR24tX1NaWEVBYVVUMWJiZ1NSWVhJUVNTN2Y5ZEZvbjM5Y3hoczdZLWpmdGJ3UFE5WXZXcU8zcTMwVmM5MVl4Xy1xQmMzNXRwOXFmTm9nOTQxZ1JreEVjMFhMWWItYmdZcEV2R1FsZlI4ZnB1RDdELWd0RWpB?oc=5",
      "source": "Yahoo Finance",
@@ -272,21 +284,9 @@
      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOemo5U2ZRVnJxUXB1TU43TkRuRjhBTjZsMEU1Q2lVdVRYdUxyV3I3OURCSVpHUjJTYkNVWHRMV2w3bUtud0JjaWJ0Nk4wWVVCUXZfNjZ6NjlzYUhZdTJvYl9aaXkyVXVpYW56b1BkcDVnZlpudjJPTm44Z0xWY3haRENoTU42blpCZ2VzQjRzMnVpWHRYc0pGVHhWX25lY3ZSLVBpaThrZGViQ3o3U0pBWWRid3Nrb1NyX0g2eDMwSTVNdU16QnFjTE9wd1R5b0VITy1YNFZSVXFuUGNxNDhfSkVmbHl0SlRwVUJ1OVVlOVFIakk5RDNDRlA2REJmblhEb2NqLVNURkNZZUQ2REVhMDVxUmdmWTAyNnVz?oc=5",
      "source": "12News",
      "published": "2026-11-11T14:29:00Z"
-    },
-    {
-     "title": "Sponsored: Check Out The Oasis: Home of the Dollar Birdie Beers at The Schwab Cup",
-     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTFhWWTNMdHRzaVBsUGRyZ19LSzdZWmR2WFVxSXdWZVhSaktHeHdwSVltVUxwcHBsckEzeXA3Qkcxdk9LTWdjaElUZTdUZVRiSHdFNndldm9PMFdnTGQzVlllV3BUbEdvTW1XWFV2TW5BRHJkNVNXYldvekJLLXl6T3R6VnV5Y2pvMVNYemRUeFFZWGdnaTBaNlhKYkpSejMwU25uLWhZSndST0htaDZ1YlluOGdINy1fOXJmNUdkWGNYNnRRWVNodEQ2VVNpQnNUWmpOdFVEYlBCWXRqRVdPek8ydWJmNzVLRU9nOTAwZVo1REwwTEhwa2IzTkZ0NkNJMGFIV3h0eUpJR1JvX0h5U0s1NE5xWW9YenlhVFJCcmxNWDg?oc=5",
-     "source": "12News",
-     "published": "2026-11-11T14:20:00Z"
-    },
-    {
-     "title": "Sponsored: The Charles Schwab Cup Championship Returns to The Phoenix Country Club",
-     "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPQm9aMW9ZU0RUY2FrQXQ4SmZUa2k3TmlOc2lfZnZPVFd1NXkySDhwNkVYSUlwdjBDZnVzUjd0NTlrYXNFZXBKSlpZQVNibHJuUThZcDhyX1ZORUdyclkwUnlZSW5aMldwdEhmN1pXdm45N3Q2MmNRTzhhRTRhY3Y3RnFDQkhBYUcwSFRlUFFBSEM2bWZJNUNOWjVTME95Z0VZcXQwczZub3IyVU5qMUd3bWcwZVRVNWlaSnVVX3Z4cDBBN3ljRzBrcTk4aEJKb3NxZTBnRFVsbnE2eFppUGpFdS1kdWpnMm1zNHZsaDU5UmUxWVZWQ3VUNVNsVFdxWVotNjNZa3lCcHNkRG9qVldnWWlRcUVnaHE3bllhUzExbDQwRUdFSnc?oc=5",
-     "source": "12News",
-     "published": "2026-11-11T14:17:00Z"
     }
    ],
-   "news_at": "2026-11-11T16:40:38Z"
+   "news_at": "2026-11-11T21:14:58Z"
   }
  }
 }
