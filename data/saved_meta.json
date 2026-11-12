@@ -250,6 +250,12 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "Schwab introduces its own MCP server through Claude, plots expansion to other LLMs",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGRwNW9NcC05WW9xV3ZKQ252SUVfVExJQVpPZWxxRklmYW8wdzhranNUVDBNeVM4UF9IaUM1R1FpSFc2RGo4N2F5TktxMzdsczJtUjB4RWFuREE1b3NNVFNEb2c2T1ZWd2I1Qmp6S0NBYUZfblpXUjVZaWxWNmhnRk5CRGotSkp5cGFQTGdTVThEc3BzTFlYaWNRT2tQZEdkbldZeVBGdHhQeVhVSHJRX25uQkFtdnpLamZKQw?oc=5",
+     "source": "Citywire",
+     "published": "2026-11-12T15:47:42Z"
+    },
+    {
      "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUVBMGExdXVmNTNycTJ0bGc5bDNLMmRDMndOX21SNk1VdVlkcGlmTkFZUkdaNW5nTDhncDcwVl8zc2EzcmpmN1Q1T0d3YnBNSHFIN0RtM3lPMW9heXp2M191Z0JxOTRVNWdjdWpZQUJTZzVYQTFLT1E0RkFYSzdLaG9jZGE5UkxUSEFLeHJqaDl4V2tqWFM0MnY5eW1QNENhX0w3Z2EzT3k3X3NVV0h3TmpzeXV6SlgzUzI2SXQydkE?oc=5",
      "source": "marketscreener.com",
@@ -265,7 +271,7 @@
      "title": "Charles Schwab introduces its own MCP server",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY29nRXVNZ3U2VVgteERlc09wcVg2aHp6Z0lOQ2Q1d28yTXpOVFh2bTlrUG54WjN3ODZ0T1ZQQS1nUDVnNC1tbC1WTVlRbVRodW5UcDFSZDVzQ0FpczBTZ1FieWtfM0Vub2oxeTBxR0pUaWZ0ODJWOFNwWUQ5MzItbGJqcWI0TEJ5RWZFRkNpTkNVQ2lEY3M1UQ?oc=5",
      "source": "FX News Group",
-     "published": "2026-11-12T13:51:51Z"
+     "published": "2026-11-12T13:51:38Z"
     },
     {
      "title": "Charles Schwab launches AI tools, extends options trading hours",
@@ -278,15 +284,9 @@
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2hDVThJaDN4N2lMMk1IdmMyYjMwMHppbm10cDJ4N212TFZWYzBNcVBhbWpFQVpENXl6YTQwSE1FQ1F4TUxCX21HTzQtaTFtdmpTVElBOHhuRXRIR194SS1YRkZyOUVHQ21hS3ctSHM4QkxhSmZmbEgtaUZWaWdoXzBOWWQtdmdTY0ZjYkRwclM5NGZYalVtSjlJbWhaVUJ4aTFjSkM0TmRlemtfbTJraDNhZlNyNjZKSGlYdUZWd2tKdw?oc=5",
      "source": "StreetInsider",
      "published": "2026-11-12T13:34:44Z"
-    },
-    {
-     "title": "Form 424B5 Charles Schwab Corp For: 12 November By Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbC0xUzRmNlBrcU5ZSmsxS3ZDVDJVZjlGeGhobVl1Nld3MzVBc01hSGFxTEsyX2hfbG5wc0R6Ync0UFlRdllCRko2cU5jZjhyeTZrcDBXT2cwWjVCdkZqZlhCclBFdXp6S2JBQkRSOER1QVhLQjQ1Ym5mc0lDbm5hdUNlb3otR1NWTl9BMndwTjF0a1hBM21kZDNBOEQwNkZUemo2V0xSZ09ZV0k?oc=5",
-     "source": "Investing.com UK",
-     "published": "2026-11-12T12:02:00Z"
     }
    ],
-   "news_at": "2026-11-12T14:58:30Z"
+   "news_at": "2026-11-12T17:59:59Z"
   }
  }
 }
