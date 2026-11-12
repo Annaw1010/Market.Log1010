@@ -250,10 +250,16 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "What to expect from Charles Schwab Cup Championship",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORTNtbmF6cDZoVWx1YTM5cm5WZC1McnRWZFpQd1Z3d3I1TWpMRWV1XzRHQlhsbjAtWllBZlpFRkg0ZDJGLVp3Q1o5aGVqc2liQjlCalRnUVYyR3V6TEp3enN0S1dDUnRLNUtmQncxMEhoWXhSZ0hfOEZQN3dCd2E1WEV0bjNUSnB2Q1ZhMkpMVnRYSkVqMDZYcnlDOW9mMXZoNE1WUFYza2xUQy0tRXFuY2NoZWF0bmZnV3lUSENSaDZYby1KX2Y4SHpKQ3hBWUhnM2FiTVJR?oc=5",
+     "source": "12News",
+     "published": "2026-11-12T20:40:00Z"
+    },
+    {
      "title": "Schwab introduces its own MCP server through Claude, plots expansion to other LLMs",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGRwNW9NcC05WW9xV3ZKQ252SUVfVExJQVpPZWxxRklmYW8wdzhranNUVDBNeVM4UF9IaUM1R1FpSFc2RGo4N2F5TktxMzdsczJtUjB4RWFuREE1b3NNVFNEb2c2T1ZWd2I1Qmp6S0NBYUZfblpXUjVZaWxWNmhnRk5CRGotSkp5cGFQTGdTVThEc3BzTFlYaWNRT2tQZEdkbldZeVBGdHhQeVhVSHJRX25uQkFtdnpLamZKQw?oc=5",
      "source": "Citywire",
-     "published": "2026-11-12T15:47:42Z"
+     "published": "2026-11-12T16:51:06Z"
     },
     {
      "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
@@ -278,15 +284,9 @@
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlFPX2V6LUExWWFFb0Q1MmdNajhmeHNXc1NuRE82elVCWDlUZ0NGNUFkMjdfVnBURUMxb0lzUkljb1VsT0UyWWpVbXZoTS1mckNQcjdocVFUVmIxbVJQY0o4ODUtU0N3WVQ1d1NTZDZOZlRSX21Mb2dVMzhkR1dJeHNTMTk0endhenJTTkRUOTVDeTBLNG9GWngtcUVaSkFoUjdHWGpqd2JCMkQ0cXFibnRWcnlMZFhoZTNR?oc=5",
      "source": "Investing.com",
      "published": "2026-11-12T13:40:06Z"
-    },
-    {
-     "title": "Charles Schwab adds MCP server and extended options trading hours",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2hDVThJaDN4N2lMMk1IdmMyYjMwMHppbm10cDJ4N212TFZWYzBNcVBhbWpFQVpENXl6YTQwSE1FQ1F4TUxCX21HTzQtaTFtdmpTVElBOHhuRXRIR194SS1YRkZyOUVHQ21hS3ctSHM4QkxhSmZmbEgtaUZWaWdoXzBOWWQtdmdTY0ZjYkRwclM5NGZYalVtSjlJbWhaVUJ4aTFjSkM0TmRlemtfbTJraDNhZlNyNjZKSGlYdUZWd2tKdw?oc=5",
-     "source": "StreetInsider",
-     "published": "2026-11-12T13:34:44Z"
     }
    ],
-   "news_at": "2026-11-12T17:59:59Z"
+   "news_at": "2026-11-12T20:53:57Z"
   }
  }
 }
