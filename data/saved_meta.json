@@ -4,6 +4,12 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "The president of JPMorgan Asset Management, which manages funds worth 6,000 trillion won, emphasized..",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IdVZ2ZzZtc0VYN01waVpmNXhsZkl2Zkkwd050bE8wTi01NklQNEh2MkgwMXo0RTFSaW5DLVQzMldpWGJFS3ZZaUgtUmlKTUE?oc=5",
+     "source": "매일경제",
+     "published": "2026-11-13T04:31:03Z"
+    },
+    {
      "title": "JPMorgan blocks AI agent purchases as virtual c...",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3NrdXg4VkFZZ2Z5MlR0X29JcWVMUVk3ODZkTExVajlKa3N2MldXb21TSEtvS1luZU9aZkFBTjNzV1VHd2lCY2hPXzU5UzM2N0FURGI2R1RSOWJSeDNjNkI5bkRpbzczTUtUaXFqbWVoQ1ZLbWVFZHkwLXhLYjlEc3Fib0QyQTc0V05BMGdBQi1TU0ZydGZZRVAtUF9XZlF3SktodGViR2U?oc=5",
      "source": "Pluang",
@@ -32,18 +38,36 @@
      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTFhnSVNFYXNMcG5xeGtrM1hyVkxvdWt4OHJQOFpOVnFsejF1TVVhQkdBYmlVNU1kVXZYaldqUHBhZFBOdTJ0RjJFeU5SSGVQeFp0UjZZcDQ3eXlRUWVlVkoxYUJmYjhEU2lWSnExX2E4X2FnWXBtckVncFFDLWRHTUk0ajZvdlI3d0xKMkYxQzdMTHozNXBCUmlBaDJZZk1jS0l3Wi1ZcWRad0JJNnplbkMzaTd0UENNZ2pLaDFkRzVCZ254bGQtYUozLUZSWG4wR29kc21DT2ZyMXNQWXZPVVhGZTdOMVNOUUlEdGZoQVRPU3VaUU40azNzUDhzRENKd1A3WjQ1T3hYWFlpbzJibA?oc=5",
      "source": "TradingView",
      "published": "2026-11-12T22:45:47Z"
-    },
-    {
-     "title": "JPMorgan’s Rivian Stake Hits Record as Tesla Holding Drops to 2024 Low",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdnkzVzhFcVdkbFQ1TEZVVUF4bl9hTHpKYTdzYTQ5RnVWSXNzT1ZmQURZZlljZkFBZUlDeVZ5RV9TQzlCbEdiUWQxMHllS3FBdUJSM05BUUxMU1VPLXhTRTVXeVN4dzg4RWFLeTlSVVlZdzdHRU1WdUVlOFNpdU43RTNXdnBnNnp5WExITU8xUkIzaG5mTmgxSlZCZF83UEljeHdseHFxNS1LZw?oc=5",
-     "source": "Electric Vehicles",
-     "published": "2026-11-12T22:40:00Z"
     }
    ],
-   "news_at": "2026-11-13T03:16:27Z"
+   "news_at": "2026-11-13T05:29:54Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Goldman Sachs flags risks to $15,400/t copper price forecast for 2027",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHhuN09RUHhIQ0ZESEFiUnAydy00VFFFRVV0M1NycThKQ05Gcjh6ZFlOSVI3dENuZE5LNVYwcEx3ai12OXp0dzkxSUJDeWhwd2QwdjZSLU03VEdVcjB3S3lSU1RQRWpPUGdndk1nWWh6QTZ0NmxoZGtuVVh1SGdKRFVNTUNPVHp1ck0tLVFNQzFTMEloNDVZeUtQbzBIVTdzZ1JNQk55eGRHTHJKVWp3aVBoSVN2VEE4NG5BSnZn?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-11-13T04:41:17Z"
+    },
+    {
+     "title": "Goldman Sees A Lower Ceiling For Copper After The Midterms",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWlfaUlNVDBUVjRHMVdDVEpCdUYta0lrOHNoMWhRRGlkSnE2MHBSNml4SGsyVm5pR09UYm1zeHZfc09jSWZtUFlZZi1yMXZISm9NWDVxU2w3Y0lHNy1qaFZpN0I3RmVOTjFjWTd6WWUtd1V4Tjd6T1ZlMEdtTVdLSF9OMWlyZ09TRjFMY2ZsazE?oc=5",
+     "source": "Finimize",
+     "published": "2026-11-13T03:50:28Z"
+    },
+    {
+     "title": "Exus Renewables North America Secures $345MM Financing Led by Goldman Sachs Alternatives",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGJ6RUZ6bktWeHo3SGlTbzQtMjFvTHE0WDlaR0EtdU9DOGVYSFpfNC11LTlKWVVnbzBSYmVvVVcycTE4Zk5iUTcxaWp3R0k1VWJtRTcxN0VQWERhbmdjNkNTYVh2Y3dqMWw4d0ZJNlFCM0Y2VjR3TXFtNnNpaG51eHJWeFVZR3A5UE9KazdSaG9sUnNtd01wNEVvMWpCY1YzdDBHZmpDSzVTV3VNRGk4a1ZQbWlNQQ?oc=5",
+     "source": "ABF Journal",
+     "published": "2026-11-13T03:46:19Z"
+    },
+    {
+     "title": "2026 Global Alternatives Survey: The LP View",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTHU2T1l2X0swVWtoa2RvZDFMLXpfdEh2ZkFKVDRJRXhoRE1MdjBuQjZGQ0R0cEcycWZVaHNQTUFhR1gtUGZ6T0tGaGlQRjBhZVNRSVR4cTk3YVUxM1Z4LWtoZ1RkOFFVT2RVdXFNbi1LSUVlZnAwb3dlcmNLNUFLd19ncHJhaGFucVE?oc=5",
+     "source": "Goldman Sachs Asset Management",
+     "published": "2026-11-13T02:28:16Z"
+    },
     {
      "title": "Following NVIDIA's (NVDA.US) 32% plunge, Goldman Sachs cited Apple's historical precedent, while Fundstrat strongly advocated a \"buy the dip\" strategy.",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3JYOEtCckJ0NU9QYzdXaWRCRzNqblJfYWE4Y3hLV3l4d1I1SDBfVGFEUmhIa3FfWmZZVDNjalk2WGdJemdSdEM0SVphVFB4V1ZxQlJ1WGZvWUhfckpsbF9TZ1BCSl9CQ1JOdGhjeE5MZERQQWItMVVEc2ZpS2c2ZmxqaEJna1hodEdLVW8yZnJfOFpaRVk0VzFBY3FScmNmekN2S2ZVRzM?oc=5",
@@ -55,36 +79,18 @@
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2ZfT0lDaTdIRUlDN3NRNEc1b1Z5RE5yaVZoaEsxOG1nZFVSMmVWXzlTMUVXNmIyaVdlLXMxcG5oN3ZCTDRRZzFSakxnNHh4aWRjczhOby1tNUF4WndqRFBiSnBnQVlPSE5Cc0RhOXQ5dmdhNnZrZ1I2amhfN2g0ZVZ1djVWUThFdlJJ?oc=5",
      "source": "The Dark Side Of The Boom",
      "published": "2026-11-13T01:01:46Z"
-    },
-    {
-     "title": "Goldman Sachs : Third Quarter 2026 Pillar 3 Disclosures",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUx5YlZCNnc2bkxPMjI4bWtLR2h2bW5wUzNnZEpuR2Q5R0xpSlFwR3M1bnRfemlyWmRmS2JjY2xJZXJWRmE5SHBwcElpTHd0dnM5UzFpcWgyYm5oYlFwY0dfaWYwb2lqRkNoTFF1N3NyRGpUQ1RLTkVwdmE0QjQyNkozWVJTMUpab2dTam8ydjBiVU15OG5ld1ROZDMxc3kyMDBHWC1fLXR1UQ?oc=5",
-     "source": "www.marketscreener.com",
-     "published": "2026-11-12T23:18:21Z"
-    },
-    {
-     "title": "Goldman sees AI spending hitting $1.4 trillion by end-2027, nearly 4% of the US economy",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0Q3Q3lRVGNkWG0xbnByQ2M2V1VGRllDY2gza1g3NUVYOG5BaFN2YlRNWEhDdEQtQUMwSlluS1lDMjU3bGIzenFsZDJKZW5pM1pKOWdnbktmWGdRTVZBSGxMYm5qNm9VcEdXZklVMzdmbUpwUmhzdExGLWQ3YTZIeTBLOFNzVVFmeTB6MU5sb3lYS0dMcmI5MnpHS1I3czA3aTRJU0VnQXEtNEctcDE2Q0dTeGppQUtRa1E?oc=5",
-     "source": "investingLive",
-     "published": "2026-11-12T22:11:16Z"
-    },
-    {
-     "title": "Former Goldman Sachs CEO Lloyd Blankfein Issues a Blunt 7-Word Warning After Jensen Huang's Nvidia Exit",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXYzWFRLY19RQnZPYlY1Snp2aDZiT2xhWF9mWURRb2VhMFBOc2ZIQl83MGhNTUlaMU9DSWthSUxIeTN6THpBS3ZfOTlSX1FqWVlpX3lnLVFBRXM4WlNaMzF5YUUzU05yZm9rUVhfdU0yUjhwNWhQOTZaemFOZVJDV0JzNmdueTFVLWV3TEEtNGxjNmM3M2VLWDFRMEVEUnJnWU5WTXY1akNibG9wSEJENGd6d2JrYk5sdVFGUQ?oc=5",
-     "source": "Inc.com",
-     "published": "2026-11-12T21:25:17Z"
-    },
-    {
-     "title": "GS: Goldman prices S&P 500 notes with 151.5% maximum payout by 2031",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzBHTW1vZlRNNjBna3VmYTVQYUdYWVRpbHgyV2J3S05nQTJsN0hGQnFvc1dwZW1PdnBLSkIzbkwtV2NTR0JzVmZ1WHlIcVQyd05RdzZRb0pQSUZOdEtHVHUxN3hseUFkV3ZuZ3J3VDhhMllSNWJJRFZqM01KQlZuV0YwWGlnWUl6SC00MDVWd1lGZw?oc=5",
-     "source": "Quantisnow",
-     "published": "2026-11-12T21:01:54Z"
     }
    ],
-   "news_at": "2026-11-13T03:16:27Z"
+   "news_at": "2026-11-13T05:29:54Z"
   },
   "NYSE:MS": {
    "news": [
+    {
+     "title": "Mainland China stock sentiment turns bearish again despite state-backed buying",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaWlDaklRX1FHMkFoYjR0Wkxvd0R4bEFxa2gtcHRnRExCQUYyYkVGeWVRbGJXSFdBd2hFTWo1RkxKZUlCdFp1VXpmV1MtQTJOMndJSEltbW43N0tyRDN0Qk1fZFFQbVJLUDE2N1RKVjBnQVUwNFZYemF1ME9NU0gyamNwTTF5VWFqbHhMMnVhUjRXUnFjcVlkX0Jna1VXVTdjcC1sZC13c0dJNXpJZlRHY3NRLW53Z05kalB3dmFDSWhhSi0tVlQ2ZUdQQ2xyNjdMd2NEYTg4UUZ4emNxMGdnbkdfQkZDaUFBZlh0dENvT2Iydm9CSWpKZA?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-13T05:00:06Z"
+    },
     {
      "title": "Morgan Stanley money market funds keep Fitch 'AAAmmf' ratings in U.S.",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUdzQXNNVTdCdGYzNE5JZzRFWVpjV0pNdXhTTGRZbzhBVlhTRlViSTgyLXlDXy13NmQ3WGc3SUxQNEljV0o5bG1JcTBYNHA2MDd5bXVwNlh4aGJWamZSR210b1Z3RURxWGUtS1FPVGVscl9FbUpmMTMxT1RfLVd4S0FuVEVwMnduY3FyWEtIN3hDSUZfbjBrX3dwZlAtUQ?oc=5",
@@ -93,9 +99,9 @@
     },
     {
      "title": "News Corp to Participate in the Morgan Stanley European Technology, Media & Telecom Conference",
-     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUnZDZkRpS1BhdkFDUk1EeTE4eXBuM2NvU3lQSWpPaE9yR1JXd0txT3dfTUdVWkNIZkNuWDVBR0RkWm02YU5ocWhDZzhBaGVjOTZOdjNfSDZOOUpzRlFOOVViXzNLRmlsRzFwelFQUWotRUo3Zm5KbkV3Z2d1MVh1MHJqWno4TlJ1TlNqUTY5dmNFdG1FZVRKUDZJYlhVYmYxYnQ4aTA0OXNid1RFNnhXOHpaeXdPRk1hRlR1THR4cV9EbmRhd0l6cHVNYUo5V3N0WkgtNTlseUMtVy1lb0wzYWpjaEkybVByanFMVlFXSExiTU1OUGduUWFqZ09JOE94T3Z4cG5lQ1QzeUI0NUd4Tzk5NG5jQ29GWVYwX2xSdw?oc=5",
-     "source": "The Joplin Globe",
-     "published": "2026-11-12T21:17:16Z"
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN0hYdUN0RTlrNjF1MWx5Y0lYd3BUTk9fLWh6X3dxS1RnLWFHZ1R3eFVCNEF4elVDdGM2MzJCNE9wX1lNdjZsaFNVSzZjRy1aNkVFd1BXaGVmNy1zYVp5eEc4cW04Q01PSWYtZFJvQlFkaWc4bm1zbVh5Uk1YQmVKM0daWjlWVngyV2F2V1FqaDZZRWsteEtXNFpuMDlweThlbl9BN0k4OHo5Rk9tRXRqSUgyejhiN2Vick5ZUXppNG92bE43QVplam44MURLdVJQUkhsUGYwaTQtbDJQ?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-11-12T21:17:07Z"
     },
     {
      "title": "WD-40 Company to Present at Morgan Stanley Global Consumer & Retail Conference",
@@ -114,15 +120,9 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrQ3dlNTZWa0UtX3licnJiTkhRZXRQRW5ocllubHpzSGp3dGE3VXFCN1VnZHhuMFMzclk4WWs3dTdtR0x5eVJRVzRxQmswUkdRSlk2YlFYd1E5V3ZSLXllYTgxRmJpZS1IaHBrc2M2ZTJJUQ?oc=5",
      "source": "Blockspace Media",
      "published": "2026-11-12T16:36:53Z"
-    },
-    {
-     "title": "Why Is Morgan Stanley (MS) Bringing Transfer Agency In House?",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVV9zRlNsZjNXUk9fMzc4a0hTUU1mQlBnc0Y2elJ3RWpaQWF6clRkSUZadTRqaDdZdUQ4TWJXNWxuQ0FOelNSVm9vTUZUR0d5dzF2TTY3YjhLT0RmRXB6NlNxRElNWWphQ3dLU2FhOEV0Z1JMMnpzdlVUWUdrNExBTlpYV2M2RDk2U2Flb1RwdXBtQWJvMFg1MWtGdw?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-11-12T16:10:14Z"
     }
    ],
-   "news_at": "2026-11-13T03:16:27Z"
+   "news_at": "2026-11-13T05:29:54Z"
   },
   "NYSE:RY": {
    "news": [
@@ -163,7 +163,7 @@
      "published": "2026-11-11T12:44:20Z"
     }
    ],
-   "news_at": "2026-11-13T03:16:27Z"
+   "news_at": "2026-11-13T05:29:54Z"
   },
   "NYSE:UBS": {
    "news": [
@@ -172,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFc4MHdDSWRsSG9IQmhDM3k5LVJ1Rm10U1lKU1N1cnR6b3lnQzlBOHVVdjFQSDhlMjZULXpRNWFVejVIYnEweXpwTjJEZHZTVUU5T2NXNFBjWjlEMnlJcmRkUEhNaE9kVmdPTnZhOEt6SkNxUi1DTzVxMDNlYWpaamd6eWlPWUJEd2FnYnlXcmstaFEzTUlIN013RkhHWmpnNnc?oc=5",
      "source": "Moomoo",
      "published": "2026-11-13T02:54:00Z"
+    },
+    {
+     "title": "UBS Group AG (UBSGZ.XC) Seasonal returns chart",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQajNURURPSVg0UlFkaTdDbU4xVHJ6WGJqY0owMmllVmVtcTFNNjEtV0g2cVFPejFxekp5NXpmTkJPaFV4TmtJS3U4Mi1sTjd2UzVGd19YUElxWXkzU2t3eXk2cWVuSW8?oc=5",
+     "source": "Yahoo Finance UK",
+     "published": "2026-11-13T01:24:02Z"
     },
     {
      "title": "UBS sees no RBA cuts until late 2027 as AI boom fuels inflation, growth slowing to 1.4%",
@@ -196,15 +202,9 @@
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3B6NmZMQ3pzd05sVFlxTGNCRXVXakMyNTk3cnV6QkQyVXRMR3FkZVUxZ3dGWHItdGFyM3JVeW5LMzY1clFQeGxRYjZVbU9GVFM5QldIOTFKeEZhdTBYVkJLVnZpYlNHcThJTmNlWHJGVlhNZUt2UlY2MXRoU3FxVXRGQWk3UHpQTS1VY0t1aXV6bS12WTlBVWdSckh2eVM4SUtpTE41QjJUZjVuUDhqWV9Wajg2YnZKMXVNOVdFQU45eDkwXzhIVUdHZ29xOE1NVm1iRjRYZFVONEM0?oc=5",
      "source": "Proactive financial news",
      "published": "2026-11-12T20:11:00Z"
-    },
-    {
-     "title": "Raymond James lands $18.7B Synovus team as LPL adds UBS breakaways",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQURHWFd5R2k2VFYyeHpmR2dmUnF5UVRscEpnV3dsOG5wRDJkbmdvWHNXVVR6NlNIeHlKZ2cwb0g5LUNBX0NUWmtBbGtVR2FreDVZbzB5SDhfaE9hRm1QZ0IyeGdaU3dQcnRWejlUeUhpVkRyWTh6OUNZbXpsRVM0UDJQQTBzcXR3UVUwdDdOZERqX0lvbkNsN195MXVVcW1iY0EwSGljTldwV3N3YXN0RExlVWtKQzlKbGdpWDNZaHM5Y1h3aDRFWQ?oc=5",
-     "source": "InvestmentNews",
-     "published": "2026-11-12T19:12:14Z"
     }
    ],
-   "news_at": "2026-11-13T03:16:27Z"
+   "news_at": "2026-11-13T05:29:54Z"
   },
   "NYSE:BAC": {
    "news": [
@@ -239,13 +239,13 @@
      "published": "2026-11-12T22:00:00Z"
     },
     {
-     "title": "BANK OF AMERICA ALERT: Bragar Eagel & Squire, P.C. Reminds",
-     "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOeE16UVNrR0tIMlU5M29CRmtxdzBCTEFqV2JONTJfd0hYYnBwbWJfa2ZENjZYVU0xQzFZQ0Q4bTUzektFT2Y2TEtMVVI5Q1AzNENhVC1NT2V0LW5ndGxJc0NsdkdVWUFqWEtKRnRBQ2lyU3JaWlhuRk84OU02TXNJd3ZNcG5DZWg5ZWdJaDdCdDZ1T3RXc2xaUHAwbEZpdWxMWmlqOFVJNllITEdHc3lHVktxWXVISFkyc3I2LW9rOVQ5MUgyVk90djB4QWVFUGFhQXdCbXNrc2EwVTBaZWRXaGlSdERnemxrMVM4VGtQYkZKZXhTWUtrcGRxZjlVT0t6Y09XS3M5c2JhLW9fcmREdVNzYkhDdFlrLTliNzJlX1FVNFBhRnAyWDJ0bVduNGJyTVhrVGdUeWpLV0U5LVZfMUhtTFU4akdrOW5ST0wyTktZcWlTakZmdG5jdVhIUGpRUXAtd1ln?oc=5",
-     "source": "GlobeNewswire",
+     "title": "BANK OF AMERICA ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against Bank of America and Encourages Investors to Contact the Firm",
+     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQdmJWWmZ2VW1zVm1lRDFvZDhxSXQ5cW5MU2N3QUdUaHdZbEVfSzdvcmZaZl8wS0pPZllRRXhQNFp5UFktWnFiSVhTQ3ZnUF9HMjNRd0hnR0EwX2ZKTmR0ekh3ZjdOSHJ3MXMwOU1RWGsteFUyQ3RTM1NCVHNULTZEQ1luMjVQSDlaYWpZbTM5TUtVcjlpcWJwbUFBYXY3NW44amxlTHpOOVBtQzFjaDN1aEp0LU9UMWE5QzVXQmFqUWlkSVFRVlNnLTloQ1l5ei1VdFJnSEZLVXRoekF0UFZ1d0dwQTJsN3RIaUdOQVJON01xWUlwZ1NaSnN1c0pGcW9PMHhFZFY4NXFya1hMOTNobDhUWFU0YzdQLVo5bXRwYw?oc=5",
+     "source": "The Daily Tribune News",
      "published": "2026-11-12T21:42:04Z"
     }
    ],
-   "news_at": "2026-11-13T03:16:27Z"
+   "news_at": "2026-11-13T05:29:54Z"
   },
   "NYSE:SCHW": {
    "news": [
