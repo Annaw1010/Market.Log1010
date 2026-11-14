@@ -40,10 +40,16 @@
      "published": "2026-11-14T10:12:35Z"
     }
    ],
-   "news_at": "2026-11-14T20:22:21Z"
+   "news_at": "2026-11-14T23:02:44Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Goldman Sachs Restricts AI Coding Tools Over Security Concerns",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDBDVUlNV1BKTFVJTGd4YlIzU0g0Qm9HU3czTDZrZm5qM1U0WVJCZWtZZVprUlZJd0lDRlZDc1V4M1V3MmNQbDUtejNKc1RrMjJJUDRzRndaX1U0TEM1TkhoOUNsTG1tR3VMRk1zZjBKUlI2YlpkZkcyR05sNnk0Z2xVQ0JlNHdw?oc=5",
+     "source": "조선일보",
+     "published": "2026-11-14T23:05:22Z"
+    },
     {
      "title": "Goldman’s Freight Warning: The Restocking Boom Meets a 2027 Shipping Glut",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUNDX3JOXzNPNlItMFJkdHJsNUNNc3Y3VF94THY0SmUySlRIV2k5V2hnV0M1Q2VjVW5rRWVKRV9iYU0wOUVJT3BMYzVrVXlDeTRydWVtQ09YeFNxalVzSGtIOHd0T3g5a3N2UmFHaURUU2Nzdmhoclp6QjJvT2tVdV9PX2xwTW5fNy1z?oc=5",
@@ -73,15 +79,9 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDRGMVB5anJwTTJBajNGRXk4aFZfcjRkdWFEbXdGYXAxVEp3NWQtNm9Cc1FsTHNmTWctUnU0cktfV0pYMXgxYjczY2JRT1d4eTVLYy0yRUs1VVVpdlJXdVhDckJtcDJKRnc5Vkl4Qnh2cEpJNko5bmx4OXI1WTJWaFZUOHdGNGE1eFV6VmZxMTNYQ0h1dm9reG5qMVJ5WTBZNVZ0ejU4NVRKY2NCUEJMZThka1dwZw?oc=5",
      "source": "Fortune",
      "published": "2026-11-14T14:23:00Z"
-    },
-    {
-     "title": "Goldman sees 19% upside for Asia ex-Japan in 2027, with AI a swing factor",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZW9XOTRnVGdQSE5yNlNNRmllMC1KSFBiNnIyQmhwMHdGMDYySDlvLUFrU3MyQmhZbkx2Y0FMcG1YVTJDOUp1TndZRll1eGhVblVXeXJ1aTJsVlFVOGhyVWs5SklJQ05NQzRwSDJaSWxQUFQtNnJrV0VSeHhJVXhCeXZxUm1xYWw3QndSQVBfbzl0dw?oc=5",
-     "source": "Briefs Finance",
-     "published": "2026-11-14T14:15:00Z"
     }
    ],
-   "news_at": "2026-11-14T20:22:21Z"
+   "news_at": "2026-11-14T23:02:44Z"
   },
   "NYSE:MS": {
    "news": [
@@ -122,7 +122,7 @@
      "published": "2026-11-14T08:00:00Z"
     }
    ],
-   "news_at": "2026-11-14T20:22:21Z"
+   "news_at": "2026-11-14T23:02:44Z"
   },
   "NYSE:RY": {
    "news": [
@@ -137,6 +137,12 @@
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRk4tQ0ltc0l4cl8yNUc1YWl3N1V5MmxXcGozS2J6bVo3ZWtEQUNaMVdfLTRLVll5MFlWUDR2Y0NPcVpBSXoyT3RDcEJ3Z0tKY0kwQUExRXJIS3JIcWxvTl9xTThoRmczQ0xBUlVualNLbjJuMmNDTUw4ZFNMckFzZnhMSmRoSm4wVXhPM3hZUTJNOG5iM2RVR0RDbER2T3RVMzBYZ1ZIaVJ5WFNDamVaamh5X1FRQXBzb1NzblN1MzZLdw?oc=5",
      "source": "Mortgage Professional America",
      "published": "2026-11-13T18:06:26Z"
+    },
+    {
+     "title": "Sask Polytech banking challenge draws 170 students to Moose Jaw",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2N1elp4azl4cnZFNG1rUkpwU2lkZEcxOEZSUHZReEdKT2lySG42WVRCNEZSNVlEMkF0M2lzdHl0RVJBVzZsa2dtZmpJUmlmWGk3TGxGUHBIM0pfSEVzdzR5dmlVLXhKVTB1WU9HY0NwZG1IaVdYVzJDaDh5WU9zLVpFQXNvSFNGbF85bkh6Nlp3d2pIVVhmY1pneVhVNGJZdHAtN1RQTEQ5VXFaZ0F6eGxyQQ?oc=5",
+     "source": "MooseJawToday.com",
+     "published": "2026-11-13T16:47:00Z"
     },
     {
      "title": "Royal Bank of Canada stock: RBC agrees to buy Yarra",
@@ -155,15 +161,9 @@
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZC1OdVY0aVNGWmtxQ01tTzdNRmdwMHBKSGJESS03SW5VbU1qRG5Ld1o5VlNmWVRXaEZlMkpPeUsxQlJyZUdPN3RGLTVweURUZ0NaYWNqczRHUEplMklFZnluX2FVb09NQzlHMlVna21pV0x5TU1EY3NGc0VmbjlyZ21CdEV2c1RwMTE2X1NWMGFVUEhDOHZ6eA?oc=5",
      "source": "FStech",
      "published": "2026-11-13T11:02:42Z"
-    },
-    {
-     "title": "305,484 Royal Bank Of Canada $RY Shares Purchased by Fisher Asset Management LLC",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVG1zRVFxcWNwU2l0cEdLSGhpeWYyOXZpeDBXS1hrTV9YZHcxcUR3WVhhdE1xVEtwVHFONkt1UEIzN3FCNVQ4U2Y2RGJMVmU0OFBtUGRpSG5jb0FDMmtnN3kxRjBQbW5McUEwTFZxUGNsZlRCSi1NamdOb2pOcmM2R2RESy05QW1XVW5TUTN6RFp5VHI1TzBFaExIcmlGemdNUDJQMnJZN0NEOWxwdFJycFpiMkUtcDhDWWtRSm12eFJoejNqeDVTY3I4Mkt4QVdVWkFhaVBR?oc=5",
-     "source": "MarketBeat",
-     "published": "2026-11-13T09:37:21Z"
     }
    ],
-   "news_at": "2026-11-14T20:22:21Z"
+   "news_at": "2026-11-14T23:02:44Z"
   },
   "NYSE:UBS": {
    "news": [
@@ -204,10 +204,16 @@
      "published": "2026-11-14T00:42:01Z"
     }
    ],
-   "news_at": "2026-11-14T20:22:21Z"
+   "news_at": "2026-11-14T23:02:44Z"
   },
   "NYSE:BAC": {
    "news": [
+    {
+     "title": "Is Bank of America (BAC) Below Fair Value After Its 83% Run?",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc1AtX25ZWmt4WjVyREhfUUljdGtoOVZ1REhMbTVMbzF4OGhZM1VZYnRDcTQtSEwtY2dKXzVjMXNHNW14em5xeldkdHAzdUFsUTJ3RlY2VTE4UTF1Rm9BLTBVN1V1ZWo0N3U2Z2lrNU1YblRhbmFGaGg4UjV5VEdFeWl5ZnE2R3NJaEJVRVZZRlZyS3ZIWlpSbmM4NDBqbDkzdnFGWmNlN2h2SDFVYWNmRjlhaGxxVU50Ti1vcXJyQ1NYQdIBxwFBVV95cUxPaTNWU3Q5MVhpZHFLY29WMmN4Yk9ZSlhKdTJWRTAwT2pnUWxSUHhfTXlZVFhpcVZIa1U2dzRoMW91Nk45azI5VVFhRkNqaFFocW5WYXdRSlNRbVM5YktaVHg0dEFESTU4b28tUXEwQko3N0x6aDNUU1hyVnVUdWtxRklfcjJFWHhhNTQtQzI1ZENhck8za2ZJaUhrdm9yVTdDakp4ZGFheHpiLUNqVFhtdmpHRmIzRERtMUpLVDRfM29rcVgtd19n?oc=5",
+     "source": "Simply Wall St",
+     "published": "2026-11-14T20:15:53Z"
+    },
     {
      "title": "Bank of America awards $250,000 grant to Goodwill Southeast Georgia",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUFuLTJGMkE4M09DWFVpeGJ2V1Jpb05PZnB1UF9Pblg5MjM5aXNsX0hka2U4NW1ubUlKcHd5RFdlTGhtTGttWnpXNF9QcndpSGtXWVBDaUhzUUlrWFVPaXZyai1qbmpCYm5oSU5QSG04NWl1cWNXcVM1R2gxZFkzTjVYQnBvT2lVV254Q2MwTFdNeUltQ0RlUGhaRVhRNm5lRUtGZmMzYTdqRllibkxyZGRtTV_SAboBQVVfeXFMTmZ6SWR0RktrdzlQbUx3WEJGQUd6QlNsd1o2d2VfbEtVRVNKOE90Y0VlcktXamdhR3BrcnJqT3dETURQR0l6ZHFTOFB3X2lFUEMyWmU4cFZQbzM5clppckZWdGxldnVfazVVMmQyRVlNenRsekpZVFJmbWFrWHNBRi02dkotQTE5aElQWENEZFpyMXhDOEtDd29PT0NxTTZnMU1hSHZSRlVLQTRlQWlIVnpURXNtQ2I5U0Rn?oc=5",
@@ -227,25 +233,19 @@
      "published": "2026-11-14T14:13:51Z"
     },
     {
+     "title": "Bank of America Customized Cash Rewards Secured Card: Useful Credit Tool, If you Qualify",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2RfbDBNS3kxVmhoVHdIdG1wMF93NFhKOXhBS2xOUVdkSFJFdjBGVExyb1FGcEhvN2VLa0tvWDJybFE0U3dtSlJ3RDdMdkZRUTZhRDlsV05pTjRBSWFPS1ZFRUNiN0JaeE52OHZ5LUROQmtFOHl4Vkk0Y1NtLXk1ZC11UmtqcDZIdWdycFNKUWJobFUtSTE1VzdhYw?oc=5",
+     "source": "NerdWallet",
+     "published": "2026-11-14T14:12:06Z"
+    },
+    {
      "title": "CPI Beat and Weak Housing Market Prompt Hedge Funds to Revive Shorts on Rate-Sensitive US Stocks",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRFdzeWlaX2h5TjlvYU1SMjgtUjI0WmJMN3RtMkxXX1pxRjFDZ0EtVTN4Wjk4WF82bEpNY0NtdzNId1RKRHg3em1EaGJaSVJHdnJnUW9acWR4OHAxMjNEREZxZnNPem0tTG1DX2lpdkd0QlpKRWc?oc=5",
      "source": "BigGo Finance",
      "published": "2026-11-14T12:25:00Z"
-    },
-    {
-     "title": "Bank of America Customers Can Earn 5.25% Cash Back With This Card",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2cteTZPV1pNS3lCdVVLUGczTTN3aTVnNGNjdjNTOTM1NVdlaVdSQm1ON1BOZHNSTjlVb1lSWVBudUVUQXMxQkpkSFlfV0kxNG5LdDJmekloekYzenpXczNXanJ0MGlYOWFDUE1nTGhKQVc5c0I3NXdEMGxqeEg2Sm5DWXFIX0pjRmFRWXlFN09LYWlfaWdBZVhNeklsUXg5aTl5OElPLXJpRERmbmhKVUFGTQ?oc=5",
-     "source": "The Motley Fool",
-     "published": "2026-11-14T12:04:35Z"
-    },
-    {
-     "title": "Bank of America's $1.2B Treasury fine sparks investor class-action suit — What to do if you own stock",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFVLTngxNlJsUWZySG1UU19nX01sUS1Tb0RrZ1FNeTYtRVNHVFBTaG9ieGdLR1U0QXRLQnoxMmhMV2Q2NFgzcnhSMzRaeGc1aXhjOC0tV0RZOUgxeDJpTVFtS0lRQ0NyazF4QlJjWVRBOFZXenFUT1Q4Wk40MUpiSW45cnBXdDUyNk1ZU2k1aHZ1VndEWHJZ?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-11-14T10:15:00Z"
     }
    ],
-   "news_at": "2026-11-14T20:22:21Z"
+   "news_at": "2026-11-14T23:02:44Z"
   },
   "NYSE:SCHW": {
    "news": [
