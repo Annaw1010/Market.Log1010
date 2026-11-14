@@ -4,6 +4,18 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFE4Y09ENDRNWFJJTGp4Y19ZaWw4WFBDcFpSVGhyamljQUJfWktBR1BUOExsZkZEWUd1eUlkZTJOM0g1THh6VHEzeGx6WlQxZFk0aUNnVjFPNVBpZmNCdFRRb0RwS2JKbnc4RmhVVndyWDRzek4wTzA2MnhnaG1UVVdYb1h1bThQa2NIVVM5VWl2NTROYVhrWkw2MlZ6VDRUZ3YzcHV4YkdkZ3EwdGpqbVRGTQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-14T19:25:27Z"
+    },
+    {
+     "title": "JPMorgan Lifts Strategy Stake 36% and Holds $540M in BlackRock’s Bitcoin ETF",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanl1MU15aDN3WndmZ3BDS1lBc0JwTDEwQ3VndDU5WnNlODl2TmRobjJYVkxHeTRWdFZiNlZBaU5SaGxpMG5RTk1GdEVEUVFaOV91LWxyT2ktR1o2YXhIc1Y2MkZnc0xOcGFYYjZEQ1lJbFdrV00yMG04MUFYTlNfcU9GUjdOSW5sak14bUY0aGlzZXVadWswYlZRSEJERzQ0?oc=5",
+     "source": "CryptoPotato",
+     "published": "2026-11-14T18:49:00Z"
+    },
+    {
      "title": "Anthropic IPO Would Rank 14th in US Value, Past JPMorgan",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhpc2N6RjBSbUlQMG5RVlhFQjJ1ZmdFRXFjbnFiWXpxUWlINEZmMHJ0a2Q2RlBvR1pBRnBsSlctOTZrSEhqbnU2RVc1M29Pdk9EOXJoTDVCZjBIRzZ3cFU3bXgyVHZKMXFyNmx0SFg1SnVjMmxaMVBObVJDOUZSazZ0NnZQMXAxd0dz?oc=5",
      "source": "FourWeekMBA",
@@ -26,24 +38,24 @@
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORE9QV251dlVNSmNZcnowYUwwZ2tJTzNpV0pSM0dZQmxCMzdvUThqNXJZSEhXUDlldE5RamJ4UXB4dUpKdkYxQnR5azdSMndQd09HbTFqeTBtSWgteTNLc3FnTGtaS2JlNmk2bU9hZTU5Ynk5eEtURHBpY3R6R29sXzFPQlNyb0tjOHZqbk9mM1g5YzhzUXJzb0U2UnFrR1p6R0xDQnFrRTJrNEhncldZTFJ2TDdid001Ri1BM3FOdGxMTjBj?oc=5",
      "source": "ad-hoc-news.de",
      "published": "2026-11-14T10:12:35Z"
-    },
-    {
-     "title": "Allspring Global Investments Holdings LLC Acquires 118,553 Shares of JPMorgan Chase & Co. $JPM",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbnJMcHdCRzlTQ1VYczFOaFRySm1fcTJWaXNBcmhxNVYwTnFYVVRDOXRydFVTbXRtT0R2OGJlX1hoZFJTR2lFdktJa3k0UDB3dUpfNGktS3FaYTNHSDlHTDFBb0xBQmYtTGtqcmNKeGUyM1ppRk9YenVSWkJpYUo3am5aRThmdGlseGtsVWJIUTBfNnRMTXRaYTdOcDJrcndHZjVyTEFHS3hldHJ3bzRBLWl0WnhzemowQ3pIY1dBOHhydHcyMjFxVnBhQzhhUUcwVHVyYmFXNnJvRkhCZDFGdkRRLUc?oc=5",
-     "source": "MarketBeat",
-     "published": "2026-11-14T08:13:40Z"
-    },
-    {
-     "title": "JPMorgan Chase & Co (JPM) Stock Up 1.0% but GF Value Says Overvalued -- GF Score: 85/100",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVNpY1Jra1FFV0hzRVc0WWI2V2pIUDdJc3h6VFNtNjVhbTV2WE1uRlFmWWQ3SExMa3BMb0tCRjkyWEZBaG5qTFoyU2Z2d2g1YWNDdnZtaXdmdjF4Tk0xMjJZbEFhUGVlTG1tNjFBcjIwM2xNQkRWbU1Ed1ZaT1ktdUhhNERSUm1qbEFkM1VxZ2pKbXhNeHlIa1A5dFZkRFluR0FZRG43MGwtdHZ5N19VZ3VRTFZwNUk?oc=5",
-     "source": "GuruFocus",
-     "published": "2026-11-14T08:10:48Z"
     }
    ],
-   "news_at": "2026-11-14T18:00:41Z"
+   "news_at": "2026-11-14T20:22:21Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Goldman’s Freight Warning: The Restocking Boom Meets a 2027 Shipping Glut",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUNDX3JOXzNPNlItMFJkdHJsNUNNc3Y3VF94THY0SmUySlRIV2k5V2hnV0M1Q2VjVW5rRWVKRV9iYU0wOUVJT3BMYzVrVXlDeTRydWVtQ09YeFNxalVzSGtIOHd0T3g5a3N2UmFHaURUU2Nzdmhoclp6QjJvT2tVdV9PX2xwTW5fNy1z?oc=5",
+     "source": "The Dark Side Of The Boom",
+     "published": "2026-11-14T19:30:32Z"
+    },
+    {
+     "title": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzYyRU50SDUzOW15clJVVGhYWFZ5WDdSRWpMSnJBTUMzZDZ5VU16QUM3V3RSVE05Mjg2aFg2eFRQTkVkcWo3US0wU3hGWFFzWUVfYjdTLXNZNG5FelVydFhKVmx0SDR3S1l4VVVicmU5WlBLeUhxM051VXQwLVhjQk5ITjBBOGN1OUVjS1lUb2t5VGh6QmtSVmhyRVNYUG5hODJhNlFmcjB2NXFuMF9BTVBsclRJaTFEbmJjaURTWDRLZ2xNZnNwMy1B?oc=5",
+     "source": "Investing.com",
+     "published": "2026-11-14T18:32:48Z"
+    },
     {
      "title": "Goldman Sachs forecasts stable growth, warns on AI trade in 2027 outlook",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzU3h2TUdlb29Qd0FBazJrcml2bjM1Zlk4S1pwbjM5aHNBcHJuV3FYQ2V2QlMwQjcydkFQWkwzdW0zOThRSlVsNEJLUDJsRFVQRktGNTNzV0pHMk53eTNDaHlucXFDWWdmQjBVRnVlcw?oc=5",
@@ -63,25 +75,13 @@
      "published": "2026-11-14T14:23:00Z"
     },
     {
-     "title": "Goldman Sachs forecasts 19% return for Asian stocks in 2027",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RtRU9GMkhFME85ZjRVQmJiZ1BackpOV3dtQmlGa0RRLW53SnBHVm01T0d1RTIzeFFUb2pBckltMDJEelhOTkdlc0xvSTJpSmwtUERBc2lvSUVPdDhHdFN3YWpwcFVOR2YtWVhKeXdja2hRcXYwLVhNZXk0WmJLc0t6aw?oc=5",
-     "source": "Traders Union",
-     "published": "2026-11-14T13:57:45Z"
-    },
-    {
-     "title": "Pakistan PM Shehbaz Sharif revises Goldman Sachs forecast, says economy can be 6th-largest by 2050",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYVQ5VXV0V1NlcC16OTQwZzJoNUNMUWhwLXJDR3V6d1dtdEF0eFBCTnhuX005NWxRT0hLcDJSMFhlRTYwYUxMOTJEbXZ6MkZNcjdrMUVuTVVCczNCYUFfdkEyOXZQbncyVnVZeUpYenFxRS1vQ3R5RkRzOVRZQTZBOElsSWs3U3NvdVlyQ296SW12VFZBbk5ZRS10cFhEeXQ3X3ZLczR6dXphMlpjOGdqWjNPWTVaZ0h1M1R6N2hKVkxka2t20gHKAUFVX3lxTE1lM2E2TmdudjdPYm52NGR4bXpxU09YVDBrQmt4MDZQdWlWbnhhZWJMc2hXY1dLVzBDWXhvbDk4dnhQXzQ0N292Q0dPZG41WFVOeW56dlh1SEIzOHdzc1NFdlFVYzlqSDFDNWJTb19HOVVZZXpRN0hsWVlpRkttRllYczR6bTFLbjNBV0FxWHhGWFVKTGw2cnljeGRlZFVFWGxNLU5tM3RJNzhSSVRUbWtYbHIyc2RKSkVsWUYtS1JtMmJjUGs1N3QtQVE?oc=5",
-     "source": "India Today",
-     "published": "2026-11-14T13:07:06Z"
-    },
-    {
-     "title": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzYyRU50SDUzOW15clJVVGhYWFZ5WDdSRWpMSnJBTUMzZDZ5VU16QUM3V3RSVE05Mjg2aFg2eFRQTkVkcWo3US0wU3hGWFFzWUVfYjdTLXNZNG5FelVydFhKVmx0SDR3S1l4VVVicmU5WlBLeUhxM051VXQwLVhjQk5ITjBBOGN1OUVjS1lUb2t5VGh6QmtSVmhyRVNYUG5hODJhNlFmcjB2NXFuMF9BTVBsclRJaTFEbmJjaURTWDRLZ2xNZnNwMy1B?oc=5",
-     "source": "Investing.com",
-     "published": "2026-11-14T12:11:26Z"
+     "title": "Goldman sees 19% upside for Asia ex-Japan in 2027, with AI a swing factor",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZW9XOTRnVGdQSE5yNlNNRmllMC1KSFBiNnIyQmhwMHdGMDYySDlvLUFrU3MyQmhZbkx2Y0FMcG1YVTJDOUp1TndZRll1eGhVblVXeXJ1aTJsVlFVOGhyVWs5SklJQ05NQzRwSDJaSWxQUFQtNnJrV0VSeHhJVXhCeXZxUm1xYWw3QndSQVBfbzl0dw?oc=5",
+     "source": "Briefs Finance",
+     "published": "2026-11-14T14:15:00Z"
     }
    ],
-   "news_at": "2026-11-14T18:00:41Z"
+   "news_at": "2026-11-14T20:22:21Z"
   },
   "NYSE:MS": {
    "news": [
@@ -89,7 +89,7 @@
      "title": "Jensen Huang's Resignation Shakes AI Stocks; Morgan Stanley Says Bull Market's Main Engine Still Running",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CYkxJcVlTbzV2SExVSEttQjNIdWRIYWlWcEk0VWNZMWVxT2pPWU4taEQwUW1CdlllWWgtakFHZ1g0UlZFQU1JazhKc3c0VS1tQ1RvQ1l0ZTJSdmFiczNMM2ZPcFV3VzVQZktoTHJ4Ni1oVDBiRHc?oc=5",
      "source": "BigGo Finance",
-     "published": "2026-11-14T12:35:00Z"
+     "published": "2026-11-14T12:39:54Z"
     },
     {
      "title": "With a $300 Target, Morgan Stanley Bets SpaceX’s Selloff Went Too Far",
@@ -98,31 +98,31 @@
      "published": "2026-11-14T11:41:09Z"
     },
     {
+     "title": "SpaceX Stock Price Forecast: Morgan Stanley Maintains Overweight Rating, Sets $300 Price Target, Sees Over 100% Upside",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcVpidU5HenBaS1lnN1RWUjBsRXZ4SHB0MGl0d05OV2U0VjZhYkExWlRMWW1FbkVZRk1NZ3JlWE9FYTFiWjRzektHbnFKMUdtS3NfbEI4SnJ2bHR1UTRsa2VoTGw5aWJ6NFlVSF8zSi15Z0IzTjh6bGt6WTJ2UnI4LUJYRmczazRLOVFkbkg4YzktWi1qdTBvT1lmdXUwOTE1cDE1ekp6TWpTS1huUzE4YWNMcU1fT2N3OHQ4aGw5UUxpRXRHbndTb090ZzBFalFKUWlzQXZLdVNweGM?oc=5",
+     "source": "TradingKey",
+     "published": "2026-11-14T11:04:35Z"
+    },
+    {
      "title": "Is Alphabet “the Most Obvious Buy”? Morgan Stanley Sees TPU Sales Jumping to $84 Billion",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORC1wRGp1N2lGNjNtRV9mM3B5RlRYMVVEUnBUS2hVd2FQM3J6VG1INFNERHVUTXRyWlFxOFJ0dDF3MHNva3NaMkg5eEdSOElMb3QweEJkSHFvZWJIT0ZWeGQ1TXZjN2ZiY3hfV1lqbGF4NDBEaGlac08ycjhlQXFiNWhhSE92YWo4bVNmb2pwWnJSWUVEQmlWMHpNanFIQQ?oc=5",
      "source": "Yahoo Finance",
      "published": "2026-11-14T10:25:50Z"
     },
     {
+     "title": "My Top Dividend Growth Stock to Buy Before 2027 and Hold for 20 Years -- and It Has Hiked Its Payout by 15%",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzZLYjc2VjViX3lNZFZHNVFWY3lKZ0x5NS1QTXlBNF9fdXJEdzFtNFRBR210UzlCeklWalRfWGpHNVEtTmw1ejJfS0VlNlY5eHRHSEhNdWhLY2dlWVVEa2JTZE15Vm5XU1RRQ2lWdGhtMWNuLU9iT3BHM2ZRRVYxZW92T3k4M3pxM0JuMWl2R1U0MG10S2dURA?oc=5",
+     "source": "The Motley Fool",
+     "published": "2026-11-14T08:15:00Z"
+    },
+    {
      "title": "Key facts: Morgan Stanley Cuts ACADIA Price Target; Analysts Retain Buy Consensus",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNemtqdFlhcE5lWTFYYUtLZHV2VUN6aXRMeUYtNGEzdERqTnczNkswZ3lfMzJDOGpXTjU5NnpJdldZR3VIRklIeV8xMk9BR3VRSGttNF8wUjIyR0FUaTIya2thSGtBamVMVmM5ODFuLXZlZk1oVUdBaE1MeVljTmVrOU12ME9mSjFnTmVVRW1tSU9RS0lnc2hmMEpSUlllNHBka0pIX0puSUUtam9uUVhJeGRmX29kWFpEaUg0U0VBLWthb1BOdzg2RVdpOHdDcUhTakJrTEh4QnI?oc=5",
      "source": "TradingView",
      "published": "2026-11-14T08:00:00Z"
-    },
-    {
-     "title": "Morgan Stanley buys 735 Bitcoin via spot ETF, r...",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUY0ZjdkOTJiWEJ5dU5iOU9ySkttMUpBajVUVWJOek1kdWJGbXVaTG5jMTBpWFJPUF9JWWthMUJlZ3NHQWxzVE9JMjVZSGIxQ1NBRlEwS05yUzJ4bEo3RW9SVkJPUm1EeFJKZFRCV1FSR0gzSE9semZZZVJlb2k5c2VoSjJNRlFoTVlYclVXczRUTUs1?oc=5",
-     "source": "Pluang",
-     "published": "2026-11-14T04:03:48Z"
-    },
-    {
-     "title": "Cerebras Quarterly Results Broadly Beat Expectations, Morgan Stanley Raises Earnings and Revenue Forecasts",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNGtIMFZUTjdfR0dEQTF3QXNOOV9kN2dIc0lrZUV2ZXBiNC1jN19mRUZOX2NoVGQyNDNqcm16ejdWY3Y2R3haREw4bkM4SkFOS2pMNFVPdkttb2tHRVJWaHVMVWNqbnMzT2dfSmNsWjNIUXE0SmtSQmE1bzl6QWI3NjVkODhvSjBOb29VMURLM2tVTzRodFVvaEVGdjdlYkJJNnhHQlA3WGNlcDdmSWd5REFDYmNSY0w0Rm9uVDZkejZQLU5NMWx0NDJ2S3ZsODN1elBUOQ?oc=5",
-     "source": "NAI500",
-     "published": "2026-11-14T03:36:08Z"
     }
    ],
-   "news_at": "2026-11-14T18:00:41Z"
+   "news_at": "2026-11-14T20:22:21Z"
   },
   "NYSE:RY": {
    "news": [
@@ -163,10 +163,16 @@
      "published": "2026-11-13T09:37:21Z"
     }
    ],
-   "news_at": "2026-11-14T18:00:41Z"
+   "news_at": "2026-11-14T20:22:21Z"
   },
   "NYSE:UBS": {
    "news": [
+    {
+     "title": "Allianz Splits Broker Opinion as DZ Bank Lifts Fair Value and UBS Stays on the Fence",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOG1zWk9sdVo5eXRPV0t4SnpNdW5FOFBNODROdTItQlJJRHctQzYteXdYSlg0NzN5VTJrM0FNbGZZOEpjT2k2dDZpM1daQUZVRTgtU0Q0LTVJQXlYVWZVSXZ4UWhMTG1rUTZzQ1BTSXZGMDFwR2QtTTRUUFpTeU80YlExY1Vtb2ZiRGJoamRSTjJ1TjVDYzZCendLNkpablI5ZDRER3RpQjdoaE5yODk2d21GN3ZoOWoyZUkyUTY2SDVyQ2VUcVVCajJQWHJ2MXE5VjRha053UjI1VUJDX1pqNG1LMGwzaXUtdDhQVA?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-14T18:31:26Z"
+    },
     {
      "title": "UBS Landlord Puts Zurich Campus on the Block as Vontobel Lifts Target to CHF 42.50",
      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeFFpQUw1cWJ4VWlfTWJNajVDX3U2OTdhRXpwOHdiODF4MzNEamtZX1l4TkU4MmtfaldmeWlJa3ZOXzhhMXBnQTRNSDZKZ09xTjlEZ2FBeENaNktUeG8zWldLSGxkQVItZERVSTh2VTFjQVNVRHQ2WF9MWHptMUNHck16c3dRajMwbTFmOXVKSzdRbDRuWnMybFJRQ0JHSjhzaGNUc0p1ZEZvZl9ldVJXWXdLSXFNX1ZhYTU3UUlZU2hEWko2dEtXQUFicTJBdzFBU1E5ZUJHclJKQTR4T0M0S0lDZU5LZXFqZ1E?oc=5",
@@ -196,24 +202,12 @@
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXU2VngwQkRTb19rUUFickNPM1NBVFo3eU83M2o0UFNOdUJnekVVbHJXaTd1OWk4SGUxcm9aMnh4UV9ualFmNk5GcVJNeDBSamZsM29tcDE5cV9ZRjVrTTJzQmRpU1RYVFRUNy03RFdWMHdKaGp3VjJZRENTM3NrdjgtUHFmTWZ2bl9RbkxLRTZmNVhLcFZFOXNjZGdZSUowOXRMV0p0YjYzUFdEbXpPc19lMGUwSlc0d1hleDlYc2w?oc=5",
      "source": "Stock Traders Daily",
      "published": "2026-11-14T00:42:01Z"
-    },
-    {
-     "title": "Advisor moves: Atlas tops $1B as Wells Fargo, UBS add bank veterans",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTBudXFjVVJ2SnY3Sm9WZUF4Y1hqakxoM245WnVPRGtwNy0tNGNWd055aWVzQUZzZGJOSXdwS3h2Mk4yRjlTM1NkQU5WTzhXbTJwMFlWdHBYRVZGTUc3U3F5UVFZQ2ZLN212eDdQRjFQZXFpMHpJVVB2YW04a25sRnczY21ZTms3bkhRZGJvcGhZaVQzUlBOenpJakpseW9lanl6dTlzVWhybjhFTVc5S0hJdw?oc=5",
-     "source": "InvestmentNews",
-     "published": "2026-11-13T21:49:17Z"
     }
    ],
-   "news_at": "2026-11-14T18:00:41Z"
+   "news_at": "2026-11-14T20:22:21Z"
   },
   "NYSE:BAC": {
    "news": [
-    {
-     "title": "Gen Z spending on news and AI subscriptions jumps 61%",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDRES2c4ZWlxV2tGelEzYmlvNFo5ckZDV1BFTzVHd1VEb3U2SjJDZk9UeTZDbjYxX01jMkF1b2w3UWxQOU5ObmZyR2pzbWVxMzFUdDNvdTFwZktfbnpZYVlyRlpBOWxObnpiNV81Qjh4WGJhU1Z3V3g0OUdzaFZHZ3BleTlPbkRxS29r?oc=5",
-     "source": "Pasquale Pillitteri",
-     "published": "2026-11-14T16:13:27Z"
-    },
     {
      "title": "Bank of America awards $250,000 grant to Goodwill Southeast Georgia",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUFuLTJGMkE4M09DWFVpeGJ2V1Jpb05PZnB1UF9Pblg5MjM5aXNsX0hka2U4NW1ubUlKcHd5RFdlTGhtTGttWnpXNF9QcndpSGtXWVBDaUhzUUlrWFVPaXZyai1qbmpCYm5oSU5QSG04NWl1cWNXcVM1R2gxZFkzTjVYQnBvT2lVV254Q2MwTFdNeUltQ0RlUGhaRVhRNm5lRUtGZmMzYTdqRllibkxyZGRtTV_SAboBQVVfeXFMTmZ6SWR0RktrdzlQbUx3WEJGQUd6QlNsd1o2d2VfbEtVRVNKOE90Y0VlcktXamdhR3BrcnJqT3dETURQR0l6ZHFTOFB3X2lFUEMyWmU4cFZQbzM5clppckZWdGxldnVfazVVMmQyRVlNenRsekpZVFJmbWFrWHNBRi02dkotQTE5aElQWENEZFpyMXhDOEtDd29PT0NxTTZnMU1hSHZSRlVLQTRlQWlIVnpURXNtQ2I5U0Rn?oc=5",
@@ -233,6 +227,12 @@
      "published": "2026-11-14T14:13:51Z"
     },
     {
+     "title": "CPI Beat and Weak Housing Market Prompt Hedge Funds to Revive Shorts on Rate-Sensitive US Stocks",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRFdzeWlaX2h5TjlvYU1SMjgtUjI0WmJMN3RtMkxXX1pxRjFDZ0EtVTN4Wjk4WF82bEpNY0NtdzNId1RKRHg3em1EaGJaSVJHdnJnUW9acWR4OHAxMjNEREZxZnNPem0tTG1DX2lpdkd0QlpKRWc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-14T12:25:00Z"
+    },
+    {
      "title": "Bank of America Customers Can Earn 5.25% Cash Back With This Card",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2cteTZPV1pNS3lCdVVLUGczTTN3aTVnNGNjdjNTOTM1NVdlaVdSQm1ON1BOZHNSTjlVb1lSWVBudUVUQXMxQkpkSFlfV0kxNG5LdDJmekloekYzenpXczNXanJ0MGlYOWFDUE1nTGhKQVc5c0I3NXdEMGxqeEg2Sm5DWXFIX0pjRmFRWXlFN09LYWlfaWdBZVhNeklsUXg5aTl5OElPLXJpRERmbmhKVUFGTQ?oc=5",
      "source": "The Motley Fool",
@@ -245,7 +245,7 @@
      "published": "2026-11-14T10:15:00Z"
     }
    ],
-   "news_at": "2026-11-14T18:00:41Z"
+   "news_at": "2026-11-14T20:22:21Z"
   },
   "NYSE:SCHW": {
    "news": [
