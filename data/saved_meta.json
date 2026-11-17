@@ -4,46 +4,70 @@
   "NYSE:JPM": {
    "news": [
     {
-     "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-     "source": "AP News",
-     "published": "2026-11-17T00:23:00Z"
+     "title": "Chase Bank says operations are back to normal after ‘bug’ disrupts transactions",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWgxOGR5Tk5lLUtxZU10dWdsSlRXU1dvZ0h6ZEE3S2ZqYjJERGRyY05UUXhLXy1kRGFrU3Rza050dVllUWY5T2JuWFJ4YU9YWjA4UjRNVjVCcXdacGF1RUM5OWN0VXpwVlA2QU5BaC1Vb3A4TzFJMW1UVU40aFJKeWpScUtKbFppVXd0YmdVdVN3SXlScHFGd3pHbzVfazZ4Q2c?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-17T02:48:56Z"
     },
     {
-     "title": "JPMorgan Chase (JPM) Opens After Hours Tokenized Dollar Transfers",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDNmSHpHSXNvbVJNYW5wVlhSQVF2WlpucnVISkpqR21naHdHVXl3RzZtS2RBdVllc0pWTks4eHNUNUJWVUNOY3M1YVRjTV9VTTlOeklTMWZUWWFWSHBwaFVBMldxQlptX2VIQnM1dEdiUHBHMHFzVUhtbkEwWHg3QmlFMnJ1YVhRejdJSVhiM0NiekpDTVhaQXFyOTFrbkdjWlZtbXMzNFZEZFVrTkFIV0VjUDRpa0c0X1pQWnMtZ1FpeEhpMmfSAcsBQVVfeXFMTm1uOXFjOTAxRmxHZ2NCc05teXA0WnFKVkwxeVJLZUM3RjY5YUpwLTlhM0x1ZmxNM2dObG02d0wyeGpZQVJpekY3c1FmTy12bkZ1WWFkSS1wa3h0aXZNNHZoQ2x4b3pNLUpqSFFNZHZSSWdWMlRPVjhFcFJiaEg3MjI3RHdXbFhjMEE1T2xEOTFRQjJnMkI0U2stZ2N6NWRDZVVYaWNwampENTVPdU9iRmxwZ29DM29NY3VJU3dkYWlKQ0pqMWo0SUFTVXc?oc=5",
-     "source": "Simply Wall St",
-     "published": "2026-11-17T00:22:27Z"
+     "title": "JPMorgan Chase Restores Systems After Banking Outages",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGp1OWx3V3QtMUFTWEcwNFNKZTAwaWUyTk1YdDJ4N0NHUHN6ZE53VjM4ZGdGVERPdmEydkplN1phdEtIVEdIalVyZGdoY3VtR05sZHJ3bWsyWmVtWGlTaTR5Z3pOV3FWenFPZnV3ZHBmX0NjRWlPWmdsWTRiY0hQUFVDWUFHVFE5Zm5vckNYWnUwZw?oc=5",
+     "source": "JournalArta",
+     "published": "2026-11-17T02:24:44Z"
     },
     {
-     "title": "Tech Glitch at JPMorgan Chase Causes Banking Chaos Across Country",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0M0MzhpYXlxUjVKWVRaU3FCOUhjNmw0TUhuWEMzcV8wWWtuNVMtSldKbXZCY0NxMXljMlgtYkVEQWdvaGZ3ZDUxX3BmZ3QyTEdVbTJZSG9CTkRfajdoUGtnZF80dnY2c09EU1l6R29HU1FqSElQejdKSjVha0JYQUxWT2pGMkc5MVBidTBNaVpJRXJ1a0lJTnlSZ0VjTHg3QVpVQ0RVOWNSbjhV?oc=5",
-     "source": "Breitbart News",
-     "published": "2026-11-17T00:18:49Z"
+     "title": "JPMorgan Chase: 'Software bug' triggers outage affecting other banks",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iZTk2OUtwZFltOVdycUVUQWpNVl9iR1RfOUstLXZadkcxMkN4UlhQb0lEUlQ3MnZJbncxUXFUZC1zNDlzOWk3ZUM5a0k3cGlVenN4R2UtYzlOWW53SFBV0gFcQVVfeXFMTzBPVGdWendoMlFYWjI5VlJkTW01MWVjWWZKU29fdE40MGJzdDVkZkQ3dDM2b1BYQlVxYk9hYjlhS1BLXzZZVGJHcnFWTW1Ydk5Cd3dCVFdoMDZwUVA?oc=5",
+     "source": "Modern Ghana",
+     "published": "2026-11-17T02:20:00Z"
     },
     {
-     "title": "Chase Bank outages today: Chicago-area JPMorgan Chase customers impacted by online banking issues, 'software bug'",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnpXXzlqdk10azVkMjhPeXdkbXBPbHEySlZmMVNWbnNXN0VzN0pGaVVxOUFWMG55U2VTdHd5Y2MzeXdvaUVXbFBUdXFvem51dzVaVzljRWh2NUJnY1B4UnVNbXFXVnlheDBma2pvNFJVR2xMbzVKaGNJUU8wcTdmSDU0NGxFMmxNYk5ucXRQX0s5eVZDUTFtTWVROUljOHE1TU9Ka01jRDJBZXE4QjdDa1RKMDJBUGlvS2ctTHdabENMRy1jNzd1MEw0aHhlb19BMTBFSm9B0gHbAUFVX3lxTFA2R0xfcnJ3SjBRTjBEczVKYzIxcDJUM3FtYU5mcV8tc0VLSXNsektIQmdrZGJzZjd2cTRyQ19VNlRKUFZ1V0JtN0ZkdGZTcTdBb1BqS0dIVi1kUWVJN05wbk1hQ1pESW9LNjRoLTVGeFVfVzBPTTBzeGpqSkNrSkZsZi10WkJxTmVkSm5kYWQ1eTdLNHN0eTB2VF9wUHQ5X2JYQm0talhEalo5dGM4REFfRHFPNnV5OHVHNm41a3VBd2VWZG1NWEdmSTJYX2ptZExmYW1KU3RwLWNIRQ?oc=5",
-     "source": "ABC7 Chicago",
-     "published": "2026-11-17T00:11:15Z"
+     "title": "Microsoft, Then Flights, Now Banks: What Disrupted US Financial System",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWhiV0NqX0g0T0U5NVpaZnNseUlxXy1IVmxWUlF4eHFDSmNaRVJ6VFFjY3ZnQWNGMHhzRGdWdnFUVUZZUjJJUkEyOXJaWkV6aTE4bkEwTzFBT2VHc0dBd055dkpjTUk1ZUdyZV9mdFNSYS1EQXBPVG5KM2c3R21vcmZCeVFzcTl6TTBwb1JDMjRLYjM1eEE3WVpzMllkMXFlTEVONEdBNXNQbFFzRFRxMUUxVzZuSVN5RkxnY0MydnRsZk9vT0tj0gHPAUFVX3lxTE1DNm5OMm5lbVBnSFBwc3JoUE5EMDhfdG9KUFhzS3lPSTk0SXpIME54ZVlBTFVZWVFxV3FtWWR3ZXJJZTdZSUVUYUtYMjlQSDZWOU5LMXBNS2lScE9kNnZUMVVPUWJoc0pCREtrQlhxeTJUaXJCQlJvWDFOM0xkSGNyRGgwc1VrTXV6VzZNRENNQkhLbzFZUkZEcE9iMWQ2R19RSDY1dkZQNUwyMWZZZFBBNGhpalE1V1pndE03Tm9Qck9fbTk2YXUzMEhnNk1NVQ?oc=5",
+     "source": "NDTV",
+     "published": "2026-11-17T02:17:35Z"
     },
     {
-     "title": "Philadelphia region, nationwide employees and customers impacted by JPMorgan Chase 'software bug'",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2ZrdFBvLS1Ba2czYjIxel90RDcwNlRld0JPa0ZoNUl6cnlicWVKSU5XUGJGQ09JRE1jam5waTdfVFRQUlhVMUs2X19tbEQxUFRiSDRFdU5VcWJPQVVXdzdGcUZNbEVvUlZIcmQyOEdZcHh1STZwTlhlbE0tUno5ZXF3RjNncjAtY3hxNWFpN0VVdnJWTDlKcHpjcjFqenhZWUN1ZzFKNDZKTGNLNXB6eE1wLUx4UUl1MWlr0gHAAUFVX3lxTE9uNTZTMXhTdzdjcVpsSXNtT1Y2QVgxQXlTSzNxZ29jWldUXzg1LTlYQjRVVGFfRURSUDREMGtNVmlMWXpYNGZzWERYRWVkS1BpUVNwSlllY1JaaWwyeHFiWXcxbVJ4bXhWOWdvcXppVUI1M1FJc19IOWZqa1NFa0pMYVl5ejJ2bnozX3pHbVRfYmU1UldBakphd3huYl9QOGhzbzdBSk1KSFlqeUpwNGZuM1k2VnlvaHI0VUNpZzRKeQ?oc=5",
-     "source": "6abc Philadelphia",
-     "published": "2026-11-17T00:11:15Z"
+     "title": "Why Are US Banks Reporting Outages? JPMorgan Rules Out Cyberattack, Blames Software Bug",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUJ1YjM5SGU5WHJuMVY0aFpHZF9zcWN2VGVPNGJ0RllUZVpmSy16M2drVHI3YlJDcTI3ZHVKQlZvYTQ2WFd2Sm1oUVAxWFAzRkE4VVRjRWRneUw1RDduREp3UlNOaUxpdlRhRFVSXzJKd3JUaU1TTHVTcDZhbERFSThPX1dncWQzUmxFZHllMUh0NHJ2ODU1OThiWQ?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-17T02:16:00Z"
     },
     {
-     "title": "Why Chase, Microsoft and United are facing crippling outages — and why it’s all likely to get worse",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWVYQ3Bsa3JJQmI3cDBSbUlVeDdabnItdGZacVNpc2hnb1V2T3dWUmlDb3FkU04yaDVPQ1lOZm55VkZNRllfQ1E3NXE5aDVDMnM3bGhHWTNGeTZRam1QNzJxSFhaQzFMVmF4Y3hKVUVfd0tUaUxMWnhwVU9GeU16eERLSl9aRkdqamYxVjBqcUtpTkhEd2ROY0JfTUFRUjNIUnY2VVBwV1BmQnFrMjlQeUJQNmloakNaMG5RaVkxRQ?oc=5",
-     "source": "New York Post",
-     "published": "2026-11-16T23:56:00Z"
+     "title": "Chase Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93dFVwN0t2YXBDbTFOQW9iRG5PSWg4U29fdkp4SlJLbUFiU1dOOHpTOE5FUVMwbDhRTGxrSWxkaWcxT0FrejhVUGFMS0hZODlNTk9FRTlFQ19ydGtIYW54Q3B5SmNKMEQ3dXVENw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-17T02:02:57Z"
     }
    ],
-   "news_at": "2026-11-17T00:30:23Z"
+   "news_at": "2026-11-17T02:54:22Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Goldman: Gold May Need Two Years to Reclaim Record",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONElaVlZyQWRzM1hsLTdvMEhDNmRTdEFZLS13VFdLUXJQaWU5TFZtbldlUGMycTJQaGxLZlk1Ni1rdGZTYVcxTENNU25HQ2ZUNkhndjRFa3BOLWtIMHhZUGJuQ1I0ZXFraDE0c0FkOHpRRFJCa3ZCS2VqWkNpVkprd01fLUJkOWFHemE0U3prSQ?oc=5",
+     "source": "Briefs Finance",
+     "published": "2026-11-17T02:54:33Z"
+    },
+    {
+     "title": "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVQzOEZHV0pTY1pDYmpRaWd4SVVhQzhuV0d2ZVd1aXBoMG5kaEc3aVFid2lTU0UyNU12VU9tMHk0azhrSW5LaGZERUNBZGw3dklIRVBNc1NRN0sxc0ZmU1FmRV9DRVRPM29DQzJObXF3bkEwQ1Q3YUNqWHJwMXV0bG16b1hwWlVhUzZ6cjFpR3FmWlJMUVpEYnoteVE3LWd6eHpycTFpdk5EQW40aVh2d2JfVzhEUzVIUVE?oc=5",
+     "source": "investingLive",
+     "published": "2026-11-17T01:57:35Z"
+    },
+    {
+     "title": "Global Macro Outlook: Steady Baseline, Downside Risks",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUllN1FSYlhIRnY2ZmhhNzBBdEF5TWUyaXRWZ0stcTdwSFk3RWktSjhxZ0FVY1lhMDhYZFpHNXM2MVkzYWN5MXZNWk90TWdUUmRnZFVrdm9FekR0SkpPOWYxTFlmR1pxcjBwUEI2MFBkWGpGZHp1UkF6MVVoWnoyblhzRWY1NFdHX3hrS09iMm0xN2RpemdfaG9zOUlkS0pnUXpNZE9LeTZCeGtCdktmcQ?oc=5",
+     "source": "Goldman Sachs",
+     "published": "2026-11-17T00:44:46Z"
+    },
+    {
+     "title": "Goldman Sachs: AI layoff wave delayed, not cancelled, in 2027 outlook",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkZsWDRoTll1N0FOTXJidkVkZjhmdWxIWXgyWldyOG5LMTZBN2lEclJfWGVSQjk3NlBDUEVJbFkxdWJjZ21SRDM5aVpmM0FnbzgxamRFQWRRemxHZHlvSWFYWWNtSEU0X0RCZkEySVp2UGw5d3ZyRFhVOUZ2eFBVZWZKQ2E?oc=5",
+     "source": "CASRAI",
+     "published": "2026-11-17T00:37:23Z"
+    },
     {
      "title": "Goldman Sachs Says Gold Will Hit New Record in 2028 Despite Near-Term Selloff",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONjJKa21FcndGOWxSTHdlbzBBR1RjQi1BUGw1ME5jQW5PSEtzX0NYRWZST2RDNS02THdoVFc0WlowZEFOU0psU1UzbjdTUHpuS253ZkFleVYxMS1WeEFzdWxSUURibGpSeUdxTVVjSVhSeGJkNHA3Mkd0YklCNkwwS29wd3NKd0FKTVNNbVBXdllmcTlOTFlYdnlSVVVUX19kTG9KN3RMUWhIdGFHRy04?oc=5",
@@ -55,33 +79,9 @@
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGdlMi1yLVdqcmNBVnY3SzJYVFVScElwUS1Pa1lIVmpKV3NvM0xPMlpJMEktNHZYUDRMcnJsY004ZXR0djRtTFFzYUNVTGdTQUdKcVFpMFBZRXlGNzlMa2xKdlkwOXBuWENtcERfRGRZWDB3dHNqeTczbHQwMF9SbXAwem5fc3FKdm1VZzlfT0FRWnZFOVZRUWl6VGlpc0hwWHUtYjVSYU9UNFFoUVNhMnVVMEtCLU1ES2c1NnB4UzM?oc=5",
      "source": "FXStreet",
      "published": "2026-11-17T00:06:49Z"
-    },
-    {
-     "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTldadkI5NUFCTERRMHhxdHFUa2xMUDVITjhZa0I1MkpkczZYeXpjejFHSmpKb01YZnZzZEdiZ2pNM0RaeG5vQlM3YjlLSkVtY1ZObkx3Vm9PZ0t0TTZHRG9HaXFHOVZlZHYxazE0NnAwc3poWGpURUIySEIxZUdBSVA3T2VkRmI5RGdDN3piUEVCalNONnI5Qk1Bb0VSV1dkbVJEdmJKRkt2OFB0THB6dkxOaWrSAboBQVVfeXFMTl9DZUI0QkhnaUVNSXA1N0hzRDFURFhiNHZTZXVJT2ZfWlF0d0sxWjJhTllCeDBxek9nTXhVemFfUjRDaHpxN0xoMXVWX280WVpxUkFuSFFPQzBlYlE0WUZfdlYyZzNlUm5tZzdBUTRnOFZPRzZPZGE1UlVKdm9Pa3VHMzlHOUNfNFk3dkZCZlNOcmtsa0E5Q2tkbkM1ZmpTZUpHZ3lJRkkwZy02SmNiUG1WaVR4aHhST2t3?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T22:46:12Z"
-    },
-    {
-     "title": "Fund Update: New $476.5M $OKE stock position opened by GOLDMAN SACHS GROUP INC",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpnMHRiVU1MNlNjQ0hTRVlDS2dpazdxd05odnpFc1VwT2QzQU5scWFxUmlLb2RaVlVuN0sxM0JvaWdRM2xQblpOT2NaU0FSem1KNlBjak1BSEhRWXphcmIyX3BTM2pGWW1nMEZSQ0MtTy1Kakpma25vTTdvUTlyZkV3ZGhjX0k3VURYR3cxY09hUDJUcmdtXzN1aGs5bzlTRTZYYTFOQmVUVjVCOVB6bG1jSDZvcVZZ?oc=5",
-     "source": "Quiver Quantitative",
-     "published": "2026-11-16T22:21:00Z"
-    },
-    {
-     "title": "Fund Update: New $4.9B $XOM stock position opened by GOLDMAN SACHS GROUP INC",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmp5N2dETE5BUDdiWTFZb3k0VFNSRTlteE9Genl3ZU82YldCaDR1SDlnaktuN1hpUXNvcWZTMllxbmdXREpTNFZoM0FRT21MRElQQlBGenlTNmRnd2pYRGk5eC1mVWxKakMwNkhGc0M3Ymp1VGFOaGQyeU12UC11ck5iUktHeWhMQ3lZS1ZfUjg1UFV1QS1vQTVfWXd0NmloUUVFd1ZmLUhUQXROUFhqQUxZNW9CUQ?oc=5",
-     "source": "Quiver Quantitative",
-     "published": "2026-11-16T22:21:00Z"
-    },
-    {
-     "title": "Fund Update: New $787.1M $SKHY stock position opened by GOLDMAN SACHS GROUP INC",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenRYeHFjQm9SNzBSdm9MNHVpNXdQMC1mVVFUaG1LYU1HODA5SGNtWHI5TWxJZTNCV3Q0T2ZxZWNaWnA0Uzk2Nk1oaHRseG13ckNKWWRjaXdKU2ducXRiNVJucW1GSGkwNUZ4emtsbDdNYlhNV1M3NGhQQU14N09BaFhIMjFCWTBnUno0Y0JJRXhsZUItc2Jpb0VyRzA0TmFpNG1mVGNGZWZZWTVOY0wxYUNXRlhVeEtMR1E?oc=5",
-     "source": "Quiver Quantitative",
-     "published": "2026-11-16T22:21:00Z"
     }
    ],
-   "news_at": "2026-11-17T00:30:23Z"
+   "news_at": "2026-11-17T02:54:22Z"
   },
   "NYSE:MS": {
    "news": [
@@ -168,6 +168,18 @@
   "NYSE:UBS": {
    "news": [
     {
+     "title": "Centuria Industrial stock: UBS cuts rating to Hold",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmxPZExzQWxKM2VLc29yVXdvRHhtOXlfcVhVeENseGN1MjZDSUZHcHJ3RUNEQmRZM1NsSTFCRkxmT0hBU1E3NlB2RU5HUWxTVDRrNkFwaWowaVdPVXhnRWx0WnJkYWhkZ3Z0Wjh5ZEFueGdVUkJXR2F4OWJqcmRWdEFoSlBoazg0cUc4RDdqS1RIcW51LXgxaV9RMEdFejRYcnI4aWtXd2p0bzRl?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-17T02:31:10Z"
+    },
+    {
+     "title": "Video: Has the world \"changed\"?",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblJqZ0U5b3RJNEVHLWFpTFF6S3FmWER2b2JsZjFwdEJGRWZLSVFCMl9TeWh0UVJUREZXZUE4cDBYdGpiSjgzVnhCdTZCb2pScDY1TXBwX2kyNWFTZXhLWWs3R3VjN1JZSW4wLWwwQXUzek1SMk0zTjdCWldfVmYyR2xTWHllTzd2YjZfT2J3?oc=5",
+     "source": "UBS",
+     "published": "2026-11-16T22:36:48Z"
+    },
+    {
      "title": "Peabody Energy hiked to Buy at UBS with Centurion 'down but not broken'",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcy1zQm13cEFMYU9FZ3JGdGFtdnM1SXNxSWo3a1JfdjN3a0RlLThGVVZPdS10X0RCajRYVUJOVlJ3QlFBMlpBNGs5SkNvbXBsNW1iNm5GSWtybVpWalZfbmZPVTV6TERqNU90cXN4c3MzNXgzNkZJNzFsQTdPQlFrbThmSVl2T3ZXXzFleERZMUlHTnlWZHY5eDMybFFKNTE4Ujl5WlJJOGRBdXFtWVpGa080UWNuZ1hkZHNsY1BnTGdTUnJ0WkxIaDJBVGY?oc=5",
      "source": "TradingView",
@@ -180,22 +192,10 @@
      "published": "2026-11-16T19:52:21Z"
     },
     {
-     "title": "Nucor raised to Buy at UBS on coming 'cash flow inflection'",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGljT0pVX0NIcFh0R3lzZTdMMktfYlFEelpGZk1WMjE2Um5HR21zQkpoZzFqS01oVTVBc2o2VTJpLTVIMFhiMHhGdURLM2J3Q3o1TDRRRnoxRkJqTFMySGl4NWFMYjNXQlp6UkNndG1VcFVEamhBNTJyVXBobUtlNTZFU1NQdElGQUtQS1U2RVlZUWlCdXFuS3hJQktOMTJ1Wlk2UVJkamNKZm0ydEwwV3ZvbjlDWGM4VjFtOQ?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-16T19:32:34Z"
-    },
-    {
      "title": "OpenAI likely sees cybersecurity as 'important' market, with more products to come: UBS",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORk84MkUzSkIxUXlpRjF2NFJxY0pOVXZXOTNpUld3OFpBNmVBbnhRUnRRdW5vOFVTdVFFVFlyUEFWR0ZpZUxpc2Z3bC1UUTBxZG85WGNORHM2MWtkdlAyLTRRRWZfY1hLcTFFTnBGcTJHejlfZ3dPOVluZzJRWUxHbm5nUEdUWEJHM1FCSHhhYmdCTGdLcFVSYy1WRHhZVklaY2FlcWVuaFJRSzJ0UjVYdVhXLTFwa01aR0oxb01B?oc=5",
      "source": "Seeking Alpha",
      "published": "2026-11-16T19:26:05Z"
-    },
-    {
-     "title": "Nvidia faces CEO transition and China risks as UBS and Bank of America assess earnings outlook",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNjVETDc2blhSTEVSeHhmWmRDcXN3c2FBY1FZSkM1YkhtWXY4Z0xDWG1CWlBMZUNqNHJSa1JpNDd3QmV1bV9RU2h6bU1uc1F1eUhBRHZidC01LXlZemEwcXEyaVAtTXVoclN6RFRLYy12NXpZQmlCaXFEeVhzcVFyQUlDZWNGNVMwRzBlajFEeWVJY2IwR2djREt2X3Y2dnBtM3ZhQlU0Unp0VU5HeHgtdkRmVGZWX1VJd2VEdThzWU1hOWVXOERRbExBMTJXaG0yX25TdFJpV2RWSlRYZTVFcUx2TVBtQ1pxRk83Ym1zLUFTWDRNSmRDVw?oc=5",
-     "source": "Proactive financial news",
-     "published": "2026-11-16T19:15:00Z"
     },
     {
      "title": "UBS Initiates Sell on OFG Bancorp (OFG) Amid Deposit Competition; Dividend Sustainability in Focus",
@@ -204,7 +204,7 @@
      "published": "2026-11-16T19:11:53Z"
     }
    ],
-   "news_at": "2026-11-16T21:34:20Z"
+   "news_at": "2026-11-17T02:54:22Z"
   },
   "NYSE:BAC": {
    "news": [
