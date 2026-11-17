@@ -45,46 +45,70 @@
   "NYSE:GS": {
    "news": [
     {
-     "title": "Goldman: Gold May Need Two Years to Reclaim Record",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONElaVlZyQWRzM1hsLTdvMEhDNmRTdEFZLS13VFdLUXJQaWU5TFZtbldlUGMycTJQaGxLZlk1Ni1rdGZTYVcxTENNU25HQ2ZUNkhndjRFa3BOLWtIMHhZUGJuQ1I0ZXFraDE0c0FkOHpRRFJCa3ZCS2VqWkNpVkprd01fLUJkOWFHemE0U3prSQ?oc=5",
-     "source": "Briefs Finance",
-     "published": "2026-11-17T02:54:33Z"
+     "title": "Morgan Stanley Bullish on A-Shares, Bearish on Hong Kong Stocks, Diverging from Goldman Sachs",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRHB3MGxyYWE5VG40T080TEI3bTJ6WjNieXhMbEFRWURhTzJGOGhvUExvTVVtRzBscDN3RkVlbjVfcXc3VDVadkwxSUNDWXQ4RF9jTVJJTVBhRFlDZUIyb0wya2NQbGgtVnNvRjZ0akRtN080bGc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-17T05:56:00Z"
     },
     {
-     "title": "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVQzOEZHV0pTY1pDYmpRaWd4SVVhQzhuV0d2ZVd1aXBoMG5kaEc3aVFid2lTU0UyNU12VU9tMHk0azhrSW5LaGZERUNBZGw3dklIRVBNc1NRN0sxc0ZmU1FmRV9DRVRPM29DQzJObXF3bkEwQ1Q3YUNqWHJwMXV0bG16b1hwWlVhUzZ6cjFpR3FmWlJMUVpEYnoteVE3LWd6eHpycTFpdk5EQW40aVh2d2JfVzhEUzVIUVE?oc=5",
-     "source": "investingLive",
-     "published": "2026-11-17T01:57:35Z"
+     "title": "Goldman Sachs initiates SBM Offshore stock with buy on FPSO demand",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1NNRE9MQ3FFamJxSDJyLW5LYnpsTWllaGlmaVRhNmRWZTFON0M0YWpxemlhT3BoT042SDRLUVhvbUxKUk81V3FxMldKdDVNQ2c5WUpzSnpoVlBqVHIwYTlTaVgzQnViZ1JvR2RJM2l6dUUzSTNmclJaNERzcEVhOWw2S3VoN25HcERZbTdVaHNGT2FYNTF3cWZZVHViRm5kQ1ZBcjMwYmFPcExVS1BzTlBtQzB1bVRjNnhscl9Nd0NXM2pBUWc?oc=5",
+     "source": "Investing.com UK",
+     "published": "2026-11-17T05:52:00Z"
     },
     {
-     "title": "Global Macro Outlook: Steady Baseline, Downside Risks",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUllN1FSYlhIRnY2ZmhhNzBBdEF5TWUyaXRWZ0stcTdwSFk3RWktSjhxZ0FVY1lhMDhYZFpHNXM2MVkzYWN5MXZNWk90TWdUUmRnZFVrdm9FekR0SkpPOWYxTFlmR1pxcjBwUEI2MFBkWGpGZHp1UkF6MVVoWnoyblhzRWY1NFdHX3hrS09iMm0xN2RpemdfaG9zOUlkS0pnUXpNZE9LeTZCeGtCdktmcQ?oc=5",
-     "source": "Goldman Sachs",
-     "published": "2026-11-17T00:44:46Z"
+     "title": "Goldman Sachs sees Brent oil averaging USD 88 in 2027 despite expected oil market surplus",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdjhpcmFXM2JLME51ZzFtUHZwSUREWkRUalI0cUlpSnZ0ODNrRFBaUDlqWkVjbUZhWGRmNDd1aDZmTWRqY2ZOWUllVVVMbU9vQl9RaDVJWGR4T0l5bWI4WnpCNVN0ak8wWFRWMVNaWFVWWE1TSFAzWE41U1hmYTNDM0xLbFhReElVQ19CTUh2bEd1MUUxbGRBLURrcm9rSC1CQjJiaEVjT1RVNktsc1NsZmFkRXBudFcxbXZsbXRoSmEyeDFFbHZVQWI0YlhaYWZUWE1pUnF3aw?oc=5",
+     "source": "ANI News",
+     "published": "2026-11-17T05:51:00Z"
     },
     {
-     "title": "Goldman Sachs: AI layoff wave delayed, not cancelled, in 2027 outlook",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkZsWDRoTll1N0FOTXJidkVkZjhmdWxIWXgyWldyOG5LMTZBN2lEclJfWGVSQjk3NlBDUEVJbFkxdWJjZ21SRDM5aVpmM0FnbzgxamRFQWRRemxHZHlvSWFYWWNtSEU0X0RCZkEySVp2UGw5d3ZyRFhVOUZ2eFBVZWZKQ2E?oc=5",
-     "source": "CASRAI",
-     "published": "2026-11-17T00:37:23Z"
+     "title": "Going against Goldman Sachs? Morgan Stanley's outlook for China's stock market in 2027",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnFlU3I2cmxIVmR3bnlEeXNuVm5jU2FpM1lyOUlQbTVIU1pzUF9xbk9ja3FpTVpqeTdoSEZULUNMNzVYTDJ0ZlQyUl9MT0pTLVlldXktRUp3ZlhUNW8wU3JucEJzbkY0UUtzNWs1QlY0S25QQ1NnRU5MR3g4VG4wX0JoX0s4RjZyNG5zZnBtMExNNFlCWVdRUW4xUXprV2NhdVBhMU1ONlE?oc=5",
+     "source": "富途牛牛",
+     "published": "2026-11-17T05:37:37Z"
     },
     {
-     "title": "Goldman Sachs Says Gold Will Hit New Record in 2028 Despite Near-Term Selloff",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONjJKa21FcndGOWxSTHdlbzBBR1RjQi1BUGw1ME5jQW5PSEtzX0NYRWZST2RDNS02THdoVFc0WlowZEFOU0psU1UzbjdTUHpuS253ZkFleVYxMS1WeEFzdWxSUURibGpSeUdxTVVjSVhSeGJkNHA3Mkd0YklCNkwwS29wd3NKd0FKTVNNbVBXdllmcTlOTFlYdnlSVVVUX19kTG9KN3RMUWhIdGFHRy04?oc=5",
-     "source": "NAI500",
-     "published": "2026-11-17T00:08:33Z"
+     "title": "GQG key Goldman Sachs mandate in focus as Magellan echoes grow louder",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUk9mWlU3TUQ1bkZ4MFprUDAxaWFZXzhFTTlRLWNQeTBGdnUydVZJdEEzNFVJNW8weGNMaFU1YXRCVzFQdWpFZjIyOFlsQkRWaU9EX1pzYkVtai0xSHlJc2lFY1ZYdlI3c3B0djhPb3pWdWRXb3ZFTFhIRnhhSnBMQ2RDdlRoZnZyanBPRWVuZHhGNEZSdGZ5LWQ1WHRwYW1XZHNyTzYwZzQ3R1IwLV92QTdUcEUxWnFPLXl3SnJJZw?oc=5",
+     "source": "AFR",
+     "published": "2026-11-17T05:13:00Z"
     },
     {
-     "title": "Goldman Sachs backs commodities for 2027 – The time to accumulate is now [Video]",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGdlMi1yLVdqcmNBVnY3SzJYVFVScElwUS1Pa1lIVmpKV3NvM0xPMlpJMEktNHZYUDRMcnJsY004ZXR0djRtTFFzYUNVTGdTQUdKcVFpMFBZRXlGNzlMa2xKdlkwOXBuWENtcERfRGRZWDB3dHNqeTczbHQwMF9SbXAwem5fc3FKdm1VZzlfT0FRWnZFOVZRUWl6VGlpc0hwWHUtYjVSYU9UNFFoUVNhMnVVMEtCLU1ES2c1NnB4UzM?oc=5",
-     "source": "FXStreet",
-     "published": "2026-11-17T00:06:49Z"
+     "title": "Five Goldman Sachs research reports converge on a single conclusion: the AI boom is nearing its end, and markets are more vulnerable than the broader economy.",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0dKbFJiZ1l4VlVudDdEZXg3cU5WWl9tMTBQRHM4RzVPSnFKY1lWdUJvQkhIWG1ZUTVDNlYwelR2Nk1JVHJjOWhzbHVtcHJTYV80TlA5RlZxNnNjc044UWxPN0xOODJwSTBhVkNfYkhmV0V0U1JPdFZJWGFCeTZMeC1oMHpndDBwOGJUa2x3RlBFUExmS29aU01aNElNdk02WGNKdFJwbWYzMTRuQlhr?oc=5",
+     "source": "富途牛牛",
+     "published": "2026-11-17T05:07:02Z"
     }
    ],
-   "news_at": "2026-11-17T02:54:22Z"
+   "news_at": "2026-11-17T06:04:36Z"
   },
   "NYSE:MS": {
    "news": [
+    {
+     "title": "Morgan Stanley Bullish on A-Shares, Bearish on Hong Kong Stocks, Diverging from Goldman Sachs",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRHB3MGxyYWE5VG40T080TEI3bTJ6WjNieXhMbEFRWURhTzJGOGhvUExvTVVtRzBscDN3RkVlbjVfcXc3VDVadkwxSUNDWXQ4RF9jTVJJTVBhRFlDZUIyb0wya2NQbGgtVnNvRjZ0akRtN080bGc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-17T05:56:00Z"
+    },
+    {
+     "title": "Going against Goldman Sachs? Morgan Stanley's outlook for China's stock market in 2027",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnFlU3I2cmxIVmR3bnlEeXNuVm5jU2FpM1lyOUlQbTVIU1pzUF9xbk9ja3FpTVpqeTdoSEZULUNMNzVYTDJ0ZlQyUl9MT0pTLVlldXktRUp3ZlhUNW8wU3JucEJzbkY0UUtzNWs1QlY0S25QQ1NnRU5MR3g4VG4wX0JoX0s4RjZyNG5zZnBtMExNNFlCWVdRUW4xUXprV2NhdVBhMU1ONlE?oc=5",
+     "source": "富途牛牛",
+     "published": "2026-11-17T05:37:37Z"
+    },
+    {
+     "title": "Morgan Stanley Enters Europe’s Active ETF Market With Four Funds",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUlGcmlaOXBadXFZMWhPUFdIRXJCSE9maWFkNHJHNG13ZDZSR2k1bVJUdnhLaU4xVl9wbUZXMnBmenR0MXNsSWRSRmZNa2xUZnlDVWptLWszZC1IVGtKM3hfdUZ3aHJKMXF6dWxzdlBDaEtyWU5JX3dBeFh2cU51SmNpNE1LTUhaZmZibWdNbXM4NGFzbWVtb294WVZsaUZkOGxGcWVjdDBwM1FkM1NfVVcwV1lZQQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-17T05:00:00Z"
+    },
+    {
+     "title": "Morgan Stanley bets on gold at $5,250, the boldest bank call with bullion near $3,875",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWIxSi1pLXpRb0I4MzhjbDlZOEJKV2tMNFAwZ3ZTXzFkWURUTEQxYlVPeWEyNFk5VVpDam9leE40T3gxaEZSVTVYZ3daQ3l5TTMyQlhpeUw3aHY0SXpoa3gtTTRrUjlGTnc3bE1CVnhJZzduQW9kV3JQUHFmb1g5YVI1YlFiQ2N0NGFJa3NsY055a1hpLS05MUNZblR4aVhXcW5JWENJLUlZQnZwb2Q2Njg4MVlDVEJBQkVUWUtR?oc=5",
+     "source": "investingLive",
+     "published": "2026-11-17T03:31:07Z"
+    },
     {
      "title": "Morgan Stanley Urges Investors to “Embrace Risk”! AI Computing Expenditures “Will Be Delayed, Not Reduced”; Maintains Maximum Overweight on Global Equities",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWm9nR2ZqYTNLZ3MzX2g1c1BNS2hybHZFT1VqS1Z1TThiXzdNemN0MmFwbUowUkt5SlM0alVNMU02Y2M1U1BaOEVwVDl1QWwyNy1XbklmZGlkOXB0cWhad0Q2c3lFd1gxR3JIWXNxRk0zbkRMNGt0N3cxTzFPR0Q2WmJLX045Znd5SnJESXpkcnZFZnpVR2hOQXUxLWt4cE5uNmh4alYwMmJCUVlpVFB5Y2VIYnpqQQ?oc=5",
@@ -96,33 +120,9 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RXJBZWxwd0FEUEJyUXkyLUJPbml4ZkVuRXBLdG9JNjJyTWVQVXBydU1QeFhLbHk5bHozblMxaEdwUWJqdTI4eDFDN1licUtRWlhSajFRU3dTLTBVRmZ3S21pTzNQb1h3TExLdV9vT1BneWV6?oc=5",
      "source": "Businesskorea",
      "published": "2026-11-17T03:13:19Z"
-    },
-    {
-     "title": "Morgan Stanley co-leads €150m-plus electric motorcycle round; KKR completes $17bn insurance services sale",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObU1vUUNZQnljTF9VX0RlUnBFZVgyVkhPU1dUeDZTemI3Z3Z0dHZlZ3VLODZlQkt4dlo0dlJDbkZNWTBPdl8zX3ZzVXhvVlZyTXREeWlyakpTOUgwSjVpWG9hRGEwUWR3M0h2dnR2NVdleGV1em1SR1EyanZrUUozSVVyS3cyTXZXLVFHbFJHc0pEUWFSM3hrZE9oR0ZyNUhXR1cxTGRxTDMzekpDMWtvRVB5bzRqQQ?oc=5",
-     "source": "Alternatives Watch",
-     "published": "2026-11-17T03:05:24Z"
-    },
-    {
-     "title": "More from Morgan Stanley: 8,700 S&P target and $5,250 gold lead its 2027 outlook",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa25lU3c0d19JNVlOdVJnd0YtRlJvV3BsMm9RU19ESnowZ0lrRFJ5ZDk1VDVyaldEYzVqOW9BdFZMQ080SEp4ckxXTGVzTTdETjRmSk5xaHlNZUVXNnJDc1oxaEtTNFZTTV9SUjE0YkJmbGVET2VZRDBUWkRVajFKU1IwWC05R0dzM1FDVmN1eVR6aHRzU21HRTZoeDRNSC1NMkNKa0xBcXdScEdGcXBpVVhid212dEo3alVWOW1aa2lFUDA?oc=5",
-     "source": "investingLive",
-     "published": "2026-11-17T02:51:07Z"
-    },
-    {
-     "title": "Sensex may hit 95,000 by Dec 2027: Morgan Stanley",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnFyLUh1eW9uWncxcS1XZ3c4YTUwWWh5aWFoeW5oZVZ5TFBkS20weU9UZUNfQXcwQjF1TWVfRTJfdEdZZ0VMY1kxVGNmTFVfX24ySmFQcEdlYW12YlB1ZXJ0cXNzMWtjeFJMTk03YnNOU2MxSkZxcnRObjF1bHFYR2lNRWp1MXV0Q0k3d2VhLU9zX1JGdFZ4RTh0Z0xSeWtjaXdR0gGwAUFVX3lxTFAxQXVUUDJKRkRibGI2N0tHQkhCMzBzekUxVFBWSi1lQlRfcTV3YjFMbkpqWmItclEwVTVKcFhlVm55NUJqSHE1WENMUkRYU0cxTGhzOHlxWXY5MmVUcXMyOEplVlVpOFdGNVVEM2hfUTE5ckFwQjFTTm91ZmhDZGtSS1hmYjN5VEJVOEx6SklGVXZ3RWVGa3F6Unp5WWd1UDd0b3BPRjZwWjRaeHI0MmQx?oc=5",
-     "source": "The New Indian Express",
-     "published": "2026-11-17T02:25:42Z"
-    },
-    {
-     "title": "Morgan Stanley Sees KOSPI Stabilizing Above 10,000 Within 3–5 Years, Citing Corporate Reforms",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Yb0x1ZUV6TXVIMkplWXU0dm5ibmhBNXFrRzdoUDlrNnFmVnFMbDBmeFRBS0dFMFRKWlBYNHdQTEttZkE4b1Y2VUNUYTVzQmZZdU54aGdpNFlZZ1pnNGVONU5kX0phVjFkTFBFdlJtczg?oc=5",
-     "source": "Korea IT Times",
-     "published": "2026-11-17T02:06:48Z"
     }
    ],
-   "news_at": "2026-11-17T03:57:25Z"
+   "news_at": "2026-11-17T06:04:36Z"
   },
   "NYSE:RY": {
    "news": [
@@ -215,10 +215,16 @@
      "published": "2026-11-17T03:56:05Z"
     },
     {
+     "title": "Thousands report online outages at major US banks",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2hYSmdpd0EtemZKUDNSX1pzSEhMOGxuRU1rU29rampBV3N6ZUhvVVBXWWNqd2NyYzNMYTkxWGwzTTd6N3hUNDY0TDM0SFk3dDBqMEk4azRabm5kMDZvN0p3ZVQzMVFxOEthRzZRcnpGT0tkWTVxdWdGTHp1c0psM0RURU9IUFlUeHg4OHlOa2tuX2I2Y2M1VkEtUHB6VVNycF9iN19KRzlpcDhpMmxDSkpCNTNVQdIBuwFBVV95cUxNSkFMSTZWaHpIWlVnZUQ1UjZNdVQ3QWVVcmx0dFRQM2M4Z2lyMFFJSzFsMFh2b0VhVnUtMzFFWWlxTllpRTZDU3YwTXlCSVYwUkNRczhGMk9fMEEwSTRrN0NzYzhnaS15M3k4LTBsVlFxdDNTbEIya2I3SE9zZzEySmNmSWRaaTJ3RHRkVmVUbF84V2czV2tkaG8za3RJLVp0SGtKbk9oeDBrZlVxWTJkZUxnVFB3NWJGMlRJ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T03:41:08Z"
+    },
+    {
      "title": "Widespread US bank system glitches plague customers",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXRIVVFiZ244OHRUWTNkOHFsSWhINUJHa0gtRUVWSFJOWi1RdjJmeTE5Q0ZQR0lZX0xYb3ZSNkQ3ZXBESk5HYnB6QnMxcnNlMDVjNlhwbDFwQkM2TUp1dzVaZ09pcG9idVVWendORFNGYUlOZGVkTVdrTE5FTGtQUmd0djNsVVdqZWk0M1k3RE56Zw?oc=5",
      "source": "The National",
-     "published": "2026-11-17T03:00:00Z"
+     "published": "2026-11-17T03:08:21Z"
     },
     {
      "title": "Berkshire Raises Delta Stake, Cuts BofA Holding",
@@ -237,15 +243,9 @@
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWhiV0NqX0g0T0U5NVpaZnNseUlxXy1IVmxWUlF4eHFDSmNaRVJ6VFFjY3ZnQWNGMHhzRGdWdnFUVUZZUjJJUkEyOXJaWkV6aTE4bkEwTzFBT2VHc0dBd055dkpjTUk1ZUdyZV9mdFNSYS1EQXBPVG5KM2c3R21vcmZCeVFzcTl6TTBwb1JDMjRLYjM1eEE3WVpzMllkMXFlTEVONEdBNXNQbFFzRFRxMUUxVzZuSVN5RkxnY0MydnRsZk9vT0tj0gHPAUFVX3lxTE1DNm5OMm5lbVBnSFBwc3JoUE5EMDhfdG9KUFhzS3lPSTk0SXpIME54ZVlBTFVZWVFxV3FtWWR3ZXJJZTdZSUVUYUtYMjlQSDZWOU5LMXBNS2lScE9kNnZUMVVPUWJoc0pCREtrQlhxeTJUaXJCQlJvWDFOM0xkSGNyRGgwc1VrTXV6VzZNRENNQkhLbzFZUkZEcE9iMWQ2R19RSDY1dkZQNUwyMWZZZFBBNGhpalE1V1pndE03Tm9Qck9fbTk2YXUzMEhnNk1NVQ?oc=5",
      "source": "NDTV",
      "published": "2026-11-17T02:17:35Z"
-    },
-    {
-     "title": "Chase Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93dFVwN0t2YXBDbTFOQW9iRG5PSWg4U29fdkp4SlJLbUFiU1dOOHpTOE5FUVMwbDhRTGxrSWxkaWcxT0FrejhVUGFMS0hZODlNTk9FRTlFQ19ydGtIYW54Q3B5SmNKMEQ3dXVENw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-17T02:02:57Z"
     }
    ],
-   "news_at": "2026-11-17T03:57:25Z"
+   "news_at": "2026-11-17T06:04:36Z"
   },
   "NYSE:SCHW": {
    "news": [
