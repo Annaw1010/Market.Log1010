@@ -127,10 +127,16 @@
   "NYSE:RY": {
    "news": [
     {
+     "title": "Royal Bank of Canada (RY.TO) Stock Price, News, Quote & History",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SRFV1WmZJeW9iOGVaRmkxLS1iM0NhSTg1S3Zjdk04WHhLajNzMTRudktNdzFIWVdSY014ZmVlVnJTLV9qcFpQLU9XVnYyUG0tWEhZ?oc=5",
+     "source": "Yahoo! Finance Canada",
+     "published": "2026-11-16T21:27:15Z"
+    },
+    {
      "title": "RY: Royal Bank of Canada 13F adds holdings, $663.8B total value",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0pZZHczRzJWcV83dW1ac3VTT1I1TzlwOUdnQWNLSnUxRFN6NzJyWmJqejFjN09BRU5RSlZXQ0dKcWFlOGJ3TUduSDlPRHBMRTBmV3ZfQTVXbVdUbTBEMlFHN0NvUW1UMExlVDlJeVZyZXF6Q2w4WkVGTVdpbWdRTGlYTkVyN2dJNkRpNw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFhkVWpuY3VwOExjOWI3TkxkdkFLcFQ0X3FibTQ0Ync2YjFXS0ctQXJoOTRLcS01UmV3OUdjNlI5Z2ZnV09lTnQ1S2NOeWtnS3hnSmY3QjdGSTlfLXJscFdSb1FhT0xKc005UVE2dkJvX1lacG1fOV9HQjFjbkhUMC01c050RW5EZlk2SHpxVnlNdw?oc=5",
      "source": "Quantisnow",
-     "published": "2026-11-16T19:22:13Z"
+     "published": "2026-11-16T19:21:53Z"
     },
     {
      "title": "Across 27,032 entries, Royal Bank of Canada (RY) reports $664B in holdings.",
@@ -155,15 +161,9 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeko2OThyY1JWTm1YeTVnZFhKMTFYRm5WQTB1a0E4Qkk5QkVETWREc0d0OHlrWjlOVllkRm45c3RnQWhQU1pwNE5na3hsYWRSV0owS1p6V0NYbEVOZE9tRVltMGZua2JIcTVZVDBBV3B2VlZ5cXpuZTc3S216dFZDRjhWYnVvWWl2Y0IzMFVkMXowSGFjdl9TS1VPWU9ZR29Da1NSWWZodGZLVE00bTJB?oc=5",
      "source": "www.tmgm.com",
      "published": "2026-11-16T18:35:41Z"
-    },
-    {
-     "title": "Bank of Canada: December Rate Hike Remains a Risk, Says RBC",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRlk1LWlrYmVRX3pGWWpCUHBOaVlfaktvR1I4TmlHQl9nUGpyc0Y4OV85NDV6cFhINXlsY3l2RVV2Vk5FTDQ2RktGSVgxWUFQMkphSUxLcXlpaWI5azRwc3JmMGFaUTBsUzBvV0pBZEZTaWVEdk11Z0RuVzhYYTRZVENRMlYwS3FKeXNxeFRwREhKU1FCeTFnTVJhRGZPS3VXQ2xGYW9UUU5USmNzWmRyZWhR?oc=5",
-     "source": "www.tmgm.com",
-     "published": "2026-11-16T17:47:29Z"
     }
    ],
-   "news_at": "2026-11-16T21:34:20Z"
+   "news_at": "2026-11-17T01:57:49Z"
   },
   "NYSE:UBS": {
    "news": [
@@ -286,7 +286,7 @@
      "published": "2026-11-16T20:00:43Z"
     }
    ],
-   "news_at": "2026-11-16T23:27:49Z"
+   "news_at": "2026-11-17T01:57:49Z"
   }
  }
 }
