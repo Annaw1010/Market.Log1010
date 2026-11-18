@@ -4,7 +4,13 @@
   "NYSE:JPM": {
    "news": [
     {
-     "title": "JP Morgan Chase promotes Bregje de Best to CFO",
+     "title": "JPMorgan’s Former Credit-Card Boss Jumps to Wells Fargo as COO",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmNjT0FnSmtxdU1zcTVqYTI4eUp4aEpyRDloS0E0VTNDMU9seS1iWXhjekJTTXlQdnpwVEhUbVJEckhlZ3F2bXl2ZkxmY1JpWGh4ZzhWQTRsNHBHSEpMbmVyWkFneEJ0MmhoUGpUdnM4S0xfYTVIRFdNenRZUzgxd3I3QnM5Y3IxZjZvQk9DMWphRTEtVkRKQXJUb3BCYWx2YjUzc2dIanpKczJhVmtxZUxSOA?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-18T13:39:55Z"
+    },
+    {
+     "title": "Bregje de Best to succeed Jeremy Barnum as CFO at JP Morgan Chase",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGZmdVVUckhLUXh1N0lLVnJwVFN0NzNKckZibGhsYWc4bVVJUnh6XzcycE1oUnNhb3pySmRnVl9TZFg2c3FobjFqLTFCTXZhenVLVFRTNXJsR05ST0QwZFRVdE5iX3pLOGtfVHN4M0g2NUwtZ2pOb2Vtczh5QWhzb1RwZEszc1FOX3dLWnBLWVhSR28?oc=5",
      "source": "FinTech Futures",
      "published": "2026-11-18T11:28:51Z"
@@ -22,12 +28,6 @@
      "published": "2026-11-18T10:00:01Z"
     },
     {
-     "title": "‘You Absolutely Hate Your Money’: Clark Howard to Chase and Wells Fargo Savers",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMExlU3E0V1U1WEkxdE9uSWVMaXBGR2c2eWlkVmxyVTJXZkNNVWFMbFpQT1RfUnN5RGVtYmkyUU9Ub0RSdUhPUGQ1aTlyNDNrUU01VzV5ZVhXeXpiWTJkSEppWHRmb1hqclpMQnhtQlAybGtzUEFWUUpBU1hsS2haVmZKay1kS2dVZUdTRmYwaEkxZFRrZHRESm5iLXpJVHlHejFpekYzSkFjVGd6T3p1VUVBbDkySnd2SGxhek9MYTRNVDUx?oc=5",
-     "source": "24/7 Wall St.",
-     "published": "2026-11-18T09:32:00Z"
-    },
-    {
      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUC1JUEtRekNVYUNPb19YQTRLakMzRnNXVTFUVE1zdjRQQjAxcHVPWDJPanBlUTBiN3VXUl9YZ3pjYjh6RXFMcHdKX19UTHZMazFKSkl0cklJNFZwaUhRcjdSRl9tNjROeWxsUTZNd1NpeVFTT2JaYUt1QnoxX2NrdEhEWUg4WjlfOHpVcWNQR2J3LUdMZUZfY3ZnTURibE1Mb1IzWGpkenFyOE10SWc?oc=5",
      "source": "CoinDesk",
@@ -40,89 +40,89 @@
      "published": "2026-11-18T06:58:00Z"
     }
    ],
-   "news_at": "2026-11-18T11:43:16Z"
+   "news_at": "2026-11-18T14:00:40Z"
   },
   "NYSE:GS": {
    "news": [
     {
-     "title": "Goldman and Morgan Stanley Have Gotten Too High On AI",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUtDUVZuYm5rUVJjdFBWVGl0OG9XSUl4WVk2WkI5MTZQUlplQUF3RW1EOTZSUDhJY3gwd1Z4WHZGa3FNdWU5cW9WZnBLOTRiWWtWRjYwbWtSVFVSMDRtSTMwa0t1b2RZZW45VFlRV3VPeGkyQUdzZ2FSdFdEVHlYOGhyLU5uZElqVGxJUDZ6Wmh2WHJRRExybGN5QXBaYlhWLXprN2RZc1hCOUZOZVNWRQ?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-18T11:45:12Z"
+     "title": "Payhawk raises $280m at $2bn valuation in Goldman-led Series C",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZERYZEswR0Z0TVZkN1o0UHJtY0JyRi1JNk1kcU92SE5vbldZLTRMWV9DUmd5SGs1RWZDSzdRMHp5UkVVYUppRV9KaGhSUHp4ZDZGcTZiN0Rpa1RaR041UTUwYk1oYjRUVURRV2ZTczBFSEk5U0hBdDlhZDFWeWxaSFJSVEZ0RC1wQkU0cFFmSlVqUWxkUW9jUkhNaXUtVDg5b05zRmZrbDd2NjRaSlJDb2VYaGc?oc=5",
+     "source": "Electronic Payments International",
+     "published": "2026-11-18T14:02:38Z"
     },
     {
-     "title": "Goldman Sachs raises Nifty target to 28,500; Here are the sectors it is betting on - CNBC TV18",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDU3VWdhT1J2MVBOY3VzOXBvRHpQRDNfeVZqRlRIWm5qdVZoc21CMXFQb1NadHJwbWdoVzFKcThfQ0FNSW9WU2ZQaUVmSVJna2M2cGJoTWRQVFRtbkIwNlM0M19hLXJ3TWo0ZU5saUJGWkdQYXdLSnFZdkNOZG9JUVJNTElEOThibVZoWXFlQlB5bm1wRnBMWlRWaGlWTHBCS0JPdnRKSVFHZnl5bUZydXdIWThuWm00?oc=5",
-     "source": "LinkedIn",
-     "published": "2026-11-18T11:32:39Z"
+     "title": "Goldman Sachs Maintains Alibaba(BABA.US) With Buy Rating, Maintains Target Price $177",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMC04SVBDdGFITk92cEJQaVFmZ2FrWFN2Y2Z1UzJ0d2V5b0FwY1JldHhxdFRFQ0ZfZDVPbHpZVWFzam9VLWI4LUJqMTBNYU9uU2R4ZjlaWHJ5UWV5MndsOTdXX0RKSU9udzhiUTNJWlQ0UWEzM0pjNmtWbG9FVUF0WmNiWnk2Y05NV3ZQODVJTFJDQWwyN1N3c0tXcmtfOHNpQ0ZQZzhqMjJnYkVHV1VaN1ZfbERDUQ?oc=5",
+     "source": "Moomoo",
+     "published": "2026-11-18T13:39:34Z"
     },
     {
-     "title": "Goldman Sachs will feature Ducommun's finance chief in a 2:10 p.m. fireside chat.",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1F1ZjlrQkh0aEd2S09BckY1OXl6OFdwWHpkNWNOVkgxRHV5RFFVcGxtaDQ0eVdpcFl6Wks1SzZNaGQ5X181ckVvcWxmZXBlOGhlU28wOVU5YXpEM3p2ZWFESEp2ZDFlS1FwbDJTT05wNTRCZ1loeVdmVHBaUmJ0UUh4MzRlUF9HSmlLSkVENTNFTzBGUE0zY1YyXzBYMmtSakVhYzNnX2NiaC0wS3UzQWV3Wmd6VmJ2WkxOSA?oc=5",
+     "title": "Goldman Sees KOSPI at 7,500, Morgan Stanley at 10,000, Leaving Retail Investors Confused",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuZkFoT0hkWEoyeWM3VzZwTThaY0h5WmFlMnZ2aHhEYS1nNHZqanBwbGNXcVFjQWctamlhRHh4NmVxMTlJSUNVdUJMdUVTV0NFdFRuVg?oc=5",
+     "source": "bloomingbit",
+     "published": "2026-11-18T13:35:26Z"
+    },
+    {
+     "title": "Goldman Sachs conference chat with ADM will stream live Dec. 2",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGREdlI5TTNMQTVTbWxreDF0bjNVaG1ZekE2UkI3aWZoNUdYanFEMlNOcUZjcHNUZFFqeEVieFNVS1MzZ0d2U0ttQ3B4a29aSWF4MEg3LThSZ0RhNDVjU05qMlNrbFA5eEdUVjR1ajhhR0pLa09keFRfcXY1RGF1VTNLZEMxSGUteldkSjVGU3p1dDRHVnZ5VEx2V0E1V3pWSWxDWkhHQXBnekpPMzc3M3h6ekxfeWVSOUE?oc=5",
      "source": "Stock Titan",
-     "published": "2026-11-18T11:30:00Z"
+     "published": "2026-11-18T13:00:00Z"
     },
     {
-     "title": "Goldman Sachs, Morgan Stanley, Freshfields prepare to cash in on Anthropic IPO",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkhfWmJqXzNVb3hxdFBMaW1jNGQtcE43QlRSZ0FYR1BZRWUwMDVFdzdZUjVkbHk4dHdNWHBtb2ZQTVVIRmJuN0J1bVdGakx6cWZNY0x0QTFzZVJIMjFvcjNMMjVFWjRRY1hFS3ZJTUNaaGFTVjVqY1ZaU0xRUDR4YmtvVlRQWnBXcU5Ya041VmVUUWVBWjhtWWx0XzlzT3FXb0dlYndKQUYwZW1FdUhFOUlvbW03X0V3YTlEVVdBWUxPVXo1TnVPUUdR?oc=5",
-     "source": "Financial News London",
-     "published": "2026-11-18T11:24:49Z"
+     "title": "Goldman Sachs: Oil Surplus of 2 Million bpd in 2027 on Gulf Export Recovery - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmJkUXdhTkZPOUhycG1yaXoxTVQtWTZLVUp0WkdwZmc2RUVJcGJlQUxiakJrQ1FKNmt6T2RwQTF4Q2VOT0x3aGJEemhDaDdCdjNNNV9oMEkzV1pMNzFJQ0VPMHBsX0hySm5KbXBUUzdPTWtsbHFxMl9rS1lpM2FDYkYxMFlDTVJzQkUyc0NtMGtRbkhkeTVWSEFxTWl6cE04Tzg4V1lUSXR1dw?oc=5",
+     "source": "IndexBox",
+     "published": "2026-11-18T12:54:04Z"
     },
     {
-     "title": "Goldman Sachs predicts RBI may hike interest rates by 75 basis points by Q2 2027",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObl9jVkV1NkowSTUwSjFlUjZvNVVVb3JWT09hdDRRcVZhY05wOEJkT1FTUTVNeHN1WERJb3dWSnNRNTc0NUhFLS1FWFNqcldCMTk0X21GNUtWN1JSWGJ4UEZqanVidllrYzR6MTJkU1pmQ19MV244MGdSTDZxQUtWdHFiZWMwRDl1RHhXNkZvUHIzMTZRa0gzWXpvV1R4cjNLd0tCUmdvSkpjOGN3RXJBQzh4dEdqRURGOHV0ejltc2dleXY00gHSAUFVX3lxTE5IYkFGWW52VjNrSVhlcjc5aVctUVBWbXdzci1pUTdHQjlEdVg3N3RlWnJEbUNKMGtMN1QzWW5ia2VYWUZUTEd4MFdnVFE1T2JYS3ZKN3EtWWhHbUVWOVZYT1FLQjdFa0VONno1TUZ1bXR5UGVNVFo5eko1MFNaRFdTUFoxTG8wTFJFLUF6TUJReTRKNGlYLWpnakhXWEJDQWlpUWxZbFAtS1hlUFlxRExuWWZDeF9QdnBwZkhxcVlxQVFXN2JPdGlDWlR0Z0dEbURaQQ?oc=5",
-     "source": "Deccan Herald",
-     "published": "2026-11-18T11:21:31Z"
-    },
-    {
-     "title": "Goldman Sachs Adjusts Price Target on Occidental Petroleum to $75 From $76",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2xLVHNjNmZMQ2IwSEIteVkwa2g5VUR2NUNxQzdtZ09BUEhzTFozd1VGZnlwTjZoVGxrV1ZybS1wdkdoWF9BX2cxRjJ6R3pDV3FDdW5OeHJzTGFTNU9uZGduVVlsYTlyNDlHSzdQTEJXWmhHV0VNdnFKaUYtZm96RkVtX25mcy1faXUwOFBLenkya09tTDZ4U1VHUTc5MlM3UkVQT2swSGUwbE55a25lQWZWNktEalR0S1BPZ0VmUGx6WFU?oc=5",
-     "source": "marketscreener.com",
-     "published": "2026-11-18T11:20:27Z"
+     "title": "Nemetschek SE : Goldman Sachs maintains a Buy rating",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0dSYVlYcGtnQ1hVQjZUSnNydXBfelhtYjUzalZGcDF3MnBIVWNvRDlsZ2cyck9XUW5FdlFfWGxyNk9MQ3RhZ1JpT1hLbzl6NGhGWmRiUmZEZ2ZXZWJMdDRUQWN2bkMyMDBRNDA5d0NycjZHUVpPNm5NRWZrTEpkN3R4bmtaRGdDSF9LZjFZdW5rV3RrRlZvNVl2cFBqMFFncVlxR2ZR?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-11-18T12:34:22Z"
     }
    ],
-   "news_at": "2026-11-18T11:43:16Z"
+   "news_at": "2026-11-18T14:00:40Z"
   },
   "NYSE:MS": {
    "news": [
     {
-     "title": "Morgan Stanley Maintains Alphabet-A(GOOGL.US) With Buy Rating, Maintains Target Price $375",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjF2UHVCUjVDY2lNVjNtZWIxcUZMbTdOZEY2RTJMZF9QbnctclVmb2ZvVVhaczVaRk5UMm1yeDBmV3RVd0dma2wwbEFLTEtQSU9KNkxMaWItTGJDcTBzeW9VRHBubEozTjg0Mllwb29oZWdMRGlNakZTWUptSFU2TXRnNURYblhQTHZGenM2OS1reXVqRm5QOU8xWGFiX2VhNjRqWVhxbi1OUjRjRmszR0dlaw?oc=5",
-     "source": "Moomoo",
-     "published": "2026-11-18T11:45:38Z"
+     "title": "Universal Music Group at Morgan Stanley conference: streaming growth stays strong",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVNKUXVBMHItNVN6aE5zUk9vYnlIbERQdXFuSUFldzg0cXFPSEllWmtHSVpyNzR4OU44eWltSUJLN09xZ2xGNnhrRXM0bHE0Q2FyVmZpY3dpMkNhdFRQd0F5djEwYUZNV2p1Si1UdEJxYkxBYVFZZ195b1R0NFRNZzRUczlESV80NFFUVXUyVTBoSnB0TE5XV0pKWmNNRTdaYWNvMmxvOThNZGtuQnhXajJscVlLbnhNeUY4Q3FTZFdXNVNuczZheHJHRUdRaElzelE?oc=5",
+     "source": "Investing.com",
+     "published": "2026-11-18T13:48:33Z"
     },
     {
-     "title": "Goldman and Morgan Stanley Have Gotten Too High On AI",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUtDUVZuYm5rUVJjdFBWVGl0OG9XSUl4WVk2WkI5MTZQUlplQUF3RW1EOTZSUDhJY3gwd1Z4WHZGa3FNdWU5cW9WZnBLOTRiWWtWRjYwbWtSVFVSMDRtSTMwa0t1b2RZZW45VFlRV3VPeGkyQUdzZ2FSdFdEVHlYOGhyLU5uZElqVGxJUDZ6Wmh2WHJRRExybGN5QXBaYlhWLXprN2RZc1hCOUZOZVNWRQ?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-18T11:45:12Z"
+     "title": "Goldman Sees KOSPI at 7,500, Morgan Stanley at 10,000, Leaving Retail Investors Confused",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuZkFoT0hkWEoyeWM3VzZwTThaY0h5WmFlMnZ2aHhEYS1nNHZqanBwbGNXcVFjQWctamlhRHh4NmVxMTlJSUNVdUJMdUVTV0NFdFRuVg?oc=5",
+     "source": "bloomingbit",
+     "published": "2026-11-18T13:35:26Z"
     },
     {
-     "title": "Goldman Sachs, Morgan Stanley, Freshfields prepare to cash in on Anthropic IPO",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkhfWmJqXzNVb3hxdFBMaW1jNGQtcE43QlRSZ0FYR1BZRWUwMDVFdzdZUjVkbHk4dHdNWHBtb2ZQTVVIRmJuN0J1bVdGakx6cWZNY0x0QTFzZVJIMjFvcjNMMjVFWjRRY1hFS3ZJTUNaaGFTVjVqY1ZaU0xRUDR4YmtvVlRQWnBXcU5Ya041VmVUUWVBWjhtWWx0XzlzT3FXb0dlYndKQUYwZW1FdUhFOUlvbW03X0V3YTlEVVdBWUxPVXo1TnVPUUdR?oc=5",
-     "source": "Financial News London",
-     "published": "2026-11-18T11:24:49Z"
+     "title": "Morgan Stanley Adjusts Walt Disney Price Target to $138 From $133",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3NaSWM5Zm5vVjZYR0lUVEhHQzFfOEJoZnBZQ1Fza3lzczVnSkRyb3NVcmpfWUNORDgwenJ4Tmc3cEQ4UGk0ZE5CM0FFTFVnUE1tMDRUMTlGQTEwUlBaU1Z0WHNYZTkya2toQVUzcXRvYXhUX0ZZaFFqc01DaTltWWVCWWVFQkNuUTdscldsanFFVUVlczNBX01ZQjFzRV8tRUJCWlpIYzNITFQ3QkppNTF2MWhNbFE?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-11-18T13:17:28Z"
     },
     {
-     "title": "Morgan Stanley cuts Dauch stock price target on cash flow timeline",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajgxZlhpTWNzOHhwVl91c0R4Zk1TM2hNbzBKeFJydEl5NEExckdaVG9FLUFJOHVnaU1fa0lmRnk2NUUxa3g4Tkg5em0zQW1oWVd3SDJONVU0cGxfLXM3bFhuZjk5VklPUmttNm1aYnZKWWR0cWZWMVR6Q3VNRUF5TWJGekdNMU4zZjg2ajZjTkFoOWxDVDIwenlab3NOY3dlem5JN1NFSW9PaUVGMHN1UXZBaEpFckZmN2ZVTzdnZ01mM1NEZnc?oc=5",
-     "source": "Investing.com Canada",
-     "published": "2026-11-18T11:23:37Z"
+     "title": "Morgan Stanley Adjusts PT on Nvidia to $260 From $267, Maintains Overweight Rating",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeDRjTS13djh5XzFfa3d2ZXR5OHZVMUtsQUgyd3pDT0p6eU9FLXJZTGd4SF9IRkFoRjNRLTB3RnFRa3lkQzh3aHFxRDZxSktLQzFLby1xU3hSWWQ0TkoxYTlFMjlPSnpqbWxoQlJhUWdUVHBmX0JNSkl6SE8za0FfWmtxT1lMSVotbk5ROFdSU3JZTzJST08xTVIyWmZqbFhINTI2SXQ4M3NQTXJ0dGcxZE4td0Y5MU1RN08tN18za1ppUW9ocVlMVk5GbHc?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-11-18T13:11:54Z"
     },
     {
-     "title": "Morgan Stanley raises Energizer stock price target on improving cash flow By Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUDJENVRrMkNWbkk4OGNEbWp2bnRtZHp6bFVPTldjWmF5cGRSSjI5SjExcFZhT3VQaFFNdTVseU5HTFF6XzVRYTFiVVdPQ0paVlZ5UHdIRmxPSXUxR1pIWThHYzBoTFpXSGluSHlvSEs4bUtUbzNKNmdlQUZIeUFRdV9KWFd1QjNXSElLYmwxckVrUC1FSTVZN01laHBwTFd1WkNwMmp6WFJGMTJIT2xTSUNZMXVsQWlwVGtwWTBscmhsekZ4QTFxWEFzb0tvZGc?oc=5",
-     "source": "Investing.com India",
-     "published": "2026-11-18T11:18:50Z"
+     "title": "DICK'S Sporting Goods, Inc. Announces Participation in the Morgan Stanley Global Consumer & Retail Conference",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1FBZDRwcFZFRTJ5a1o0eXNKaFZuYXVzck9yMFY0aFNqdWk5QmozWVRXeTFseHFjVm9hWF82NU5OOFVlSmtLRk93NDZPQm94N1FBU2FYSmx1Ym1pVFZOa0NTMGZnU3lpQ1FCazBxLXA0V2RWcUpfbVNHZzVQUG1JeVUtRE8zVTdnSTBB?oc=5",
+     "source": "Yahoo Finance Australia",
+     "published": "2026-11-18T13:00:00Z"
     },
     {
-     "title": "Morgan Stanley raises Viking Holdings stock price target on booking strength",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaU9xMGFrYmxlSW1weHdaQUFrS012TUI4NzNZZFRhM0UycDBacGdvR2N1Z2VWaDF4YXhGNUw0dl9LYnRuMC1DUldxbEZSZ1hmTGxVXzdOSFJlaEYzLW5yOXlTZlQtVmc4ODZ1V0VKQ0ctV0ZHVVhYeGlxdW1RN3FFaWpGdFlQekFnd3NwQmxNWHhIMkJsbVlCWkdwMERjeXpMcWE1YXVUQnJzN0JFcmxiVnVzczBCeFlrZG1oZUF5Umk3elhGSmZPQWJNTlkzUmgyUHNN?oc=5",
+     "title": "Liberty Global at Morgan Stanley conference: spins, cash and growth By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZFZZSktoenMwN3huNGNFVzNSdjR6THlzTTQ5YWcyZmhGNHFoNE9WRGdFMVlGTmtGTWlBYk10bEs3Z3VlaXRrV3haU1RvSUh6OXBQTmxVaVZtNGsxbVU5LUhOSmFJdm1OUmpCQ3ZaUUF0QVQ1dGtqeU1rRWlJTmtfMUJtaDZLdW9sMU5DaGRHdWV2YVFQTTFybG00Zjh1MkdGR3lyeHlyVGo3MDNuemw4aVFQZXQyTzNTS3BFOWhSaTFpck9B?oc=5",
      "source": "Investing.com UK",
-     "published": "2026-11-18T11:10:00Z"
+     "published": "2026-11-18T12:48:00Z"
     }
    ],
-   "news_at": "2026-11-18T11:43:16Z"
+   "news_at": "2026-11-18T14:00:40Z"
   },
   "NYSE:RY": {
    "news": [
@@ -157,62 +157,80 @@
      "published": "2026-11-17T10:03:30Z"
     },
     {
-     "title": "Saskatchewan Polytechnic - Sask Polytech and RBC bring real-world banking challenge to high school students",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYmFlRWM1dlBhdDZHN0MxYnBzcENvMDRhVmdaM0hCeFNFUHdLeFp0eVBKWkRiVzNXSUZiRW5GdjZOMTJvaC1GYTEtMnNxd2JjdE1OVzFRWk53LWEwZlo0N0RuRzVQcFhaekZlVnkzckgtbmhMQTRtM25OZlIxUXdjeGpGSFpMVnE3THF6c3RlZXRXenlOZHUzY1UteldDTWtlSEpyTjZIc0E5b2VkdmJxSW9MSTZOWjNtUjJ1d0YwTy12MUEzQ2xvUGVyMDBmdTNMNmZoYVQ1SzVfc3Bqa2lQWkxYT29DRkxzOElFS05vRFNXZw?oc=5",
-     "source": "Education News Canada",
-     "published": "2026-11-17T05:00:39Z"
+     "title": "Royal Bank Of Canada (NYSE:RY) Stock Crosses Below Fifty Day Moving Average - Time to Sell?",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1E2ZmZYS2tWMGh4OVpPbVAxQ0FMbm5TcFVVTTVkNndmZjNkNEg1OWVGMXBSaUNPV25rUWllTVFZVTNjODFZeUEtQWNodDFOSVRQOUhvdURxMjZOZjNTV01PQWhCelMyYk5LMUZWRG1SaTQ5YXpGYVpnd3BCQ08yWTctV3l1c01qY3lucTFsVFQ2UDhDdmJLQVg3aTdoR3Z5d3BKY24zOXgyV2QteFNtTHNtZEIxOHlaRXRlc0p1cmh1NmJyV2ttR0xkQlgwVDNzX2R5SFF4dUVobHVkNFEw?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-17T09:45:13Z"
     }
    ],
-   "news_at": "2026-11-18T11:43:16Z"
+   "news_at": "2026-11-18T14:00:40Z"
   },
   "NYSE:UBS": {
    "news": [
     {
-     "title": "UBS turns neutral on global equities, names this its preferred market",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUhPalVtSFBVelhFZEc2N2ZsM1JoWDNJMnIxTEJmekZfUG55UkJnSS1XNlJGWDVyY2lyVmR6LXFCUHJkaFVUTXRBX3ZHZTdHVlBjaWx6U0FVRDdNNzBjUGFuVENqU0d6aGNueG5Kby01dFMzMXRMczdHZFEyNk9VR0VEaGU2ZDFiRE9EMHlNanZjd1h2YVBTNmxRcnM3eVVXaGVmV0QyczRyZzRDelZEb19ydFlETFN2ZHVuLXNSeU9WZw?oc=5",
+     "title": "UBS cuts U.S. natural gas price forecasts as supply set to outpace demand in 2027",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2VwTUVUalhkdHhjMGRDek9RUHVocmdrMVB0TjEwS2txUldQQk1xQVg3WUhqeld4clhaZWpUcjNRMXhvQWZfdURjdVFhMU5mVXVES3NlSmdTMmFDVlpfemYxMTVxNEJua0RUWXE0czRJdUxPNEdWei1aZ2o5RmZaOEpHWk9sdHZtckFhbUxkcUM3TGVLSnpRamFSbEZaN3R5SGs5aFNNcHo5T1RIM1JsamdGUkczUkI2em91NVpjQTdfOFl2WkJZ?oc=5",
      "source": "Investing.com Australia",
-     "published": "2026-11-18T11:44:41Z"
+     "published": "2026-11-18T12:56:15Z"
+    },
+    {
+     "title": "UBS investor Cevian sheds stock amid capital debate",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdFFVakhnSmFKR1duRGVWclM0QTFaWHlISXJrRVVZcndXYXczdDI1TDJDelZZTG5iT0xqcldVbjJkT0NQTGZtR0pPdi1jRjRERlJpbmNfNHNzXzFEY04zcGc3XzN1UkVnUjU1N3BSLXJEYmVkV3BPLUQzd3prYlA2MjZiU2Z4MXpZTk9zWlN5anc4aWdfUnFhcVpYT0dYODN3WnVsT2NOUjE0WXF5ellVbVBMSWZuVlpoNHJUa1pPdkFHX1JBT3RlX2RNNWktTzBRcnBGb1Z3QjJUNWR0Vkw5eHRreFM0UlBUZzRORTZacUFwcmt5SEU5aEhuSjlEYUlncVJwQWZR?oc=5",
+     "source": "SWI swissinfo.ch",
+     "published": "2026-11-18T12:32:05Z"
+    },
+    {
+     "title": "UBS warns resilient U.K. growth could revive BoE rate hike debate",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSENBaVNUOXphZkNibG9McC1JMHF2SmFTY2RvbVZCd2I0RUlBcGhIcG1ndjVmdG02QVVfSktVM2dVTWFld2FCenZ0WElGc3pJVkFKVjNmQzh5bTBUVHBRNWlSUG9idG52eldsTUxPNUx5UE9jZXZYQUZwNFBxWWU5VjdJY0hOT2xrVVJMVmtZTjFTcTNGTmZPN1dJdTE1bElYbmJTNW5YMmtJLTAwallyZVR3MEQ?oc=5",
+     "source": "Investing.com Australia",
+     "published": "2026-11-18T12:28:35Z"
+    },
+    {
+     "title": "UBS sees gold at $5,000 by the end of 2027, Brent easing to $80",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXlQNlc2aUduX0VPRmJxOS1vbGtuZ2NlaGlxVVBoVTl5eFRCZEIxajNEMkdUclhjMGVNYzJ0NlBQRlhqSlQzZFVvdmpxMFhwc0NXQVktMVVGM0s0d0hRWnFPQk9waWxFMWN0T1pRdGFVRXVfcUNCZlZ4WlcxS2JRWUhnNjhQT25xdU1NNDdHNm5zWXh2SXM3ZnRkNVdqeXJ4VThiZS1mSGotZHBNQjNGLTlhX1o?oc=5",
+     "source": "Investing.com UK",
+     "published": "2026-11-18T12:24:00Z"
+    },
+    {
+     "title": "UBS turns neutral on global equities, names this its preferred market",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTYwOV8zX3k4b09XRzFhMEJ2SnRBZ1hyWE5kNDdlS21tOTJyTHBOWmMzcFJ6MUtZT0JPSTdWVjdMeUpsMWROcFNoZEw1Wmt0Y1F0VVhhc2MySkRTc0ZFNWl6OWg0d3hRd0lsdTdnNjNteXNnOUc0RFpydmZhUzMzZzcta1g5cjVzb0E?oc=5",
+     "source": "Yahoo Finance Singapore",
+     "published": "2026-11-18T12:00:48Z"
     },
     {
      "title": "UBS cuts Snowflake stock price target on valuation to $450 By Investing.com",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjJLNnFoZFI1RXhKOG44SlRlMHh6dkJ0ZkpQTy03SVBuMXRXcHVIZVZiSGc0R3REeGNUakZsaGQzczBrWVRQYzE2NzJMTWU5eno4UXRsN0ZwNU1nQ0w2U09fSmZibXhsY3ZxYWhHNktjbjRfMHlkaHpKLUN3MlVSQVM3c0R5ZENHMXVoeHItR0YydUNySVJ0Z0djbV9VcEs3NG9OUmFPQ3Vsb2VRdGNOLWllX1RucFh6Ymc?oc=5",
      "source": "Investing.com UK",
      "published": "2026-11-18T11:28:00Z"
-    },
-    {
-     "title": "UBS sees FTSE 100 at 11,500 by end-2027 as earnings and growth hold firm",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmE1S2FOWThoWTZzemdWMDVfUVctVU1jeWx3VDVQc0p3cXhlSHdMVUxBVlYyWVExYmRyOUdwY09tLUk0dFp5OXN1S2FTczFjQ0p5aGcxUlRyRHFYRjlDYlJpcG9lZFFvYUxKTEpOUmZsSEdCaUdiT09aZUdaSW9BZW41eUNrazllWGRySTlqQ0ZkdUdoOExvdTltMngyNFpnd2tFMjZyWVV1SDlnV3JfWnZ1YlBIMmN3aE43ZXZHalZWaldH?oc=5",
-     "source": "Investing.com Australia",
-     "published": "2026-11-18T11:18:33Z"
-    },
-    {
-     "title": "Gold still heading for $5,000 despite sharp sell-off, UBS says",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLWVPYUtvRkUwa21xT1RvdWpXck1YVFhHQUlEQ1dnYlluQmhtdkN4RkVwYkhqMS03MGFFbzJ2WlVvcjFLMnhqd3U5QXFPVDBfeXZqanFadDNKS0hhZmhUT214clpSRjBuSXBaclJMbDh4c3FEVTR2NEJxZW1qOWRKZXRIaHJtTy1jbW1FaEU3WDJUZGN3NnhXUzhwR0V6QXZQbjlJUXBRR1dXVFRHRjl2bUJ0MUVYbTNjYU52bjUxcnp1aFlPVUxfc1AzWQ?oc=5",
-     "source": "Proactive financial news",
-     "published": "2026-11-18T11:15:00Z"
-    },
-    {
-     "title": "UBS set to concede defeat over Swiss capital requirements; Deutsche Bank’s Colombian transactions under scrutiny",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qeFZvbkZPaHFwWE4wM1R1WkdzSHB3RG5HSWkyZXFhX2ZTV3l4NWt5dE5ueUJVRFJmZ2ZkV0dTcG1wenc5TmhkLTlRY1lqSk1iekZYNnpaQnQ3Uml5VVhhM015QzI3VVJUZXpTVXQ0M2FOdXpoMzBmbHF3?oc=5",
-     "source": "TheBanker.com",
-     "published": "2026-11-18T10:34:50Z"
-    },
-    {
-     "title": "Unilever stock: UBS keeps Sell rating, target at 4,390 pence",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFVPWkVPRkJtaXhZcTFGYW9naDJvUWV2R2wzM2h6YVdfXzRlTDhZRFFkSGpBbXVicTVIWUFpWjdxYURteWdnTHhENHZRNW5CaFVHRjBfQXM3TmtrTF9kXzR2Q0MwMm9aaG9NclZOWDg0R0FKa3pVZGpnRUxFWHJlTFNsOWdLOXc4MmZJUTFDR2pzUDhrdlptVjZkYllxOVlFTjFud01kRW1ubWpwaXZtcWFhTjRtNWxsaGpEWS1B?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-11-18T10:19:35Z"
     }
    ],
-   "news_at": "2026-11-18T11:43:16Z"
+   "news_at": "2026-11-18T14:00:40Z"
   },
   "NYSE:BAC": {
    "news": [
     {
-     "title": "Top CD rates from major banks on [DATE]: Chase CDs, Bank of America CDs, Citibank CDs, and more",
+     "title": "Enovix downgraded by Bank of America as smartphone battery push stalls (ENVX:NASDAQ)",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR09hTGlxVGItMl9KTlE4U2M3Z3RoYmFlaUZScmtaOEd3ZXYwNmRkNzFneldjZHFKdkpYMFlhWVkzQjVtRFBScV9NRXlaaU0yMm84ZjBNR0hHblpOTGtFMDNyNWxEQ1FRY1pfcTNGSWxKMVgwMUZvM3BwWlpsUmNBQ1lnZ19nM0VHd0ZVZEd4R2l2ODI0aVZDSnIwdXVyTWxNR2JFaDA2bmtrTkJE?oc=5",
+     "source": "Seeking Alpha",
+     "published": "2026-11-18T13:14:05Z"
+    },
+    {
+     "title": "Key facts: Goldman XRP stake up; Binance 600K XRP; Bank of America ETF",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1BwXzl1c1dsbTg4blJNVnVkMVZJd2lFUGpiYkh4bEk1RENzTnNzVUxYUnhmcmlwS3lEaDduMXE3X2MwTkh5eko4UlNyeDRHVi16cmU4QlJoWWxLS1I4YUNORDN2MkJtV2hlOXFzT1dIYUNJWUxtcFAtOFNCSENQdktfOXRxY0ZuRzFmbnNBMnhFNFVnUl9uNmY1VE1oLUNuVjRkcTdlck9EQUJjQTJFZHY2QndGeW1rMXk1Ym1mY3g1WlZjYklZdg?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-18T12:00:00Z"
+    },
+    {
+     "title": "Bank of America : 20261117 Irish Residential 38.5 (b) IE BOFASE",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGNjeG52SmN5alNUUUpURkUyVzdadzA2TzFCVGtnTjVkWjJPTlhjSmtlT3NhQml5WHlVbXZrQUxJZEJOV21iTVNCaVpxZ25iV01YajQzWEQwSU04OVVEYlB2eGtZQ1dCQUJnZ0Z2NXpTbjE5MnlUc2JHcHk2VTBCQUEwVFgxX213cTBlVG1JWEVfSmRzWVJUXzZER0UxcEp0Ym00U1VHa0F4UXBOXzJqazNB?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-11-18T11:46:16Z"
+    },
+    {
+     "title": "Top CD rates from major banks on November 18, 2026: Chase CDs, Bank of America CDs, Citibank CDs, and more",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BeUdVLUFVM1RyM3Z4OWRST2VMcGYteHU3MTA4TFJZZGpUOFNlbmI2R1RVNF9xS0E3RDZLbHFocTRZRUluWVdrMm1OZDVJbmJpb3VadGZXbXU3cndqdzBKa1U1M0czdHFjZVNJ?oc=5",
      "source": "Fortune",
-     "published": "2026-11-18T11:45:51Z"
+     "published": "2026-11-18T11:45:00Z"
     },
     {
      "title": "Major US banks return to normal after outages following tech issues",
@@ -225,27 +243,9 @@
      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRHR5bFg4Z01CSkt5ZHdvaGJpaHBMR2pUeEcyTkt3QWlwUG1XYXBjSlBfUkp3dl9Kd3loWV96dGhjbEVYQ3hGanA0dFdUSmJxRUtlclFyWk1XZFRvRTVYNldnb3ZHUnpiaktOUW15V3M2YUJIMlNVREFXZzRwcnlTWnpuRG5QV2xzMEstUnBQcVlkMlYxQ3VHaUhWWnAxN2lBOGRZMF95dmhRQVZWQ0hZSlczX3NkTTk0REFNSkkxLWlzOXQwcUpzSGhESnJVMlVrNTdZQjExZlBQN0lRRXFIbzRhaDlWQQ?oc=5",
      "source": "Seacoastonline.com",
      "published": "2026-11-18T10:04:00Z"
-    },
-    {
-     "title": "Key facts: Berkshire Cuts Bank of America Stake 5.7%; 91% of Owners Report Higher Costs",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNlNndGJHTEcyMnNmVlNUeFY0d25GSnZXZngxcFpTN21VOV9TdmVTYnhoTEdxOE1SanhsX0JRY3p5TmgxRjZWR3ZxVXBLcl9vel84bW1XMmxnM2hGZHV4WXRWUEczNHBiSjhGM2h0Um9iZlg3eWIzRWVlNDVyM0NvR0xIUno5elFkS0U2US1VUk0xejMzdjFManYzVHZwTkljcS13VWZDNEE4NE9TZlBsU2JiT29mcmpTSEQ4RUEyLXgwZFdKZVYwdUZkUHJCbWZ5bjFBczlYRHZLcVVMcGc?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-18T08:00:00Z"
-    },
-    {
-     "title": "Costco Is Near Its High. Bank of America Sees Another 13%",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMU5OZlB6Uk5pRGdPYnJlTkpJOGw3eGV4R2JrZVNTV0tKYXF5MHlpNmdFT2tlTUVBV18zYkdLVjJfd1FLSmdRQ1JBOGQyb0dQc21qdjRsMF9xZDZrSUVsbGcxYVVyTkdzSnJFSUZEdHl1WmFLMW4xR1VJX2QxcFoyblVxQkxfcHV2?oc=5",
-     "source": "TIKR.com",
-     "published": "2026-11-18T07:41:15Z"
-    },
-    {
-     "title": "Bank of America Survey: Fund Managers Are Cutting Tech Stocks at the Fastest Pace in Two Decades, But Cash Levels Are Too Low—\"Panic Isn't Enough\"",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSm05QkVGRGlrSnluMHI2bFIxazVlQUVTVXB1MVo5b1hRbUdnbzZLRHMwS0lQTjdSMG5tOFZ6TDJSQUw3RFFmY2Rsd0duMEtqY2ZDOWJkWFNyVWRoT2VzLXdJNmU0V3IyUDNXN3NETzJRQlZaMWppOVoxUWl6aW90QUdBRjRMQ0I2SEZzMWlxNkZTczFjUll0c3ZlamR1N19qaDlQbjJR?oc=5",
-     "source": "富途牛牛",
-     "published": "2026-11-18T03:15:58Z"
     }
    ],
-   "news_at": "2026-11-18T11:43:16Z"
+   "news_at": "2026-11-18T14:00:40Z"
   },
   "NYSE:SCHW": {
    "news": [
