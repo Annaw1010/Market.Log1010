@@ -250,6 +250,18 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "Outage after outage: What's behind the nationwide wave of tech failures?",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbDJxZ1R4dmZOQUpra2FOSjRKWHlvVmxvWk51a2xWUzcwNHpLUlM1LW54WmRKWlg2WC1VWkJ3SzRMakFCM1FPZmpZZDFaMWZhdlA5YklRT1NWbUVvakF1NHpWeFkwaWgxN2J3Vy11aHJCX2lYN2RCZEYyMVpMRFpzVTdyMVl3UkMzN2cyTDhRLVcxZE80aHFzem96TXl6LUp3?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-18T04:39:33Z"
+    },
+    {
+     "title": "Charles Schwab (SCHW) Now Has The Largest U.S. Dividend ETF",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUlPTDRtRVdHM3EtT3ZLLW5IYjh6T1lJVEJvVGVqMjlXTVJBU0hBXy02WTZuMWJpd0ZfSnA2MXE4dmt6MFR5VU5PSTd1akxUanpqMm1Fczk4MEtia294aW92RjNGX0tvTmxMdm9WZVJPZlhTUVp5SHZWUURWQ215VGRTdTVHb0E1Sm9mRzVQMGtRcEJxbG9EazQwbDI?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-18T03:10:00Z"
+    },
+    {
      "title": "How Investors May Respond To Schwab Stock Client Growth And AI Tools",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlhySm4zeU9EVm8yeFBmbFcxSl9taXY1QjRjTHY2c3pnaE0wS2Iwa2g4Q2JXbzVHMDlsS1preXhPRWtYNE8xVXdUNHdPc29BTzRlX0ZPNHpLN1JLV2tPbVY5TEtRcWZPQnJfU2ZZNl9WZmZGUTdWZlRsU0lVbFlTOEFOSFBRNVlKbjkw?oc=5",
      "source": "Yahoo Finance Singapore",
@@ -272,21 +284,9 @@
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOakEweUZiNDNFR0tVNHRzYmZxcElkN0l2d3JvQXk5ZUJ6UE03Q21NSzQ3djBPRFFveUp5alBHU0ZibjJNY1dJWXpGYXZZajM2eW1KUWFwaVdIUlFEUGNOdWkxd2FEM3ZzaWU3YkVzMkctQzV6dVRkcDAtWWU4cjdxM282N0QtdExlaVBnanJPanFwZUNFRjJ4M1Flbw?oc=5",
      "source": "Yahoo Finance",
      "published": "2026-11-18T01:09:00Z"
-    },
-    {
-     "title": "Charles Schwab (SCHW) Stock May Be 31% Undervalued Despite Its AI Push",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHZvbHFlWHlyVmUxeW5GaGFQQ19JVVhMUE1aNEtTbmNaUGMxUXo5TTRpZTJjalFMZFU4Yllxczc3eGpCd2I4YWotaE05c2l4U1Ewd1ZtRzdiZC0yNlN4RjFlV0Nvc1dfTzE4bVJ0RjAzQ1A4T1QzS2Z6cnU3dl9ZVjJpVG1FaDV1T3BfZmNKTkw2dENTdjlEdGpBSVNVUDhVRkxWTENWd2EtX3lBaHZDTjVrRldVMFg1OFJyemlncGxFc2paRE8yeW9xTE9OTjVCSWQ1U0lqS3k4bGE00gHiAUFVX3lxTFBWNkdaTzBjTXdFeFZ0aUZsZllCWEhiOE1HSzJlUG9GS0tXaHNZaFpUVXFQbzFZblQwb0dCQWxfQWdQby0tV0duSTJrbDhTWmkwMGlXVFhwMkNXdmdCck4xRjMtR0FSa3kwQjVsUnl3b1hySEhabXU3M3JVOXEtMlZ3dE5GTHJkYWxMbXRINXZuRHlIYjI2LWp4a2VGM3ZZMVJVbDFxVTEtczVBLWJubnZqQjJqUWRkYUdZZVZqckducmdBbnpJcGNuZEg2aDlJbDNLeGJ3a0g4ek1XbzhCVlV1ZlE?oc=5",
-     "source": "Simply Wall St",
-     "published": "2026-11-18T00:21:01Z"
-    },
-    {
-     "title": "Charles Schwab (SCHW) Stock Could Be 31% Undervalued Today",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMl9ndmI0bnIxMkY1V3BQVTkzdGlEaXMwWmdYZG4xZkNBX2p3eXBDOXJQS0ZGckhxOGFPRFB1SjctWTM4N0JiVEhyUldsMmhvelFxMktnNXNSbGZWUzhsMXZfVFIzVzQzVHIwNTJoQ21yMUZ2Rjg1Z2ZzV1RHd2lJZHhjQWFFcHM?oc=5",
-     "source": "Yahoo Finance UK",
-     "published": "2026-11-18T00:17:00Z"
     }
    ],
-   "news_at": "2026-11-18T05:05:19Z"
+   "news_at": "2026-11-18T07:47:47Z"
   }
  }
 }
