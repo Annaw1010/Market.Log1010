@@ -4,43 +4,43 @@
   "NYSE:JPM": {
    "news": [
     {
-     "title": "Chase now blames cyberattack for Monday banking outage",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHRPc184TmxfcDdWbkJIODdSQVcxSWVOZlRlNzhkNVpybTJ3eHYtSkxfNVZmMzFFcWlJZWQ0RTVNelg1NEJuTk5jd3JoR0Uwc0VkUTZLWTFiamZ4QWx5eVA1YUkzR2tDamRzeDdUX3dIb2VlM2JNQ2NkWEFpZUZiTXpfS1kwaTBFWmp3Rkk1d3VWbDgtTEdTd3Y0cVd4aDVad0hKdkZtQVZvVzNNRF9hQmZSRmNiNWllT3ZSdUtoVHI4MkxKM3dWd2RB?oc=5",
-     "source": "KTEN",
-     "published": "2026-11-19T23:56:00Z"
-    },
-    {
      "title": "Cyberattack may have exposed Chase Bank and Mastercard customer data",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWw5Ml9NYmZNeTNiSlV4QUhBc0JuTzY1ZEVBX295eW5xYVlIeGpGY3J5Ulc0UEhvSW9iQnFtVVZNQ2p0UFdoLUJPTHh2OVNvTFlhRVlVV0ZMdU5rcE5pdzZtV0pYVnlDUENlNWlSMUhUbzBueWxIcHpEdWtJUmlXbjVhN1ZKOXFIa09HMGNsdTZtS01TbXJDdFBfTlVocDAxXzhsNkRiVzVQVWRRS3NZQmc0aFI?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-19T23:41:33Z"
+     "published": "2026-11-20T02:41:33Z"
     },
     {
-     "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDMteEVkNGdpRU9rTzNBaFdhbm5Qd2N6bEwwTVp6aFg5MWloWU5EWkxuaE1IY1RLRFQ2QXNNdTE1aVJHYnpSNm1IRGtKdnIxemY2QTdjLS1ETndQTXhfd05GcVE2cEpMS1U5S1lwY2tVaENqVmdJczVQU3JlaEFGbHhuRQ?oc=5",
-     "source": "Futurism",
-     "published": "2026-11-19T22:56:21Z"
+     "title": "What to know after hackers target Visa, Mastercard and JPMorgan Chase",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96UVlId0tZeVZfUXBtT2puWkNxbW5WTExMTjU2WjhtMlJ1dm1CdWdkMzk0SGtQdTk4THh4VmY5NU4yLV9LdWN1d2VLVWFMOGJqSHVKS3BaM0Nqb2tGWHg40gFcQVVfeXFMUExCT2JnNzZpV0lqRlM4M2RIZUgxeGJuVkNLazdJcDBNUC1Ud3luN1NZQWZsNkdsci1YN1gzXzFtOGViQXQyVjhPWHdaR2RfN1I5cXBNeHhobzNTN0o?oc=5",
+     "source": "Modern Ghana",
+     "published": "2026-11-20T02:00:00Z"
     },
     {
-     "title": "Visa, Mastercard, and JPMorgan Chase customer data breached, Alex Jones reports",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkgtdVpXbGZudWZIVmZFWE9RVF8tdmNpVlNEOXRVcDB1bVh3enYzMTdsVE5TMG91VkxCMjBCT2trQzhlNGdQdWRJS2hVLTA2a1BDeG5BdmNCWXZDeW1FTU5ITlV5MVVGelJFWkVsY09GcXkwRlVQbTByaFRCMUJkV3Vqc21FWDAtTklqSTlzQUo?oc=5",
-     "source": "Traders Union",
-     "published": "2026-11-19T22:55:18Z"
+     "title": "Ransomware group reportedly leaks Chase, Visa, and Mastercard customer data, but not credit card numbers",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVBkbEFXVEVTaEdreU93UTVjVmhkQUVyUFJHMDJjX29hSjR5dFRkRXZoM05zRXVPZGpJMVdDWVdSYU9pemVYYWxzZWZNSU5RaC1fWHhVeDIxVzI4ZUQxaW9YVy1RVmpMdkRicU9KZE41bjNQQ01nWW1BcTBaQ0pDMS1RWGFoamYwV0oxSHltem96UQ?oc=5",
+     "source": "Mashable",
+     "published": "2026-11-20T01:23:45Z"
     },
     {
-     "title": "JPMorgan Chase says cyberattack may have exposed customer names and emails",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGE4UlV0c2FMNEs1bFBHV0JaSjRKUERMRGFpbWdjT1JaTXVKYldteWtrMDlYY21BQjdsSFViaG5BSXBJSHFHTTNsTDFVbzdDeTI0QzhfeXVjVjhpc1RwQ1c3cmJwRWctWEU4U21Zem1sSzhoM3NtX0FCVUlDbUM5NjZmMkhQbm9YakdMUjZsYjBJcHB4Zk9qS1NsbEthZFNOSDhBZ2NENEJscUpWWkpYRGJXUUgzMk1ydXBlWWdnMGV6Y1dQalRYYW9YYlFxWktpSzlOMDY3Q1M3a3ZUZ2FZYW9vWkl5V05x?oc=5",
-     "source": "KHOU",
-     "published": "2026-11-19T22:39:37Z"
+     "title": "JPMorgan Chase Reports Third-Party Cyberattack Days After Service Disruption",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczFVdFVWQm13amxGeWdHZEZkN2V3VUNSZmN0T1VJRV9DaXMycEh1TWJwTlEtNW02THJUZTJkR1ZTRTBxeGZjUnV2dnM5VGpMcnZ1MmN2dWMtMnJodmROSndzaWZBSXMzaGdWM3pCRHY1c1Q5TXN0am5BUEV5M3hsSkQxNzRCNVE4MHdEUTd1MHo2WnJZVzZmOWJHajV3UmZ1TThkcDRkbko?oc=5",
+     "source": "LAmag",
+     "published": "2026-11-20T01:19:21Z"
     },
     {
-     "title": "Form 424B2 JPMORGAN CHASE & CO",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDhtVktKeWZ5djFoeTRwam9kczdTdFZYbkN3d010ZFgwaXdhNW1YLS1LSEJuQU82elBmVFd1UHdTbDZHeDZMTXNrZVlGblJnZmQ4Q2tuaHBvcUlOcjdGUHZKV3BRLS1FUjZUV0ZndUxDM2tDbVZnQlV4MTdBTm5pdW1HMWFDemE4QTF3Rm5wYUVyTnRvNlBOVU5n?oc=5",
-     "source": "StreetInsider",
-     "published": "2026-11-19T22:31:36Z"
+     "title": "Cyberattack targets JPMorgan, Visa and Mastercard",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIbFFmRC1WM2kyMy1wYUVUbXo2SWNiR0Frdml5NXN5eWdIcUZ3OU03c2JfNEJ6RmNzMUpsX2p4d29Na01rbmlNaEtwRjM3RFJRVGktWGQzeTI?oc=5",
+     "source": "TRT World",
+     "published": "2026-11-20T00:53:11Z"
+    },
+    {
+     "title": "JPMorgan Chase Data Breach: Hackers Leak Visa, Mastercard, and Chase Customer Information After Third-Party Cyberattack",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSTE3MDdsNXFrYXJudThPZFBjQkYyU3FQUGEzUmVhWENuTGpzOFJhdzRsdDRrYjk5LWRROXVUMUFzVHRKUEdQNDJ5UkNoMjFOa1VTck9kLXo2RElmRjBidVkyMTdUX05hak02aGZrQ3hBRFBwSGFwQ2JHZzZjSFZmUTZHbkJwRlBpRnlJNmkzY2dCNkZCZGxudmc4SnZhLVBFMDRvTnNkWlNUMjBHTmtBQTAzb0NaN0RWZ1NBNU92cTlkTlowOW9zVkZkZVpZWWllM09vTUgtSGIxdk4tUnZzVVhOZkpaTWl6UFFxUFBzX1dQQjgtNFhkTjk3ZHhMbTFNRGpRYmhwYkRzZ9IBjwJBVV95cUxPanlUdF9GdWNrbEp0bVI0MkxOeTNadmNpdExidGdyV2VMc2pMalFmSlc4VGhXVnNtZXJPTk1Id3ZBUnFVZnNPbUtKalR0bURzUUFFSEY0cEZ2X2JEakM0b2hjVWd6eEVocXpkRUlfNzBoZFRlNHVrT0ZiSEhnVGxzblRTWjAwZlA3ak9ybS1OTENJQnl4a0dGVFhMV2VYa1JzdFdZREpoZTNaMU5QUFRzc3loY2I1RGxRWWh6aV9PZGQzRW5tQjRCdURRU1d4WG1QM3R1R2xqWmcwZm9QdnJhbWw4Q0Z1UE9JTUhBYUNnMFJabUhpNG9aVHltaHNiTVJpb3E4RWpBZk1jWFl1Ynkw?oc=5",
+     "source": "The Sunday Guardian",
+     "published": "2026-11-20T00:22:59Z"
     }
    ],
-   "news_at": "2026-11-20T00:11:37Z"
+   "news_at": "2026-11-20T02:38:07Z"
   },
   "NYSE:GS": {
    "news": [
@@ -122,10 +122,16 @@
      "published": "2026-11-19T22:44:28Z"
     }
    ],
-   "news_at": "2026-11-20T00:11:37Z"
+   "news_at": "2026-11-20T02:38:07Z"
   },
   "NYSE:RY": {
    "news": [
+    {
+     "title": "Royal Bank of Canada cuts holdings in 2x leveraged XRP ETF to zero",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmI1dUIxbkRKNExvRndDYXltNHkxNXFFNVR2TnVUSXdPOGtkWGpkeHEzajZXWndjb002Y0YwbG9PMjRkUFJTT3IxR0lFTHdGSExCbTZxTVY2M3RFSmREZS14aXcwOEJwNVdNNXluMHZkaTFWQTlNaEFhX05SMEltVmZZb0pDcGJVU3Mxa2tta1JaUEU1WEJYbFRNU3dBS3JEZDhGeDZJRUVuM2tYZmFZc3pn?oc=5",
+     "source": "디지털투데이",
+     "published": "2026-11-20T00:12:21Z"
+    },
     {
      "title": "RBC Reports Zero Holdings in Leveraged XRP ETF as Goldman Sachs Expands Exposure to $144 Million",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNME1TVXRRODQyaWIwcHdQWjVQbmV0VHZXa3c3ZWVacGF0YWszZkNBNmJlQ09pVGZaeks0N3NtdmQtcXc5NUFTcUJHWGZuMXpFaEJJTGRCN1JTR3llb29XWG82a04wVTRGVnpEZG5sT2dUNVdUOElWRUNpa3p2ajZ5M25R?oc=5",
@@ -155,15 +161,9 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GTkpPeGdUZ0J2ZzE4NjNtaWZzYnNlLTJjLU05ZEtlRW5HLWV5NFU4NkVteHVzb0d0aFFMRDZsTlpWZzQ0ZUoxQ2ZaaVFCWHlOeTJRSEpVTURmaVpGNmI5bnBoUFRyNTM0Smc3RFhBcnduczZCOFJDNFJTUGFQanPSAYQBQVVfeXFMUG1iVWNRcm41TjlWQmUyWm5XcDMzSTBqalVta2theWxTWUt6cWFwY19XMjZpd3BpT3M0Z0h3ZkZiWUc2dDlUWndQWDRqYWpTM0tGNE1YZTZaSE11NE12SDVTQy1BandqRDZHTWNvRTQwZTZUM1pDOFJzY1BLQ09SUzVzdUZU?oc=5",
      "source": "U.Today",
      "published": "2026-11-19T13:24:13Z"
-    },
-    {
-     "title": "Where Does Royal Bank of Canada (TSX:RY) Sit Among Canadian Financial Stocks?",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUlMYnZrY0I0Ql8zT2tlbzRub0twQVVKVmp3c2d2M01QQWRCZXg1NnNyZ2JCVHE5RTZ5T2lILWllM1hUcGZQd18wSXFQLUJDTGx6QzRiOVpiRk9jMGNhWk9pYXpKWkg2eWVzVGZnWXhwb2lMRUxuM2tDQTNDX21DalFXeGxJdnBVWGJOekgyX0h5NDA0RG1maHJSYkktaVVQUmkxcnc4S2dnYzlaclZVTDllYzI4YzJROEE?oc=5",
-     "source": "Kalkine Media",
-     "published": "2026-11-18T23:18:00Z"
     }
    ],
-   "news_at": "2026-11-20T00:11:37Z"
+   "news_at": "2026-11-20T02:38:07Z"
   },
   "NYSE:UBS": {
    "news": [
