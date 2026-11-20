@@ -4,43 +4,43 @@
   "NYSE:JPM": {
    "news": [
     {
-     "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGRTQVJKbUo2STdzRV9TQnJBQTB6eWVKakt2SHpDWGlhcXpHaXJ3TU9xakxjaFhQQ096VXQ4Wm1id0lnVXdSemFaeWdxak5JeTJrU0dqOFNFanpqRTJkV2tqdGRpM1U1MnJrQTNmY3N3c1VVMldCbFotVC1FN2owSEVMTkNNaUkyeWx6aA?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-19T21:16:51Z"
-    },
-    {
-     "title": "Hackers Leak Personal Data Of Thousands Of Visa, Mastercard, And JPMorgan Chase Customers In Ransomware Attack",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMk1nNzllSlZnTHRWNEstME8wcnVCSm5TRjhQTFFQaTBmYTdpM0hRSGJ3Vkg0V2NaY3lWVjJiV3pxVDg5VjRTZzNNOWRyaUtyOEdkeUJqWjYxaUNxZU1oV1NXTEdYWU9SXzZzS2EzX0ZITkF6LUhPbS1pUUdlYi1wSmVteUhqNlBZZHgwWk5HemhaN1h0c1B3TUJ6dVg1RUgzY1dZOWk4U1BaaFpvOEZsUHRPVlFmOTlyN3FiUmNvVEQ1MG1uSmlJQlN30gHPAUFVX3lxTE1lamxjN2F3bm4wTTNXc0Q1Ym5jWXRUd3M0N2E0MkNISzN3Sk4tSUZ3YldkeGhwSzBWOTRXaUZOZWF6WE80TllLWmM0djFEdGJyOTF6NUJHT1RRb2V0S084YWFULWh4YUZCcUdwazFBczlRaXpiTkNTN2duTlptT2xwczNnNzF1ZXQ5UDBwNE5uYjJ5NDdsbHVpYXUzbnNpQTNMYkRmLWFNRE85SkhXYndOc2tLc1RUTUM4cWtTUUMwcDdGeXEwSWNjSEQ5VkZ5NA?oc=5",
-     "source": "Wccftech",
-     "published": "2026-11-19T21:01:11Z"
-    },
-    {
-     "title": "Chase confirms cyberattack that may have exposed customer data. Here’s what we know",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTdySF9JNlhFQWlHSlJaTkh2RV9fYUg4N0dqLUZlM0dGMGY0SWN5dmMta3FLMktObGpMRmU5VnAycWwyREVCUS1RbnNkb0lqWU5pMy1leFR6SUd6b1NnblZPSHpDSUtPN3JHdzN5dENRTUlqTDNmM240QUUtdDRMdEJiZTFhTGlWdk5GaEZKc3d2cTNUWlNyampJNlYta1pFOE4xZ1hjNjJlWFhIMy05dlBKb2NfRVRCMVE?oc=5",
-     "source": "Fast Company",
-     "published": "2026-11-19T20:58:49Z"
-    },
-    {
-     "title": "JPMorgan Chase confirma ciberataque a proveedores externos",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRWbmRLTjNOUXFLck1LeG1uTkYtVjZFSGZsZDk5bklaM2pkbDc1ekJzUk5IMWV5LXhmSmk5UGdCM2FOcTZBRTAxMGQzUG9TNkRiTEFqbzdmWVVfeUd2RXkza0d5RTZNVkRtdlBFb1pkZzlLQnN0UWZ6cFFEZ3VkdFJqcXhrRHdhMHV0OVNqRlFyZGpqbUw1QXlXZkNycEoxSFplWl9sWjhtZkNGNXN2dnBR?oc=5",
-     "source": "WPEC",
-     "published": "2026-11-19T20:57:59Z"
-    },
-    {
-     "title": "Form 424B2 JPMORGAN CHASE & CO",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW1XWDFpRDYtQkxMbjhXYkxtV09xNDRyT1o3alZOeWpUWUZ6RkZHamFJS05lS3d0aGRsaE84MWNwLVlFendYLVBXYzR6bTYydGs5aFRaRDhFSlVweTVuTjB0Tmw4NWFEUDhwVmhiN3puX1lERFRlNGcyN1hmZENsdWJsNFhZVEpPX0ctTXBhSXNoUl91M1RvNURR?oc=5",
-     "source": "StreetInsider",
-     "published": "2026-11-19T20:53:04Z"
+     "title": "Chase now blames cyberattack for Monday banking outage",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHRPc184TmxfcDdWbkJIODdSQVcxSWVOZlRlNzhkNVpybTJ3eHYtSkxfNVZmMzFFcWlJZWQ0RTVNelg1NEJuTk5jd3JoR0Uwc0VkUTZLWTFiamZ4QWx5eVA1YUkzR2tDamRzeDdUX3dIb2VlM2JNQ2NkWEFpZUZiTXpfS1kwaTBFWmp3Rkk1d3VWbDgtTEdTd3Y0cVd4aDVad0hKdkZtQVZvVzNNRF9hQmZSRmNiNWllT3ZSdUtoVHI4MkxKM3dWd2RB?oc=5",
+     "source": "KTEN",
+     "published": "2026-11-19T23:56:00Z"
     },
     {
      "title": "Cyberattack may have exposed Chase Bank and Mastercard customer data",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWw5Ml9NYmZNeTNiSlV4QUhBc0JuTzY1ZEVBX295eW5xYVlIeGpGY3J5Ulc0UEhvSW9iQnFtVVZNQ2p0UFdoLUJPTHh2OVNvTFlhRVlVV0ZMdU5rcE5pdzZtV0pYVnlDUENlNWlSMUhUbzBueWxIcHpEdWtJUmlXbjVhN1ZKOXFIa09HMGNsdTZtS01TbXJDdFBfTlVocDAxXzhsNkRiVzVQVWRRS3NZQmc0aFI?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-19T20:41:33Z"
+     "published": "2026-11-19T23:41:33Z"
+    },
+    {
+     "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDMteEVkNGdpRU9rTzNBaFdhbm5Qd2N6bEwwTVp6aFg5MWloWU5EWkxuaE1IY1RLRFQ2QXNNdTE1aVJHYnpSNm1IRGtKdnIxemY2QTdjLS1ETndQTXhfd05GcVE2cEpMS1U5S1lwY2tVaENqVmdJczVQU3JlaEFGbHhuRQ?oc=5",
+     "source": "Futurism",
+     "published": "2026-11-19T22:56:21Z"
+    },
+    {
+     "title": "Visa, Mastercard, and JPMorgan Chase customer data breached, Alex Jones reports",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkgtdVpXbGZudWZIVmZFWE9RVF8tdmNpVlNEOXRVcDB1bVh3enYzMTdsVE5TMG91VkxCMjBCT2trQzhlNGdQdWRJS2hVLTA2a1BDeG5BdmNCWXZDeW1FTU5ITlV5MVVGelJFWkVsY09GcXkwRlVQbTByaFRCMUJkV3Vqc21FWDAtTklqSTlzQUo?oc=5",
+     "source": "Traders Union",
+     "published": "2026-11-19T22:55:18Z"
+    },
+    {
+     "title": "JPMorgan Chase says cyberattack may have exposed customer names and emails",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGE4UlV0c2FMNEs1bFBHV0JaSjRKUERMRGFpbWdjT1JaTXVKYldteWtrMDlYY21BQjdsSFViaG5BSXBJSHFHTTNsTDFVbzdDeTI0QzhfeXVjVjhpc1RwQ1c3cmJwRWctWEU4U21Zem1sSzhoM3NtX0FCVUlDbUM5NjZmMkhQbm9YakdMUjZsYjBJcHB4Zk9qS1NsbEthZFNOSDhBZ2NENEJscUpWWkpYRGJXUUgzMk1ydXBlWWdnMGV6Y1dQalRYYW9YYlFxWktpSzlOMDY3Q1M3a3ZUZ2FZYW9vWkl5V05x?oc=5",
+     "source": "KHOU",
+     "published": "2026-11-19T22:39:37Z"
+    },
+    {
+     "title": "Form 424B2 JPMORGAN CHASE & CO",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDhtVktKeWZ5djFoeTRwam9kczdTdFZYbkN3d010ZFgwaXdhNW1YLS1LSEJuQU82elBmVFd1UHdTbDZHeDZMTXNrZVlGblJnZmQ4Q2tuaHBvcUlOcjdGUHZKV3BRLS1FUjZUV0ZndUxDM2tDbVZnQlV4MTdBTm5pdW1HMWFDemE4QTF3Rm5wYUVyTnRvNlBOVU5n?oc=5",
+     "source": "StreetInsider",
+     "published": "2026-11-19T22:31:36Z"
     }
    ],
-   "news_at": "2026-11-19T21:18:54Z"
+   "news_at": "2026-11-20T00:11:37Z"
   },
   "NYSE:GS": {
    "news": [
@@ -86,43 +86,43 @@
   "NYSE:MS": {
    "news": [
     {
-     "title": "Primo Brands to Participate in Morgan Stanley Global Consumer & Retail Conference",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHZMM3FRSWZ6YV9IdEF0TlpUTTBQTW1paXRIWWxpamZGVThVYmN6eE5SWmVTVzBKbW5Qd2ludDRaZUpRbHRvOUcyckNNbUtBVXFFTHJVekdoYlQwY2ZxUlU0WHl4MzBxZ2pGc1RERzc2TEROU25NSWhUTnd0NFRBWFJkRXJNYWJSOGNkbHA4VEdzLU9MbGlKVjhCZDNBVDZJLXp2WWp6R0RGMTRJTklZQ2xLdk43YVJfSlFPOGhlME5YdHN5Z1VwOXRRU1ZUTm5DSkE?oc=5",
-     "source": "PR Newswire",
-     "published": "2026-11-19T21:10:00Z"
+     "title": "Why Morgan Stanley thinks tokenization makes more sense for alts than equities",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0tiVUpKWF81WTVYbzZnSG1YM2lMcUEyeWxBUV9INFpPMHJMTjJiRWRYMlB1czh3em1zV1BfUDdNYVBQZ3F4QWw3V0RPSFE2SWZpbEVVMGZTVjhRTGdsMTN3cGdkWGNsbW9zTmFYUE1mU2Y5UU9ZQzJMWUxpM3VVRmNfbHZQNEY3TXBZN0o3WlBxYWNaS2JMajRGMGZvZDV6aHdIZExSSzVQSDJoRFE?oc=5",
+     "source": "CoinDesk",
+     "published": "2026-11-19T23:39:29Z"
     },
     {
-     "title": "Kimberly-Clark CEO Mike Hsu and CFO Nelson Urdaneta will speak Dec. 1.",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTVrQ0llcXBVNXhNUHJXNlVBbVZ1eFJsWmxHdXpQY3pZN1dyOHgteEJUR2ctOG9sVmdaWWlnNjJNcXIwY2FDZXcteFU0WGhMYkxqYllQVHlCNk9XVHhVSHY1Z3g1RlhlbmlBZG5GSW96U1RsZEw1aHpKNDdUT3IzTm1YOUxmWG80MGlGWV9rR3FwY1dZMXNSNXo2dHZabXFjN3BHOXNXbU4tOUIwc295cXBGb0dpUzQ?oc=5",
-     "source": "Stock Titan",
-     "published": "2026-11-19T21:10:00Z"
+     "title": "Anthropic’s IPO nets Goldman Sachs and Morgan Stanley $113 million apiece in fees, eclipsing their SpaceX paydays",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOanlsLW5Jbk95X3A2Tkh5M2VOb1JmTF9GZFl2MzNXYjJCWW1ISzdTWTlXSG93YUdDMk9fUUZVNFlOdS13ajNkVkp1d0hTNG83TDAwTDd5R0dXUkNlWTdlWW9xRDREMGEwYl9pLTdQcHRCd3RBT215ZW9vVW16Z1F5VmRIcDFjSnVEZjBBR0VQYnhfaHQ0VFIzRG5VLU9YaVkyWUQ0TlkybFI3X2EyTWlYR0RpNklPamVxcmlIaGJ4UFVmd3lKdFNzMHdvYlUxR2pzVFdoSHpSMDFZZw?oc=5",
+     "source": "Fortune",
+     "published": "2026-11-19T23:38:00Z"
     },
     {
-     "title": "Primo Brands will webcast its Dec. 1 conference presentation, with a replay available.",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTBsZy1XaThYVFNOWXp6enQ0R2lYU0tacVBuajBLeTk1SThxYm5xUTJmQzBtdVV5ekE2Mkx4N29WUE1vOVBuajNtZUVVREYtVmo5VmdBUW9WdnE2VURTbjFLOHJZX0IxWjZKYzNVdDcyUGwzZ0ZjX0U2Smo5aEpvT2FNT1UxWVhIN05Fb1c0QWZXM1JjVW90cGszRWtNOWF4aEpLTTYwRWI2ZHowYkVBMTlYSTFwU0V1dkVsVjdFQ0I?oc=5",
-     "source": "Stock Titan",
-     "published": "2026-11-19T21:10:00Z"
+     "title": "Global investment banks Goldman Sachs and Morgan Stanley have made mixed forecasts on the future of",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtem9jcGdrZkw3LUd1bjJkUktVYTg5ME83bUFrdVZJY0llWk9FOGRod1cyek14cFhvZkw1dVFXQUlOVGZMRC04WGFvS1JTUFU?oc=5",
+     "source": "매일경제",
+     "published": "2026-11-19T23:19:10Z"
     },
     {
-     "title": "Adtran Holdings, Inc. (ADTN) Reports Morgan Stanley Holdings Change",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PbVdUdlFVbTRQYlBNZ2xHU1NUVFFKWjVuYnhRYXhiZFpZby00QW1GaWRfanAtMnZsVEFvbXQwem9sWjZ2djFnaDZiNTBsd3V1MU9sdE1tVG5HUjQ1UFhCQ2t5U3dPZ3ctZHFENA?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-19T20:37:51Z"
+     "title": "Raymond James, Morgan Stanley say they have a tech edge. Smaller firms disagree",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVBMYldMbGNzYUMwRjZxYmh5VEl0MFFkSHpzOTl3MDhOMWdYamx0X2N2ZmtIMkluYVpZNEZuZDBySUNzTS1sOXE0Nm5TMmxlTEZETWNmc1ktZV9RT1M2dEdJRWtzZHJQcDNuZnF4UnhBNlNLMUNPdVlyUHBRRGxFTUxsT1hSQzBFTm1QQXlScUZHQ0luZmY2clE3bENsQ2t1ZHpvcXNXM1d6TTNrdzdjNkN4d0ttMWdG?oc=5",
+     "source": "Financial Planning",
+     "published": "2026-11-19T23:07:46Z"
     },
     {
-     "title": "Morgan Stanley Raised Its Quarterly Dividend 15% to $1.15 This Year, and $1,000 From a Decade Ago Is Worth More Than $5,000",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQXVLQm5zcUo1NE0wVnRnUE96VEN6d1BWdFpMTmo2NFdtX0V6T1EwRjhvLWVfZGpXQVc0aTNMWEZGb1VnR0l2cVBOSC1rTE1MeFdFZGZlYkhpdlVDOWlpV2RtRVlaTzAzelpINFV2UWhOQTNPV3RUNXpCcDBLNFFLbVhNeW9aUG0zaWtPNC1zZUFOV2VuLUdpUFdCT1NPb3ZVTkJJNHhUZmFYR0JGenl5X3RQbzJuYmphcFdzdVN6bFF5c3VhTThYTkFxSEZwNFZPVS1GY2JsWV9PajFCM1pUS3hDQnJuTkNiNDkyZjdtYnNXdw?oc=5",
-     "source": "24/7 Wall St.",
-     "published": "2026-11-19T20:29:00Z"
+     "title": "Morgan Stanley falls 3.26% in Thursday's session",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWVabFpKVW90cHNVc3ZSV3ZkNUZtdjNoT3ZsQVp5TDlVajFIV2JmcFNUYUlyNjNVeFJSTjdaUUNxaEg5MDdaM3JjMDFHcFV5V3FGYTk1MVNBeGJuTlVIUkxWaGJiSWVJRE9BVkc0cVo5bTVfcjU0bTcwcWl6dDRhZw?oc=5",
+     "source": "Global Banking & Finance Review",
+     "published": "2026-11-19T22:57:23Z"
     },
     {
-     "title": "Form 424B2 MORGAN STANLEY",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUtFaXplOXAyZ0Z3eWp5YXROVUUyN0x5OERFVkVsS0VtQkU2ZF9mN2wyamlwTV9CLUxJbEV5d3lKU2RISEhxTW5oSXNNbXBIWjhfTFhZVXRhYUt4anV1bHlZTkNZc1FsdEJzMndsMTM2ZHR5UXVQMi1WV1hHWmZ6MTdpMUViVXVl?oc=5",
-     "source": "StreetInsider",
-     "published": "2026-11-19T19:59:28Z"
+     "title": "Morgan Stanley served as joint lead bookrunner for the Anthropic IPO as stock falls 3.3%",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUVJcEdEVmhlVVhrcndGVTY4NzZrWEJWWGdsUjRCYVF3YmFfXzhsQVRqNi1uLTNPVjU5S2Q5b2R2QlJFNUg5d1FXRWRTQXd0ams3YlVyRWlvNlBRR1BKVVNCY2k5eXUzbkdHY1FFa25XNk9fMGlnaE5Bc0U4TEV2TlMwYm0zXzBlclhack5qV3ZjN1JFcUE?oc=5",
+     "source": "Traders Union",
+     "published": "2026-11-19T22:44:28Z"
     }
    ],
-   "news_at": "2026-11-19T21:18:54Z"
+   "news_at": "2026-11-20T00:11:37Z"
   },
   "NYSE:RY": {
    "news": [
@@ -152,18 +152,18 @@
     },
     {
      "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFpJYzROX2dRWTdVYWpPQ3JXQU1oaWtRQkEybEJURmtZaEN6VEw0WkFVb1NMYXljOUp5bTRSVTd1Q2ZKNDBDVTlrVVNsSU9wMWdRcDZwcW4wems1S1F3X0JWWnc4YUp3VF9FNGV6X2trbHNzQ2hWSDNad0k3a0dYTFRMZ2djN1Q0WTdrM0tfeGYwaDZNYkN1azVXTnpVZG0wb1JsNmNaTm4xZUZocGZPWmZBanlrTTg?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-19T13:19:40Z"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GTkpPeGdUZ0J2ZzE4NjNtaWZzYnNlLTJjLU05ZEtlRW5HLWV5NFU4NkVteHVzb0d0aFFMRDZsTlpWZzQ0ZUoxQ2ZaaVFCWHlOeTJRSEpVTURmaVpGNmI5bnBoUFRyNTM0Smc3RFhBcnduczZCOFJDNFJTUGFQanPSAYQBQVVfeXFMUG1iVWNRcm41TjlWQmUyWm5XcDMzSTBqalVta2theWxTWUt6cWFwY19XMjZpd3BpT3M0Z0h3ZkZiWUc2dDlUWndQWDRqYWpTM0tGNE1YZTZaSE11NE12SDVTQy1BandqRDZHTWNvRTQwZTZUM1pDOFJzY1BLQ09SUzVzdUZU?oc=5",
+     "source": "U.Today",
+     "published": "2026-11-19T13:24:13Z"
     },
     {
-     "title": "Ex-banker who opened accounts, viewed PM’s data should get jail time: Crown - National",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5Q25xOG9IWlprZGtkMjdHemJBbkNqQ3NyUHRKdnp6UDZDTnZpcmVIeTZBYWIxUkZEZDJfdnlyN0pyU0tINVZIU003ZmR4VnRUbHVFc1lvekRSTngwWXZCSkpnbjl3M3gzbFc2bmg1OA?oc=5",
-     "source": "Global News",
-     "published": "2026-11-18T23:18:46Z"
+     "title": "Where Does Royal Bank of Canada (TSX:RY) Sit Among Canadian Financial Stocks?",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUlMYnZrY0I0Ql8zT2tlbzRub0twQVVKVmp3c2d2M01QQWRCZXg1NnNyZ2JCVHE5RTZ5T2lILWllM1hUcGZQd18wSXFQLUJDTGx6QzRiOVpiRk9jMGNhWk9pYXpKWkg2eWVzVGZnWXhwb2lMRUxuM2tDQTNDX21DalFXeGxJdnBVWGJOekgyX0h5NDA0RG1maHJSYkktaVVQUmkxcnc4S2dnYzlaclZVTDllYzI4YzJROEE?oc=5",
+     "source": "Kalkine Media",
+     "published": "2026-11-18T23:18:00Z"
     }
    ],
-   "news_at": "2026-11-19T21:18:54Z"
+   "news_at": "2026-11-20T00:11:37Z"
   },
   "NYSE:UBS": {
    "news": [
