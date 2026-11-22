@@ -4,6 +4,12 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "JPMorgan Data Breach: Vendor Hit, 16,000 Unconfirmed",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEl2LWVfRWlnX2tidldTMklFQXg1RzB1VEdfUDNXVXpVdVE5NTZ6TVNPanBGWExzTkZneGdmbFowVU56YmVmaTFURjBJbkhIa3Fidnpwdm9sU2JsUm5pR01uZlZ2MDdEdjJPcUpldVV5cGNzcWF0cWlXcUtyNFQ1X1BFcDEwZ2RLbWk3TU14eGROOG9K?oc=5",
+     "source": "shattered.io",
+     "published": "2026-11-22T03:59:23Z"
+    },
+    {
      "title": "JPMorgan, Visa, Mastercard Warn of Possible Customer Data Leak in Vendor Attack; 'n0n' Claims Responsibility",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QQ2VqQWUyOVJWc190bkRZU3dQcXRMTjZ1c0FkSUg1d21sckVGYkl0VEYzVFkwNFZGRWlsMFRjVHI1Yk52Rk5ibGNtS0RBRXVYVnoyakN5WUJ6VmU2dFRlamp5amNqVmlZa2tGSng0ejVEZzRVakE?oc=5",
      "source": "BigGo Finance",
@@ -14,12 +20,6 @@
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEo0RFRtZHE0bkdaLTJwT09xOWpEX3I0T0Zvb2tqTXB1Y21zTjFZYndVbUY1dnNuZ1lyTnNqbzVndVBFUS1mcnRXdVFZLW1HdmdWY0gxTktBaC1KY1ZNWE02NFVMRVE1bzVDMGJsemxlSDlhUnlXbHVneDNocF9mdFh3SEprTWpOY1dVbXFQNUQ?oc=5",
      "source": "Traders Union",
      "published": "2026-11-21T18:55:23Z"
-    },
-    {
-     "title": "JPMorgan Offers Steep Discounts on $2B Software Debt as AI Disruption Fears Spread",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzA1d0UzZ0NnZTNIM2NJS2tUdWNUSUdFMFZybUdXQ2V4MFppNkhXU016bkxvaFM2MllDUVd5MnpQWE1nVFRXaXhuV3pmLS15OU90Vy10Q0xjUjhwQVp2OEdDaHhXSm5RbjRzMmd1ZzNyaExBWDRjN3ZzbXAwT1hYRkUwdnZZaEdSbzRCa3RuZmktVlJPU0JiaUZHX1hDdzFtTFgxWE85MHVDMFNTMU1ySQ?oc=5",
-     "source": "Coinpaper",
-     "published": "2026-11-21T16:47:13Z"
     },
     {
      "title": "JPMorgan Chase names Bregje de Best as CFO to succeed Jeremy Barnum in 2027",
@@ -40,10 +40,22 @@
      "published": "2026-11-21T12:53:00Z"
     }
    ],
-   "news_at": "2026-11-22T02:26:26Z"
+   "news_at": "2026-11-22T04:27:30Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Nasdaq Plunges 5.3% as AI Selloff Snowballs; Goldman Sees Up to approximately $80.2 Billion in Additional Selling",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1McmtKLVNNWGNYMDdWenZKVTJNdUN3R3UwbWtreV9GVXhrM1FhNUNXUl8yeEFGanFNNDY0dFFRWmhtdldhMFpTWWhIWUtfc29sVl94Z3VzMTJ4ek9KUURjUlVlMHZqWU1TUnVBSURpcW1acFJfVkE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-22T02:55:00Z"
+    },
+    {
+     "title": "Goldman Sachs panic index hits 9 as stock selling pressure may persist",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczdNSkp3eDdudmpROFRTM1ktNUphaHE3UGx2a3AyVzZRTGFmOUUxeEFNSEVFT3ZFRVVzQTNIRWVqZkhtM1c4c25BM1VBRDdGNDJRQ0RaalBOMURlNTdnZkRfNG91empSVzA0anBORlQ2aFFGZ1h6Y3NyVVpFaS04VtIBlAFBVV95cUxQVDY5TGdzS19weW94VnZ2S0Fmc2hTd3hXcUg2MC1QVU1vU3BnejBQdjYtTEF1aHY4VC1VR2JhSW5wYnVKQkRPT0N4dGpPNHA2VW1hVHNLZG5QWmxfYlRORjJPNlNCazBUZ1pKY1EtaXRlRDlyOXNSeWt3QURqaTZjbnViejhsV2FNcVFYSmQ1U2VVTDRD?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-11-22T02:41:00Z"
+    },
     {
      "title": "Kuaishou Technology Class B (1024) Gets a Hold from Goldman Sachs",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm54aTZsZm5rbGJMNGQ2RWRhUUZjNG9iZEJ6elg4djFZNGpIN1p6d01yMk5QSWp4U0VqdlRkdk9kWnRzWGxISlZ2WEs2NV9aOUVKNzVuUEd4cG5seFh1Q0tzeXYzRzYwaGVPZS1pLWZVdW9XZ0hPamhtcFdOWHlBcUdYZTdsYXpMMmVTaG95SW9ndlJjTjZSZzV1TG40VVFnMUFfejNwYnNCQ3UtR29vQkVJaEt0ZGJ3eUxyNTIwTFVhdWZnM0NON2RFc2NZNmJTSy12RUJ2NDV5SHUy?oc=5",
@@ -67,21 +79,9 @@
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXJhMXlxSTVvUW9QUEtJbk1hMVZNdjJmM2ZPSUJUanFndzhmNGhlVlFtUHdoZEhMNlVudDNEWTBmTC15dWt6SThkQ2VkM1AxYy04WldOMW1VMGUzU1FheFpQRkRQMWZ1UHJ5aWs5N0ZiU09YT2RFVzMxY1hyeXRGN25IZDVyQVFZSnA3N3FrQWxnbS14VU1TcFlpMGFZRDJlUkk0OEZJZE5GWWpYVHNMVWdhaVBibjRuN3JOV2JFNGlnU2M4UHJPaUt3bmk3TUd6ZElRaXptamttc3hfazd3?oc=5",
      "source": "Benzinga",
      "published": "2026-11-21T21:00:22Z"
-    },
-    {
-     "title": "Goldman favours gold over silver as central bank demand supports prices",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWRicXpBR1p4RGpSLTRJY2pOdDJjRm5rZmFVcW9zQnVCOVAwR3BuWmQ0N1lRbFI2OE5CR2lfdkctb0pJdDJkSTQtNmpTbVp5LXRiM09PNG9sMkVvM0JJTXFrTm5rZlJCR1lKNkF4S1ZyMEZwOWZpNEotWDJnQjJWNXprbThOWU9hVjVYUWIwaldDUWVJeWE3QmNnMEQ5WHZ1UlZiUTJ0VkpPdWJuY1BsSmVrak4wd0pwTFVWQzhXaDVUMDlfOVE?oc=5",
-     "source": "Investing.com",
-     "published": "2026-11-21T17:02:10Z"
-    },
-    {
-     "title": "Apollo and Goldman price $44 billion SpaceX GPU debt. Now for the hardware.",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OU2trbXJ5WkpubGJMSGJIT2FPb01zeWVaVDlIUjloWnQ4eEVhY2pTS1Z0bnZxQ3NMSHZJX2c5NTZ5ejJTTVRJRDllMXBRN2ZCTGc?oc=5",
-     "source": "Digg",
-     "published": "2026-11-21T16:39:23Z"
     }
    ],
-   "news_at": "2026-11-22T02:26:26Z"
+   "news_at": "2026-11-22T04:27:30Z"
   },
   "NYSE:MS": {
    "news": [
@@ -104,6 +104,12 @@
      "published": "2026-11-21T10:34:27Z"
     },
     {
+     "title": "Anthropic and SpaceX IPOs hand Wall Street banks more than $1 billion in underwriting fees",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTng3WGEzbzc4TGJQVU5iNThScl9YWEhCY3BPSDRWUzBQa3d1TmhSOFhpOEstYVJKSEt2YVV5YlpNaW1tZDExaWx5WkRIMjRhZnVYZXFvbHV5aWxJRW5KRm1QVFNLb09pQXJNWlltN0YyYVVFRUpRQy1xMENWUGgzTlY5RkpEZFNvNUtwNVRnOS1ERFdxcVFSbHREZ2J2VmxMY0hYWEExTXJYMklnLUcw?oc=5",
+     "source": "MLQ.ai",
+     "published": "2026-11-21T06:35:28Z"
+    },
+    {
      "title": "Morgan Stanley Ends Anthropic Stock Support After Just One Day",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVlRCSVc3NEJVQ1h4TkdPdU1fQjY1TjNiQks4bm54LWhhUG5SRWVLNFJUQW9KT0RxMTdXYlpVVjRjQ3ZkbjBTdWIyVWhyWDI5WlJmWjA3LW9TWjBHYUtEVFZFWmlFYW4zM0VSYlNEdGt4UVFoN0FR?oc=5",
      "source": "BeInCrypto",
@@ -114,15 +120,9 @@
      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd3ZKYV9PNGJOME9NZ2lVbVlYQkNDUjZkVmgxNnhnRmw4Y1dLVENscHhXNEx4cUs5SVJfTjkxSmpvTl9Ya1hna3JSYURhSzJ4T0NwUG1uYXZCVDNkdzBUbHdJTzJZZUVOTEFaZFpIQ1BLdlYxc2lhbWcxOUpiQUJqRHJNc0RCOTc4dWpMZEtTdmJqLXpDZFptcHI3UzNwb3NlVlZRWWJkVjlzemRNYVROWHV0TjBfT0tndmsxYXZEZjlqQWRPR2tMWVoyNG8yMXN4cnZCMUJ3SEtjZHpnVGhZZ0lweTJJY2Zoei11aXNuUzRKRUdXY1gta2pMREhpdw?oc=5",
      "source": "NAI500",
      "published": "2026-11-21T04:16:23Z"
-    },
-    {
-     "title": "Morgan Stanley: Starlink Robotics Revenue 36% by 2040",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3ZGYzhOYnZDZ0lmcldzSnRqVHUtbnJUYTk3MW1sV1E3WGxQcnQ1Y0Z2SVFqXzRUNlpQXzhZSjgwYmEwWjIzM0QyeXVVN052d2VVcFFqYjNMd0p1aVpBMzdWWWo2T084NGhia2doS1ZyVFBXT1JZcXo2QmRqQnBLVDFhS090SDE3MDlaSnUxNVRVdlphVkxoaFpndw?oc=5",
-     "source": "shattered.io",
-     "published": "2026-11-21T04:14:21Z"
     }
    ],
-   "news_at": "2026-11-22T02:26:26Z"
+   "news_at": "2026-11-22T04:27:30Z"
   },
   "NYSE:RY": {
    "news": [
@@ -163,15 +163,15 @@
      "published": "2026-11-20T11:58:49Z"
     }
    ],
-   "news_at": "2026-11-22T02:26:26Z"
+   "news_at": "2026-11-22T04:27:30Z"
   },
   "NYSE:UBS": {
    "news": [
     {
      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHVKeXQxNUN2UHg0SVFOVzEwVUVTR21iNWZ6cThhdHZTZHQzSUMtNWpObVE1d0p0QVpOYno5YWIzcXNicUNMdy0xM01SX2xNU09rTm5zS0tLclBOVUdzR3dRREMxQXo2Q1ZBd09RTzU0cUZ6RTA3RzBaWXRjcVJORHdwUFFHZ1dVOU02YVZ2OUlRWnNDdkxZV1Fnc0ZkT202VzZTUWYwVm9yUzJjSXJ3Z3hNblEwcTlVRVZJY3NsS0hFR3M?oc=5",
-     "source": "Investing.com Australia",
-     "published": "2026-11-21T18:02:27Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlo5dHE1SWxqV19SaFYxVEl2OFZ0a0lsTEw2Tjc5anRmZHBxaWp6QUEybWpnTk1Kci01YkJrWkpxb2VVaEFCWG1uaU9zY1J5eDh1UHdzai1TdVlNYm44TldXOFdHTFk3YVhrVGFrcmJSeWpWd0Zic1pIanRZVmpIcDlCQVkxZUZEeUlPZXpZQXFoOHlNd21uWEF3OWFhUExjSVk2VFdDS2QtU2JVR05BSGZ1Ymt2UkpsbHQ4eGc0MGw5d0oz?oc=5",
+     "source": "Investing.com",
+     "published": "2026-11-21T17:52:10Z"
     },
     {
      "title": "UBS Discloses 5.2% Renk Holding as Defence Contractor Unveils CFO Succession and US Army Autonomy Wo",
@@ -204,7 +204,7 @@
      "published": "2026-11-21T10:21:43Z"
     }
    ],
-   "news_at": "2026-11-22T02:26:26Z"
+   "news_at": "2026-11-22T04:27:30Z"
   },
   "NYSE:BAC": {
    "news": [
@@ -245,7 +245,7 @@
      "published": "2026-11-21T14:09:54Z"
     }
    ],
-   "news_at": "2026-11-22T02:26:26Z"
+   "news_at": "2026-11-22T04:27:30Z"
   },
   "NYSE:SCHW": {
    "news": [
