@@ -4,6 +4,30 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "Boston Partners Purchases 103,238 Shares of JPMorgan Chase & Co. $JPM",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEx5TGFUN2VKY2VaZGxTaDdMVlAtTjlFbWtQRmN3M3JsN3lUT1Mya0NBYUJvd3lCZzdiMlIzLVJBdU83NUVMVERwaE1oVHBHYkxoc19ZNDZjbkFrcWxnUW5lTEhoaDB4c2E5bHNwZjE4MUpta1lnZDlmQ1ZJeXAzVElzcUo0VGJiZVg2Nm9RZVhHNzNvQTA2YWlfeVMwOC1YQ2JrYkJwZVVZR0oxMW9zVUo0TVJfOUpPVVFOX0Vnb1dna2s?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-22T08:58:03Z"
+    },
+    {
+     "title": "Chase Vendor Hack: 5 Steps to Protect Your Money",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wSnZ0X1RTSjhvTXZmd19sdHZ3NWNUWFVUTHFBdFdBdF9qTFctdGstbXFaZW1IUVZkXzI2bGhMTkZ0WEhHYm83YmdqQmR2MnRHTEYwVmFVcXJZenRPTzVFVnIzWW5RV0VTNFNCbEhWQWFyNjdk?oc=5",
+     "source": "shattered.io",
+     "published": "2026-11-22T08:44:24Z"
+    },
+    {
+     "title": "JPMorgan Says $290B AI-Fueled IPO Wave Is A ‘Drop In The Bucket’ For $70 Trillion Stock Market — ‘Eventual Winners In AI May Not Even Exist Yet’",
+     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSXJQX1hFT2ZzYnV4ejl1N2JFd3dpZlVzV0pJT3pwYUxXRUd4STNSX2FzckVOWkxwa21QUTIzYlRWRXFjNGNHd2Z5QnJZTUhqNm1HY0ZwSlA5T0R5OVpvdjAzUkoxZ0VJUlJlLVNTZ1RRMjJLeHJEcmprRWNRa2kyT2YtWHJmcEdxUGpvTHJTRWpDZVNXRlNUMGdqalZDT19JRzlIMGtDNlY5RUEta0tIWEhCMnZDQVVwY3hlYUlya2FOa1A5dFN3MVlfZW84RUdxamxUT2JibTZfdG9tc3VaVDhXSHZ4SExzTzFlbGhJOGh0dmF2ajhFdWp1SnJPSkdKVnlaYjYzY2QzTjg1c3MtMFMxSkVIdVoteXFoR29VZGJLS3M?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-22T08:36:20Z"
+    },
+    {
+     "title": "Will JPMorgan Chase (NYSE:JPM) Keep Its Edge As Sentiment Shifts?",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkdQdDNvYWVmZkpicDRZVkh3aUdqeXZmbGF5dFpMdTJpN25lMzRHT180Sk1JcG4yaW93RUxyV1RWTjJ1V1IzNlJhdl91Z2ZKUzB5WW1HZm9nR0hwYWI1ejdQWlVEdDFqbkQ3aXlBRzlQd3RBdkFsTjdxT1FINDBmSzdOM0hyV0h6RWtBcUFsQnVWNWlqLXFnc19DSVVYckVFU0FFYmV3ckw?oc=5",
+     "source": "Kalkine Media",
+     "published": "2026-11-22T07:50:00Z"
+    },
+    {
      "title": "JPMorgan Weighs Selling $2 Billion of Software Debt at 80 Cents on the Dollar as Buyout Financing Pressure Mounts",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBucDVNWUJhcE5vVkt5RGlDOTZZVldTcUlvT3VtUG44RDRscUJQUXVWUnNKbFVZanlXeG5sSkdJSVY4ZHhfVjNtSTRKdS0xMG1jWU1ZYWZUckhQTkdLTnJHTXRFenZXc3BieGVpODRMXzlfQl9GQ3c?oc=5",
      "source": "BigGo Finance",
@@ -14,36 +38,24 @@
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEl2LWVfRWlnX2tidldTMklFQXg1RzB1VEdfUDNXVXpVdVE5NTZ6TVNPanBGWExzTkZneGdmbFowVU56YmVmaTFURjBJbkhIa3Fidnpwdm9sU2JsUm5pR01uZlZ2MDdEdjJPcUpldVV5cGNzcWF0cWlXcUtyNFQ1X1BFcDEwZ2RLbWk3TU14eGROOG9K?oc=5",
      "source": "shattered.io",
      "published": "2026-11-22T03:59:23Z"
-    },
-    {
-     "title": "JPMorgan, Visa, Mastercard Warn of Possible Customer Data Leak in Vendor Attack; 'n0n' Claims Responsibility",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QQ2VqQWUyOVJWc190bkRZU3dQcXRMTjZ1c0FkSUg1d21sckVGYkl0VEYzVFkwNFZGRWlsMFRjVHI1Yk52Rk5ibGNtS0RBRXVYVnoyakN5WUJ6VmU2dFRlamp5amNqVmlZa2tGSng0ejVEZzRVakE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-21T23:35:00Z"
-    },
-    {
-     "title": "JPMorgan weighs Qualtrics debt sale amid bids below 80 cents",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEo0RFRtZHE0bkdaLTJwT09xOWpEX3I0T0Zvb2tqTXB1Y21zTjFZYndVbUY1dnNuZ1lyTnNqbzVndVBFUS1mcnRXdVFZLW1HdmdWY0gxTktBaC1KY1ZNWE02NFVMRVE1bzVDMGJsemxlSDlhUnlXbHVneDNocF9mdFh3SEprTWpOY1dVbXFQNUQ?oc=5",
-     "source": "Traders Union",
-     "published": "2026-11-21T18:55:23Z"
-    },
-    {
-     "title": "JPMorgan Chase names Bregje de Best as CFO to succeed Jeremy Barnum in 2027",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzFLZGZGZjlTSkVpYjJJeHVKQ3RaSGZ6T1I3Z2pRUjhPYlVaOG1YRkdHVTJRY2lDaVZONXhvLU1ZZ0h1RFhCYllpZ19VcVVGbm1oaV9EZkFJLU5lc3NxT0doOHV2Sk1PR2NhX1JOdTc3aEh4R2dyVlVReXJhaExXSDB1V3hNWVBVbi1jQUU2NUtpZE9RejFoZVlFOVMteGtIck8zMw?oc=5",
-     "source": "Beinsure",
-     "published": "2026-11-21T15:08:34Z"
-    },
-    {
-     "title": "JPMorgan warns the long aftereffects of El Niño will hurt crops, water supplies",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTB0S0ZUZUpaZkt3NHVuaDNBdC1VbExyU3g1bVBkM2Vjc09vNDdXZGRldDJEZ1hZY2diRGVQNjJ4RUNlWk1RM3VsOUE2SFRVdTVhcG1jcG5qUDR0RkZvWURlQlFkRVFiVXFaQTRGOVNtRllINWFwV0hzem9UMkNwWXRJV3dfSno5TGx6OU9GQ2VCODJzam1ZbDhnSTQ2Y3NOeTJEWFRERjFCY0tsMjZzbzV6Mm9aNEdWSXIzUm5ESVpMTWE3Wmc?oc=5",
-     "source": "Los Angeles Times",
-     "published": "2026-11-21T13:00:00Z"
     }
    ],
-   "news_at": "2026-11-22T06:43:20Z"
+   "news_at": "2026-11-22T08:54:21Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Will Goldman Sachs (NYSE:GS) Prove Its Resilience This Time?",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHNJWnpBaXRJUllXWlNsblE0bUZFVUJwNzFTOWFmakVzNXpSWTh3dWN5b0ZYSUlCNjMwbHZpMFJUMFhGcGxSTVdNMW1NVWw2TnRZYzVhOTVwcW5SVUxNQ2ZobE9UOEc3VVVZdFFFUHVWSmtlUWdYQXVCb1ljLWdIV1BxUENvb1VkSlk2THhOSWpKVGN4MjNHRlV1Wjk0RE5EZmc?oc=5",
+     "source": "Kalkine Media",
+     "published": "2026-11-22T07:51:00Z"
+    },
+    {
+     "title": "Goldman Sachs: Gold to Outperform Silver and Reach $5,600 by End-2028",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXNPcWUzRGNmVzY5Ul9tb0t4VWJBUEEyQ2phRmNNUlZDbTQ0TkpmVUozWkZTRjNBVHNIeUFwWXd6NERnZnJuOFVBTWdVZURZanRLUm1PQXpYSjJ6Y3dwVDlhb2duUHFSdVNIMlFoRHRHTG1BZXZxbEpSQThPbjB4MDRVOXR0TGMxOWxaajF2aWNQV2g4WWtMM2VhU09lOGdKUUZtcDB5Uk5zUEVuckhETXBrNDJKSVE3UDhzZzlDR29UNmJDMGNTTGhn?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-22T06:45:00Z"
+    },
     {
      "title": "Goldman Sachs Backs Gold Over Silver, With a Forecast 31% Above Today’s Price",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1pvd0ZnWS1lTjhIbHlMalY2RFdXcnBzOGtUckZNWHo2bG51N0RqckVwSHRraVJvb1FHODJpLW9kaFBmTEVkQUZnM0lPSE5OZ2d2Z2FzVmpGbHR3YlFiR2pRNkZqMVpqcVptVXM1S0VLR2d5d1JFTmpHV1lNXzRxRWJrWVRPWDBLM3lPQndlQlRiX3hLWVg3WExyb0c2U2diUnAxTU9uSTRYd0k?oc=5",
@@ -67,21 +79,9 @@
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MR3BkQ3BwSDVVVTZiOTZ2TDlDdjF5eHpSemkyS0FNSjFwWjdfWWJHOWMxaGxCZU9qLUF3eWN6Wnd4Q2ZIUGNwRU9sWW9nZVNFQkZfUFMzQmZscUdZLW96RHZRdGVkRFZMQ1NB?oc=5",
      "source": "Demokratis.co.id",
      "published": "2026-11-22T04:39:46Z"
-    },
-    {
-     "title": "Nasdaq Plunges 5.3% as AI Selloff Snowballs; Goldman Sees Up to approximately $80.2 Billion in Additional Selling",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1McmtKLVNNWGNYMDdWenZKVTJNdUN3R3UwbWtreV9GVXhrM1FhNUNXUl8yeEFGanFNNDY0dFFRWmhtdldhMFpTWWhIWUtfc29sVl94Z3VzMTJ4ek9KUURjUlVlMHZqWU1TUnVBSURpcW1acFJfVkE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-22T02:55:00Z"
-    },
-    {
-     "title": "Goldman Sachs panic index hits 9 as stock selling pressure may persist",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczdNSkp3eDdudmpROFRTM1ktNUphaHE3UGx2a3AyVzZRTGFmOUUxeEFNSEVFT3ZFRVVzQTNIRWVqZkhtM1c4c25BM1VBRDdGNDJRQ0RaalBOMURlNTdnZkRfNG91empSVzA0anBORlQ2aFFGZ1h6Y3NyVVpFaS04VtIBlAFBVV95cUxQVDY5TGdzS19weW94VnZ2S0Fmc2hTd3hXcUg2MC1QVU1vU3BnejBQdjYtTEF1aHY4VC1VR2JhSW5wYnVKQkRPT0N4dGpPNHA2VW1hVHNLZG5QWmxfYlRORjJPNlNCazBUZ1pKY1EtaXRlRDlyOXNSeWt3QURqaTZjbnViejhsV2FNcVFYSmQ1U2VVTDRD?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-11-22T02:41:00Z"
     }
    ],
-   "news_at": "2026-11-22T06:43:20Z"
+   "news_at": "2026-11-22T08:54:21Z"
   },
   "NYSE:MS": {
    "news": [
@@ -98,10 +98,10 @@
      "published": "2026-11-21T15:11:00Z"
     },
     {
-     "title": "Form 4 Morgan Stanley: Edward Pick (Director, Chairman and CEO) For: 18 November By Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVIwbld6YmRTdjRGQ19nek1ra2pCYnowYjVMOUhabUtDQkpLa2tlbjg0d2liZFo1Wlg3eGlSRHlmZGpmUG80NW9oS0pyX05vSk02Vko2TEx4Qmw4OTFvV2pSOGQycTQweVdCLWZOcG9MNGFUUm9iWC0xZVlNTE5QUVRXeGVGTXRfd0FFUC1sOWYxQlE0WENTejhEUXF3R1lOS3pfUkdZQ3hRZjA2a0VWckdISWM3WXVsSU14MXM2WXRUQUREczNzaVNnM0VldTdaS2c?oc=5",
-     "source": "Investing.com India",
-     "published": "2026-11-21T10:34:27Z"
+     "title": "Form 4 Morgan Stanley: Edward Pick (Director, Chairman and CEO) For: 18 November",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXhWZXdaUE1XTHhqeVZ0bnhUd095NGF0TmFYUGV2U0RkV2ljOTBBS3FNSHJuZ3dkel92cEdvUVBrd1JvQjNRaDNsc3NGa1oyWWNOeWFfNFlyTkRVTVFwTWlwdVpGZTZYSW9yamlkVWNGdE5IZEVqT1owbExfZ2lIeE9pM0VFZjVIOUVDSFBzMDh1c0ZWSTZHN1JFZUplcXQtUVoyOXB5TWo0RllQTVRyaXItZUhHVlVnTkh4bVpidW9Fdl9Rdll0VWNmSnJKSDA5NUE?oc=5",
+     "source": "Investing.com Nigeria",
+     "published": "2026-11-21T10:47:17Z"
     },
     {
      "title": "Anthropic and SpaceX IPOs hand Wall Street banks more than $1 billion in underwriting fees",
@@ -116,13 +116,13 @@
      "published": "2026-11-21T06:00:00Z"
     },
     {
-     "title": "AI Packaging Upgrades Drive Demand for Substrates and MLCCs, Morgan Stanley Optimistic About Samsung Electro-Mechanics Capacity Prospects",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd3ZKYV9PNGJOME9NZ2lVbVlYQkNDUjZkVmgxNnhnRmw4Y1dLVENscHhXNEx4cUs5SVJfTjkxSmpvTl9Ya1hna3JSYURhSzJ4T0NwUG1uYXZCVDNkdzBUbHdJTzJZZUVOTEFaZFpIQ1BLdlYxc2lhbWcxOUpiQUJqRHJNc0RCOTc4dWpMZEtTdmJqLXpDZFptcHI3UzNwb3NlVlZRWWJkVjlzemRNYVROWHV0TjBfT0tndmsxYXZEZjlqQWRPR2tMWVoyNG8yMXN4cnZCMUJ3SEtjZHpnVGhZZ0lweTJJY2Zoei11aXNuUzRKRUdXY1gta2pMREhpdw?oc=5",
-     "source": "NAI500",
-     "published": "2026-11-21T04:16:23Z"
+     "title": "Morgan Stanley: Starlink Robotics Revenue 36% by 2040",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3ZGYzhOYnZDZ0lmcldzSnRqVHUtbnJUYTk3MW1sV1E3WGxQcnQ1Y0Z2SVFqXzRUNlpQXzhZSjgwYmEwWjIzM0QyeXVVN052d2VVcFFqYjNMd0p1aVpBMzdWWWo2T084NGhia2doS1ZyVFBXT1JZcXo2QmRqQnBLVDFhS090SDE3MDlaSnUxNVRVdlphVkxoaFpndw?oc=5",
+     "source": "shattered.io",
+     "published": "2026-11-21T04:14:21Z"
     }
    ],
-   "news_at": "2026-11-22T06:43:20Z"
+   "news_at": "2026-11-22T08:54:21Z"
   },
   "NYSE:RY": {
    "news": [
@@ -163,10 +163,22 @@
      "published": "2026-11-20T15:18:03Z"
     }
    ],
-   "news_at": "2026-11-22T06:43:20Z"
+   "news_at": "2026-11-22T08:54:21Z"
   },
   "NYSE:UBS": {
    "news": [
+    {
+     "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027: UBS",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHdrMWg0MUVSSC1IamViZGljTmtENlRuWllEQ1Q2WUFMdzlwSEV0Ul83VC1tQW9rZUhSQnZqYXpLZnpSZzNLZ2hBd0VwR1dQMHBkZ3YzalM0c1daRVRVUUJUbERvRkVtY01LamxzT3dWbmRnQVc5Qmk2M1phNm9UektOUDhBV1NZWXJ3LWRuRVFXV3YybzZ6UU5qM1Etb0F3UGQ5UVlYN1Z6TmVpaXk4UGJGTFBNWFdmeTJiT0JrbGg?oc=5",
+     "source": "Big News Network.com",
+     "published": "2026-11-22T08:34:00Z"
+    },
+    {
+     "title": "India May Be The 'Anti-AI' Trade. UBS' Gautam Chhaocharia Names The Sectors That Could Benefit | Profit Exclusive",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb1dqM3hZRGtWWTgwVm41b3F6blRHelhrb1BsQ25VR0RBc0FPSDk3RXhfVjdreDVUb0tPVTc4bTQ1SlFyTzFXVXhFdjAyNFlVTVJHTXhTUUNQZm8yMERWMFJieTVsVXEyOHRxSzlzX2hiVEI0R3lMOTZTVTZIbnRoUmR2UGRkR3NtRzQ4NTVmbm5HMWlFcEg4SUF4ODVPS1ZMOFBDQ3hRekx2NGlKdzhzNG1EcTQ4M2FscU1vSW5DVTNOVEdDcEdEclQyVEg5eWZqQ2hmTndpZGI0bE1FbUM5aUtubThwWS13bjJHa0JWa0zSAfgBQVVfeXFMTUhSZTdlbUVIUUdJa0dXcHpucXhOY192aThkVDBlUXlhdjAzTFVSN3JQOEN3VGx4Y1hvdTJyRlpac1NLdjI4S0lnWEZEcV8zTlExcVVfLWVXa3RPZW5yczY5SWFKc24yNUx5d0xSdWNIbkUtTjh0RUVlLVN1MGtfU3FVaThhdlN3cXBMczAyNlF0YXQyeG5ERzBkMy00WEZzVTNOd3RDeVROT2tJX0R4UjVlU0tJblJsZTI0aFZxdlFtaVZ6Uk9yM1NjV181T2hNS2JjSWNkV3JPR1BjUzhIdVBNbGtXTHpzMVI3Smo4VTczd1o0TnV2Nnc?oc=5",
+     "source": "NDTV Profit",
+     "published": "2026-11-22T06:30:06Z"
+    },
     {
      "title": "AI investment to rise to USD 1.4 trillion in 2027, but returns remain key test: UBS",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1FtVmtLcm1tUzVzN3p0TnlzSy1ja2RXbE1RdTBWcTg2dHpVdkNONU9JamFHcW1uSGowZXRVUzBZSkpEOTJmT3RPTXNIOVJVc2czdktXdGhaTnJmb0hVTGp0cHdaNlJjRi04MW9LME1GUVZZU09qT1dMTlViSWtpVGVGbklYaEJMVVAyLVBRd3djbHdFU1U1aWZmWTZCZUR4LWJFSkUwUDZINWRUS2lwV1JKVmMwSG96YjMyX2t3alZYZw?oc=5",
@@ -190,21 +202,9 @@
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenZCcE90UXkza1Z2RjRTNDNmcjhjZHlSNURsUlNYckJjcFlOMXBIeUJzcFlKTmtPdTNEWFF3VUw4UHlVRlpyVkdVc3NzaklUTDRPbXZVblE2UGwwd05JM3V0SUx6T1V3SmdEWXdZZlhoTzdnZEpCZ2ZLVF9mMXFQcGZyTnE2aUVVT2Q5a2dkc1JGYTZDWF9qYlB4blFDdEVFeTRkM3BCSFNVbFl6d1laNjd3TmxaUkFTanRLOGx3?oc=5",
      "source": "The Globe and Mail",
      "published": "2026-11-21T13:40:30Z"
-    },
-    {
-     "title": "Chainlink Lands UBS and Anthropic Deals While LINK Sits 84% Below Its Peak",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01aEhCRXhaRDZvRkIyTnMzU3JfTHc5NFh6SEo3RWoyWmZDTFJ0TXo3NEtqSkpHOG95dHN3WGhaZGtnSlZhdjBWZ1NCd1dXZFRWYXk2SVB3c1ZVb1B5akQ5OTFoRVhqMllYU0c1NjkxU3pRcDRmSkE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-21T12:55:00Z"
-    },
-    {
-     "title": "UBS Group stock: Bank sees little room on Swiss capital rules",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3pQWjlTTU9qb1dIU3U0U1Z0bkpTYkRsOHY1YU1wT1JNQUJzVl9CUGZsd0dKUmZSZ0FKOHNPMGU2U04yaUVGT2tyczZUd2ZqeC1Mc2xKTjhlMnZycW41eWt5RUFkZTB3STk1QmNSUGg1QV9RM3lRVWhpUVdxUUxvYWpQOXBYMldoUldNeV91ZllmS3dZaTZBam5aMFJ6TVM5QWVIeDZXbnd5SmRYTnlydjU5LWRnYjJJSDBPYjFVc2k?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-11-21T11:22:35Z"
     }
    ],
-   "news_at": "2026-11-22T06:43:20Z"
+   "news_at": "2026-11-22T08:54:21Z"
   },
   "NYSE:BAC": {
    "news": [
@@ -219,6 +219,12 @@
      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMHhxRFZYVU5mZ1BhOTRFamNOdHM3RDVyWEFBSzEwZlF5TTZKSkpWcDg5UnVpSUhDLWo4WkljSUdSRzRxODdGTEs4S19NS1o2cGh1WjIwSEE3SDl1bDY2X1hNZkhvd2xvZ05vOW1VdW5vOW9oTWNIQlIwcHk2UHp4QmlhODdIakV2bXNYQVBuUXg5amJEQWZGVVRlOVFWZ0l1YTFWT050Ymp0MWZKR1F5aFRkZWlPOXlwLXBsWEdKZ1QyQWJDNVVmZFZXWTM0U0FpS1hwWG4xSUtCZk81U2JHbGx5MU50SkN4QnJqSnNzWGNac3RYWnZtR0ZZOHJuRXRZYjZRR2djTlBYTks1THkyNi1pWUZqQkZkZkNWaTFXdnp0aGtTamR1ZEN1RHVTZG1pLXlfd2c4Z2lfdGF6ZUZfaDl6b1hoU2FFbU81ZQ?oc=5",
      "source": "GlobeNewswire",
      "published": "2026-11-22T00:41:00Z"
+    },
+    {
+     "title": "NASCAR Cup Series Top 5 Closest Finishes of The 2026 Season",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWak9jN0djV1FGeC1WdEpRYW9xVVNuc3VTVUk2ZHRLTDVXcUJGd3JvanB0UW1UczE3OVZmWjZ4SkFJa2hZN3pMVzYySWNPOWNuNTd5SGotckhwVktPaXBhMXZjWEMtQmYxUG1vdXVUMnJtcTg0MnZJ?oc=5",
+     "source": "MotorBiscuit",
+     "published": "2026-11-22T00:00:46Z"
     },
     {
      "title": "Bank Outages Hit Chase, Wells Fargo, and Bank of America",
@@ -237,15 +243,9 @@
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlVxNUxxaGRoZTh3bWNuUndIY0NvR0RZWGxLcnVSQWZpWW8wekhRTnRhOHQwSnllMmNTTE5qYnY3UW1zYmJzR3BzQnNuelZkME9UeXlESHUxYXJTN09OTmpIbXh5X3IxTnBGRmwwdEJRbmd4T1BUZ0RXSm5xYUlVaVEydDRVbS0xamxFa2xsdFRKUXJwVTZkVUVIZk9aVzFqdGgxenJCY3UtYmo3S19ySGJnT2tNUGVqdTgzeUc1VXc?oc=5",
      "source": "24/7 Wall St.",
      "published": "2026-11-21T15:11:00Z"
-    },
-    {
-     "title": "Eli Lilly Is Near Its High. Bank of America Sees Another 19%",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFZMajRGS2N0QUNCdnVLenBlMlBGbUM2bmF3S25HcWJLa3hWWVdQcFJCZF9MS211Xzg4TnV6ZU15Sndjc01kczEzcnl2dDY5eGdFN0Nnek1HT3pEMnhROFFqSi1BbTZUc2hRSDc4RjNIbjVVVnNqOXdIUzZ3T19GVEtXNmNnSHluTFN2SUR3aGpCVGc?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-11-21T14:09:54Z"
     }
    ],
-   "news_at": "2026-11-22T06:43:20Z"
+   "news_at": "2026-11-22T08:54:21Z"
   },
   "NYSE:SCHW": {
    "news": [
