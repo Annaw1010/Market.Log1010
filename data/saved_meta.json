@@ -4,6 +4,12 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "JPMorgan Weighs Selling $2 Billion of Software Debt at 80 Cents on the Dollar as Buyout Financing Pressure Mounts",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBucDVNWUJhcE5vVkt5RGlDOTZZVldTcUlvT3VtUG44RDRscUJQUXVWUnNKbFVZanlXeG5sSkdJSVY4ZHhfVjNtSTRKdS0xMG1jWU1ZYWZUckhQTkdLTnJHTXRFenZXc3BieGVpODRMXzlfQl9GQ3c?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-22T05:05:00Z"
+    },
+    {
      "title": "JPMorgan Data Breach: Vendor Hit, 16,000 Unconfirmed",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEl2LWVfRWlnX2tidldTMklFQXg1RzB1VEdfUDNXVXpVdVE5NTZ6TVNPanBGWExzTkZneGdmbFowVU56YmVmaTFURjBJbkhIa3Fidnpwdm9sU2JsUm5pR01uZlZ2MDdEdjJPcUpldVV5cGNzcWF0cWlXcUtyNFQ1X1BFcDEwZ2RLbWk3TU14eGROOG9K?oc=5",
      "source": "shattered.io",
@@ -32,18 +38,36 @@
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTB0S0ZUZUpaZkt3NHVuaDNBdC1VbExyU3g1bVBkM2Vjc09vNDdXZGRldDJEZ1hZY2diRGVQNjJ4RUNlWk1RM3VsOUE2SFRVdTVhcG1jcG5qUDR0RkZvWURlQlFkRVFiVXFaQTRGOVNtRllINWFwV0hzem9UMkNwWXRJV3dfSno5TGx6OU9GQ2VCODJzam1ZbDhnSTQ2Y3NOeTJEWFRERjFCY0tsMjZzbzV6Mm9aNEdWSXIzUm5ESVpMTWE3Wmc?oc=5",
      "source": "Los Angeles Times",
      "published": "2026-11-21T13:00:00Z"
-    },
-    {
-     "title": "Chase says customer emails were exposed days after a major banking outage",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEV1cGJfMUVHR2x2UVcteFZiWktDWURvVG1qa2ZDT05kQVpqdmhVU0VFMmZhbmVvMmtWZGJBZ3gwVVhGNmdKVDFDNEtLVXRYaHRxUnBrTlNicnlxV0x5TFc1Q2NYNkZKOTBoRkkwUlJxT011eGdobjhoVmFSU24tLU9KUnZTa3hVeUtOeV90U1JSb3A3QXJ3YjJrYU5DdmQ4ak1pZ2l5dWNOSTQ3ZmhPcnlaVWxPT0hW0gHMAUFVX3lxTE9LQTdEMDE2bVYxUGQ4b0pZQUQxa1dvQzJ4djRBWlRKdE84cm5qMnVzYzV5R0p4bGJYLS1reFJHX3YzeWs4MWUyX2pvcEhuWVNQdjFCYW5CZFd3RWhnYldSTU04OHJveGl4bEk1bVJtRW9XZF9adXdIQ0VjM0RkNTNJQWZkVVlhbW1sVVFaZjhPUUVsT29RdHhObUVQX1g1RVdIUy01SVJ3NVpXdmcxdFQwYjUzZjMyYmJwR2s2SWZrdHdGZ1lSMks0TThXdA?oc=5",
-     "source": "Cleveland.com",
-     "published": "2026-11-21T12:53:00Z"
     }
    ],
-   "news_at": "2026-11-22T04:27:30Z"
+   "news_at": "2026-11-22T06:43:20Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Goldman Sachs Backs Gold Over Silver, With a Forecast 31% Above Today’s Price",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1pvd0ZnWS1lTjhIbHlMalY2RFdXcnBzOGtUckZNWHo2bG51N0RqckVwSHRraVJvb1FHODJpLW9kaFBmTEVkQUZnM0lPSE5OZ2d2Z2FzVmpGbHR3YlFiR2pRNkZqMVpqcVptVXM1S0VLR2d5d1JFTmpHV1lNXzRxRWJrWVRPWDBLM3lPQndlQlRiX3hLWVg3WExyb0c2U2diUnAxTU9uSTRYd0k?oc=5",
+     "source": "CEOWORLD magazine",
+     "published": "2026-11-22T06:19:05Z"
+    },
+    {
+     "title": "Goldman Sachs (GS) Backs Record $44 Billion GPU Financing Deal",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXZ5SWRGTDNybVRQSEowY21hUWpsWHhQaGpvRll2NFQyT2xfX3JyM1pfZHVPRGc5YzdCOUc0S2wyY0t0UVN1UWwwVjdYRFdDZUMxZTlvWTJycjlfSUd2aURXZ0p0M1NWRVVpSGRsbzlOZzJSTnByNE80YmFvNFBkSDNWWmVpVVdOc0RlaW5feUNGVmVvWWt6TA?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-22T06:13:00Z"
+    },
+    {
+     "title": "US Stocks' Sixth Straight Loss Echoes 2018 Playbook as Goldman Sachs Warns of Liquidity Contraction Risk",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YV3N0NGFyX1Q0dXlXcG90U2xvRTFNVWgxTlV5N3JybFl3c1JFVUgwdFdKdGdvWkRrTzlvUFlqQ0c4bFhBMUJiWUhNYUtUdWM2Rk43eTFCam9vYWk3WGEwNVlHZmVqOVVJVVM3Q0xIMFVaQWtkRUE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-22T05:25:00Z"
+    },
+    {
+     "title": "Goldman Sachs Forecasts 26 Percent S&P 500 Growth by 2027",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MR3BkQ3BwSDVVVTZiOTZ2TDlDdjF5eHpSemkyS0FNSjFwWjdfWWJHOWMxaGxCZU9qLUF3eWN6Wnd4Q2ZIUGNwRU9sWW9nZVNFQkZfUFMzQmZscUdZLW96RHZRdGVkRFZMQ1NB?oc=5",
+     "source": "Demokratis.co.id",
+     "published": "2026-11-22T04:39:46Z"
+    },
     {
      "title": "Nasdaq Plunges 5.3% as AI Selloff Snowballs; Goldman Sees Up to approximately $80.2 Billion in Additional Selling",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1McmtKLVNNWGNYMDdWenZKVTJNdUN3R3UwbWtreV9GVXhrM1FhNUNXUl8yeEFGanFNNDY0dFFRWmhtdldhMFpTWWhIWUtfc29sVl94Z3VzMTJ4ek9KUURjUlVlMHZqWU1TUnVBSURpcW1acFJfVkE?oc=5",
@@ -55,33 +79,9 @@
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczdNSkp3eDdudmpROFRTM1ktNUphaHE3UGx2a3AyVzZRTGFmOUUxeEFNSEVFT3ZFRVVzQTNIRWVqZkhtM1c4c25BM1VBRDdGNDJRQ0RaalBOMURlNTdnZkRfNG91empSVzA0anBORlQ2aFFGZ1h6Y3NyVVpFaS04VtIBlAFBVV95cUxQVDY5TGdzS19weW94VnZ2S0Fmc2hTd3hXcUg2MC1QVU1vU3BnejBQdjYtTEF1aHY4VC1VR2JhSW5wYnVKQkRPT0N4dGpPNHA2VW1hVHNLZG5QWmxfYlRORjJPNlNCazBUZ1pKY1EtaXRlRDlyOXNSeWt3QURqaTZjbnViejhsV2FNcVFYSmQ1U2VVTDRD?oc=5",
      "source": "Chosunbiz",
      "published": "2026-11-22T02:41:00Z"
-    },
-    {
-     "title": "Kuaishou Technology Class B (1024) Gets a Hold from Goldman Sachs",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm54aTZsZm5rbGJMNGQ2RWRhUUZjNG9iZEJ6elg4djFZNGpIN1p6d01yMk5QSWp4U0VqdlRkdk9kWnRzWGxISlZ2WEs2NV9aOUVKNzVuUEd4cG5seFh1Q0tzeXYzRzYwaGVPZS1pLWZVdW9XZ0hPamhtcFdOWHlBcUdYZTdsYXpMMmVTaG95SW9ndlJjTjZSZzV1TG40VVFnMUFfejNwYnNCQ3UtR29vQkVJaEt0ZGJ3eUxyNTIwTFVhdWZnM0NON2RFc2NZNmJTSy12RUJ2NDV5SHUy?oc=5",
-     "source": "The Globe and Mail",
-     "published": "2026-11-22T00:51:36Z"
-    },
-    {
-     "title": "Goldman Sachs: Gold's $600 Collapse — When the Safe Haven Becomes the Source of Cash",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDRRUk1RWERXUTVJVDFmd3BhUkpwZjBKRnQyNEVQMW5BZC05enRpOFpnQUYtZDBYNnF3ckpsS3J0Tm4zQlVoUklseGpYTGZjS1FTTHprUUJ1Q0pQMFpEX3BLN2R1VDF6RE5sRmFjb1pubEcyZ3NqLVp2QWI0eEJWNnln?oc=5",
-     "source": "The Dark Side Of The Boom",
-     "published": "2026-11-21T23:01:55Z"
-    },
-    {
-     "title": "Goldman Sachs Market Panic Index Hit 9 out of 10 – What Does It Mean?",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ekpaSzQ4QTNZQzl1dE1UQVlvV3dUSHJtSnF3R1Q3aUZVa2N4U1VHLVpsVGlLN2VjcHlVTU91YXRGdXA0UjFwbzdBQVNvOWZpdndMX2F1NHA1SUR3MVVuTEQ0SFFkajBCOWtmeEZPYVhlNFZTMFBr?oc=5",
-     "source": "BeInCrypto",
-     "published": "2026-11-21T21:24:25Z"
-    },
-    {
-     "title": "S&P 500 Has Slumped Into a Correction as Goldman Sachs Panic Index Points to More Downside",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXJhMXlxSTVvUW9QUEtJbk1hMVZNdjJmM2ZPSUJUanFndzhmNGhlVlFtUHdoZEhMNlVudDNEWTBmTC15dWt6SThkQ2VkM1AxYy04WldOMW1VMGUzU1FheFpQRkRQMWZ1UHJ5aWs5N0ZiU09YT2RFVzMxY1hyeXRGN25IZDVyQVFZSnA3N3FrQWxnbS14VU1TcFlpMGFZRDJlUkk0OEZJZE5GWWpYVHNMVWdhaVBibjRuN3JOV2JFNGlnU2M4UHJPaUt3bmk3TUd6ZElRaXptamttc3hfazd3?oc=5",
-     "source": "Benzinga",
-     "published": "2026-11-21T21:00:22Z"
     }
    ],
-   "news_at": "2026-11-22T04:27:30Z"
+   "news_at": "2026-11-22T06:43:20Z"
   },
   "NYSE:MS": {
    "news": [
@@ -122,7 +122,7 @@
      "published": "2026-11-21T04:16:23Z"
     }
    ],
-   "news_at": "2026-11-22T04:27:30Z"
+   "news_at": "2026-11-22T06:43:20Z"
   },
   "NYSE:RY": {
    "news": [
@@ -145,6 +145,12 @@
      "published": "2026-11-21T08:00:03Z"
     },
     {
+     "title": "Canada: Modest Q4 growth expected despite Q3 weakness - RBC",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0JWSUdQb0pjLUdERzlYbEUwdE5kZV81V1BxckVDQlo5X0FGQ2lVTWRGZUtIVFpSRkhBS21ZT1JLSDBrLXphUkNHdWZNOEY3aGdhRzNIa3ZZNkxGaFFxdUplTnA4WlozQmc0am9kakFBWDUtV1plWTFua2tXSlM1OUJqSGx0dkZzTG5lRkJYWlJ5dVJ2VWRlcjFWcUtsYU5qaWZnUWRsLUJ3SHY0SThMTU1oQkdabUIxd2JfT1Z6WQ?oc=5",
+     "source": "www.tmgm.com",
+     "published": "2026-11-20T15:50:35Z"
+    },
+    {
      "title": "Canada: RBC Expects Modest Q4 Growth Despite Weak Q3",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjhVZU5rcTV0OGJteWhiY2dTb3MyX2pCZk1MVUk4dUhzYVpPNkIyZlJ6RVJEbkp3SGcwMmtsVWlPX2dBSzl1aThQbmMySTNjRm5yUjNNamFfdERMaF9ILWttNGJVUHJIcGxyNExmY21BLVRBUUVibkh2M3NMMUJ4dVpDTDlYREduYnRNVTlsdU93U2dMNTRnR2ZYNDFsRnJIemZsaXJlS0ZOTnZJLUdnX2NDdTVEUlZFWUVJWS03UFBVV1E?oc=5",
      "source": "www.tmgm.com",
@@ -155,18 +161,18 @@
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWsyV1BiWHBQamFKckZiVElVaHk1dmFtMmJtZjNSVXhzeVdqV1IwQWVsZWRFa3RGVjBSbDVRalN3RnVBU0hYQWNCanJ3b0JxdHdpdm41N2xCYUNHZjRIOF9OXzJic29QdHFGZkJkcmM5UXhGemhZMEZ4bUZFVXFRUkZGZWlvdGhjTVdmTl9GMzBESWZnS2xuT1ZlYnpFTHl5UUV5OFVsM1BnSEowSk5fNm40Q0x3bC1oZGQzWk9JdzAwTlE?oc=5",
      "source": "www.tmgm.com",
      "published": "2026-11-20T15:18:03Z"
-    },
-    {
-     "title": "Bank of Nova Scotia stock: RBC lifts target to C$138",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0RpYVJaS1lRVFlSYUljRkFCcjBsQ3BTdnRXVzlkbjRaQ1VlVGMtM21sa2d6TnVHU2xSYWZJUE9LU2VzUVFEazZIem9mZks3eFFublZkWmdrVE9BVnRzaERWZzE4RjhOQ2tXV3JXdFVrMW83ZE5OZGEzbE9kTmoyVDIzWl9JbVhIWHNUWHpOODBpallVX1lHOFlGbjVYZXB3SUxSelk1c3ZrWUc4UktZQkFlelQ?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-11-20T11:58:49Z"
     }
    ],
-   "news_at": "2026-11-22T04:27:30Z"
+   "news_at": "2026-11-22T06:43:20Z"
   },
   "NYSE:UBS": {
    "news": [
+    {
+     "title": "AI investment to rise to USD 1.4 trillion in 2027, but returns remain key test: UBS",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1FtVmtLcm1tUzVzN3p0TnlzSy1ja2RXbE1RdTBWcTg2dHpVdkNONU9JamFHcW1uSGowZXRVUzBZSkpEOTJmT3RPTXNIOVJVc2czdktXdGhaTnJmb0hVTGp0cHdaNlJjRi04MW9LME1GUVZZU09qT1dMTlViSWtpVGVGbklYaEJMVVAyLVBRd3djbHdFU1U1aWZmWTZCZUR4LWJFSkUwUDZINWRUS2lwV1JKVmMwSG96YjMyX2t3alZYZw?oc=5",
+     "source": "https://www.indiagazette.com/",
+     "published": "2026-11-21T23:33:00Z"
+    },
     {
      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlo5dHE1SWxqV19SaFYxVEl2OFZ0a0lsTEw2Tjc5anRmZHBxaWp6QUEybWpnTk1Kci01YkJrWkpxb2VVaEFCWG1uaU9zY1J5eDh1UHdzai1TdVlNYm44TldXOFdHTFk3YVhrVGFrcmJSeWpWd0Zic1pIanRZVmpIcDlCQVkxZUZEeUlPZXpZQXFoOHlNd21uWEF3OWFhUExjSVk2VFdDS2QtU2JVR05BSGZ1Ymt2UkpsbHQ4eGc0MGw5d0oz?oc=5",
@@ -196,15 +202,9 @@
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3pQWjlTTU9qb1dIU3U0U1Z0bkpTYkRsOHY1YU1wT1JNQUJzVl9CUGZsd0dKUmZSZ0FKOHNPMGU2U04yaUVGT2tyczZUd2ZqeC1Mc2xKTjhlMnZycW41eWt5RUFkZTB3STk1QmNSUGg1QV9RM3lRVWhpUVdxUUxvYWpQOXBYMldoUldNeV91ZllmS3dZaTZBam5aMFJ6TVM5QWVIeDZXbnd5SmRYTnlydjU5LWRnYjJJSDBPYjFVc2k?oc=5",
      "source": "ad-hoc-news.de",
      "published": "2026-11-21T11:22:35Z"
-    },
-    {
-     "title": "UBS Group: Brent crude to reach $100 in Q4, falling back to $80 by 2027",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaS1aR3dObkdTYmlMWnRsbl9fSTF1Q01uajNMU0o5Skc4NDJaMHRJQ295eEZPUnhQSE55NUFuS1RtbzZIbFJlLUMwdERSZXZEaHhEa3ZvWHo2V1N0eXlVSzBzT2xIMC1xUDNpeDd3WGF4OFBYX2QySTdaT19TSl9JWGxCTGFTMnlKNUExaDItcWVXYnJYMXc?oc=5",
-     "source": "富途牛牛",
-     "published": "2026-11-21T10:21:43Z"
     }
    ],
-   "news_at": "2026-11-22T04:27:30Z"
+   "news_at": "2026-11-22T06:43:20Z"
   },
   "NYSE:BAC": {
    "news": [
@@ -245,7 +245,7 @@
      "published": "2026-11-21T14:09:54Z"
     }
    ],
-   "news_at": "2026-11-22T04:27:30Z"
+   "news_at": "2026-11-22T06:43:20Z"
   },
   "NYSE:SCHW": {
    "news": [
