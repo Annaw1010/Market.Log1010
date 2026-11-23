@@ -250,6 +250,12 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "Schwab and Vanguard Down? Investors Report App and Trading Problems Monday Morning",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MnRVMWZ2a0I3cG1qS0lRNW5TVC1PdUI0QzdldjMzWmdFbF9kZno1UzFYclRXNG53NG5GUndrV19vaVpBT3F5WmNGVHprdVRTZFZob3ZWVjRFWkRWOHlEWHFuRnd1TFA4di0zb0thTEJ4NHZoemh5aDlVY0F4bmM?oc=5",
+     "source": "Men's Journal",
+     "published": "2026-11-23T15:33:27Z"
+    },
+    {
      "title": "Is Charles Schwab Down? Users Report Problems, According to Downdetector : Outages : JKN",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41dWpxa1o5Q2oyVTl0WG5mWEExd3FyajdzMmZITmlIVkY1MVBrOGlSR2M4M0I0QkdEYlkxSlROOTM4aVhVUldBblZRb3JlZFFYUHQ5bXdnZUhlUmx3TlRaNXZR?oc=5",
      "source": "재경일보",
@@ -257,36 +263,30 @@
     },
     {
      "title": "Charles Schwab to Present at Goldman Sachs 2026 Financial Services Conference",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjUyVWNsM3p6RFBycW1rRE91OGdBa2l1STJfZ1hkVHp0TUlSVWRlSnA4YUFOeEVTM3JDeWVfd2thbjBpWVpWZVBsSzRRbVg5WFFTU0QtcGpNeXNaamkwTHNpaHhsV3FkbkwyT3VVOUhndS1uVF9TNlhTOWVxdmRjeFpVbEl5ek1MdHFMa09B?oc=5",
-     "source": "Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0tibVBvSV9Ia1dkX3dGRzdFUXhPbzJfQVdEYWRCYjQ3c3ZjU19ib3ZDUzJRdG5SSi1nQndra3phOHBQM2w3c3BMOEdEWVUwTGI2T3ZQMW5xRnU0YWI5dzV0Z21LakFTZE4zVFZfSVh0WDA2NFFxNndtem1Uc010MTFmNzUyUzdheUxjTW4yZk1ZUHBkaVVTOW1MUVI5b0FVYk1N?oc=5",
+     "source": "Yahoo Finance",
      "published": "2026-11-23T13:45:00Z"
     },
     {
-     "title": "A New Dividend ETF King? Charles Schwab and Vanguard Jockey for Top Spot",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMms0eWZkVVRnSXpvaU9EQ2RLMTA2SEZSQ1BKRHBPQWd0WlZkLXVnQ2xmQ0ZzakRRUzFsWmZLeWs1OXdiYUdNQkxHdEtYcmx3V1hiMjUtdnVxaUtPMk5TSXdSV3h6QnNlUzMtQm5UVWE0R3dTQjdBZ3VjTUEwNDdlb3NSRTlTZGp5MGc?oc=5",
-     "source": "Barron's",
-     "published": "2026-11-23T10:07:10Z"
+     "title": "Interactive Brokers Stock Trades at a Premium: Is It Still a Buy?",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTFjazZyM3R0Z2tiM2FYZ1ExOVZzakhId0JpZDhhSVEwS1dZYkVfWXJ0MTZoS0JiZVBUNURoUUd6TXc4YVQtMXA1alFSYTVVdGlFUU5rX2lmV2RsdUMydlRmalpjV1U3SVZ2RzNvV0VGcW9Sdy00MWlCOUI1T2dYZnFzRE1yWVAyZlBtY2JKYUcwRjVDQjNnNnlLUjRxZTJ3RTFQQ05kM1FPSHlsakVLSmVvcFdESXhiS3ln?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-23T13:36:00Z"
+    },
+    {
+     "title": "Robinhood Accelerates Q4 Buybacks Past $100M: A Positive Signal?",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDQ5TFRxT2NIV3YyemR1QzV4ZVlSdFcwTS1iUFpIQWd6M3ZGMWhCaVdSaElDbmpTbXhmOTk4X0I5NEtIQ3V4bHU1aWJlWV9LSVo5cGY4VDFlY1FSNHdEME43LU1lOUZXZXd4WVBWVjNxYmVLR1o3RWxKblN2R1hTOHhsY1ctREhQWUk1bkdZRURfWkRIMlJrSWFzOWhKNjZmdW9LdnJFcjNmNTNJcjMtaUxrNkFIUjlW?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-23T13:01:00Z"
     },
     {
      "title": "Charles Schwab Cup Championship 2026: Best Pictures: Round 4",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDg0akVYU0lWZDF3aUtEOGhrVGoycGdBaVpqWEJNaW9ITzNUSGY4YTRndGFJLVZsUnRwdEhSN1dBRG9TQ0twRXNXU2pZMlNMWXBGbWl6VjhVczJqamdpN3RGVHJiNDJFdUQ0SkdOa3Nienc1V2tiTjNfWHl4N25GR0xHdWNfOEp3T252cU9JTG5pQThZcmxscw?oc=5",
      "source": "www.golfpost.com",
      "published": "2026-11-23T09:48:35Z"
-    },
-    {
-     "title": "Charles Schwab stock slips 1.25% to EUR 82.63 before Xetra",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDR5Zk1pd1hfbm1EX3Z6eTVPTW9OZ3ZidzJHejgwbWVoNDZSbzJ0Q1JKWmRTSDBGX2hGdHkteXRybFFVNW5QTEp0QlJXYTJMZk9ZUExLOGNiU1JKejhSMVp5UTFPR0xrU1FNaEhQLTcza2tyanV3MEpURi1tdVo1Y1I0NUVmaTJpdUk0bGRHVlpwd1N5V3lvZkpscU9hdnQyTURORklUUTN5a0lkc1pIMmlxUlNXZw?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-11-23T07:26:55Z"
-    },
-    {
-     "title": "Investment banking & brokerage stocks Q3 highlights: PJT",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzhLMFI1WGFZN3UtWVk3TlZqLTYxYkVZMTg0ZFA0S3NkSGFwS3RqS252QnBJMmJYV1hhMVdYclhIWTRkV1BYNUtWbUk2aTlvZldxR3dPb05sN3dzeXdhNWNxSGNjRzZqbGxzUzVwNmxUT1BOYzBoY3NnZXlQMktDTW5VUUtIYi02M1M4Yi1hNEM3dGtqcUxYaW1hSS1MckJBcmo2NE9EVGhDXzBVaWUzR2FuTkE?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-23T03:34:29Z"
     }
    ],
-   "news_at": "2026-11-23T15:08:55Z"
+   "news_at": "2026-11-23T17:44:13Z"
   }
  }
 }
