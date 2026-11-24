@@ -250,6 +250,12 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "Alabama State Student-Athletes Participate in Charles Schwab Financial Literacy Seminar",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMTlEZkNIRXI2QmFCdDNUSDBiYzcwMjBrcUV2NzZCTEtHWmNZWWhpenAwTGFXNVJOaE1wNlhKTjA0R09uYkM3NlZDRDVZdmVPSVBnWEJqSHJrcDB4YjFSZGkxMzlDY1FieWNnU1cyNUlZZW9RREk0b0tLOEhwdmpVQ0sySGE4UWhNVFFUZ29sZHZqNWxGTWRsazRkZlZIRmE1RzVmUXR4cFJLUXRMc2ZLRVJ5aDBsSl96aFE2Z3FURmJwT2MxTTM2eEh5bGdnSXhXTHMySC1vdjlPaS1i?oc=5",
+     "source": "Alabama State University Athletics",
+     "published": "2026-11-24T20:34:14Z"
+    },
+    {
      "title": "What Is Driving Charles Schwab’s (NYSE:SCHW) Growing Client Assets?",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWNoSFZnaUViczU5TmNPOS1kQmtmWDVUdzFKUmVSUWptLVZNOHVoeHVEdzhoR1REZTBjeDY3aFpPOFVRbmFERWFjcXFwaHlQdDhKLUxJc2xJTU1qQTZvaVFtdUJyZ3ZGYlo0dy1IM19ORjhIOU54Vy1CYzMtc3lOR3dsaHJrU0JOTDFrQjl1bjFyUHpjVWpKQjhoYi1BU0dqc2IwY29OZU0wWlE?oc=5",
      "source": "Kalkine Media",
@@ -260,12 +266,6 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEhLOURSQi0zVGt4US1KRl9Pb2pfSVBYVHFiUVRRbnkzbEtHODROTGoxTnJGdDlQREdQMG55eUQtbUl1MG1oVVNqQ0E5QTY0QklEdEMzQWFPUi1DbUtHRTdTdWlyQXNkRjk4ZGdjdS1SazI0UGNBVm9KMjRsQXdJdXR3aXhkVjVmT3N2UUpEQ2xUbDQ3THhnV0RDdmVEZmN3ajFSWHBnZzdEVGl6TzlvbzJ3?oc=5",
      "source": "TheStreet",
      "published": "2026-11-24T16:57:49Z"
-    },
-    {
-     "title": "Alabama State Student-Athletes Participate in Charles Schwab Financial Literacy Seminar",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMTlEZkNIRXI2QmFCdDNUSDBiYzcwMjBrcUV2NzZCTEtHWmNZWWhpenAwTGFXNVJOaE1wNlhKTjA0R09uYkM3NlZDRDVZdmVPSVBnWEJqSHJrcDB4YjFSZGkxMzlDY1FieWNnU1cyNUlZZW9RREk0b0tLOEhwdmpVQ0sySGE4UWhNVFFUZ29sZHZqNWxGTWRsazRkZlZIRmE1RzVmUXR4cFJLUXRMc2ZLRVJ5aDBsSl96aFE2Z3FURmJwT2MxTTM2eEh5bGdnSXhXTHMySC1vdjlPaS1i?oc=5",
-     "source": "Alabama State University Athletics",
-     "published": "2026-11-24T15:18:34Z"
     },
     {
      "title": "Truist cuts Charles Schwab stock price target to $110 on lower NII",
@@ -286,7 +286,7 @@
      "published": "2026-11-24T11:31:58Z"
     }
    ],
-   "news_at": "2026-11-24T19:29:02Z"
+   "news_at": "2026-11-24T21:40:50Z"
   }
  }
 }
