@@ -250,10 +250,22 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "Charles R. Schwab’s reported stake in Local Bounti (LOCL) excludes 27.2M shares subject to stockholder approval.",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckxUSXd2ZS1TOVJYNEh2bllxRXk0NW5KZlNtc205cEdjWFp3WlNnN1R6S19FN3Z3S1dVU0JiM3NkT3FuRkRJQWpvR283eXo5NnlYbnM0c2syQnM4T2xxRGFmZDNaWXBQbUxsZkxXY05ybXozb1pmSl9PTGlNSUlNQlVtcURQLUgxZERkMTJ0ZWVrZDB4NWlSeEJtNTI4WV9VVXp0bElEd2JxX1BGclg4YmVOVHg2d2VzOGVlc1ByX1dOYmhjXzM1X2o1QQ?oc=5",
+     "source": "Stock Titan",
+     "published": "2026-11-25T22:22:32Z"
+    },
+    {
      "title": "Dave Ramsey warns on 401(k) move; Fidelity, Schwab disagree",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTB6RkpNcV9td1E2anQtbW9na3U4N0Y0M2RBdjlRSmRuSk5WTlY2TmstSl9ldktHLXpTZnN5V1l5ZGdCNFlZbDFYWGMwczNYVDZaZ1lsN2JGR3BzS1lnMlVQUldzLXd2MDBfaVRUazd5OGRENlR4bGJfcms2clpxZzh6Mm4zQjlDU1FIVi05eGtjcGx6NDc0?oc=5",
      "source": "TheStreet",
      "published": "2026-11-25T17:09:39Z"
+    },
+    {
+     "title": "Charles Schwab Research Suggests 2.8% Bitcoin Allocation for Moderate Portfolios",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5leU5vSUd2LV9BVlltQVJjamowZEZESkg4dkJwTjBHc2ZTaVlzQ0ZBWV96UDNIbDJUdDhhZDRodjFuYzRwRFJQeVZITllWS1V5RTQtc0NmYXB0ODFGckJ1S0NDTnNiUzQwWVZUVHpVZkRHc19uYW54UlZENDhHZw?oc=5",
+     "source": "Hokanews",
+     "published": "2026-11-25T16:26:00Z"
     },
     {
      "title": "Charles Schwab Is Down More Than 10% Since Early August, and $1,000 From Five Years Ago Is Worth Roughly $1,200",
@@ -268,25 +280,13 @@
      "published": "2026-11-25T15:11:07Z"
     },
     {
-     "title": "Michael Saylor reveals a Bitcoin plan that could shock investors",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3RnYjJuajk1NC1jcWlKVjdfZmxwbVpTYnE3YzY4OGxYTGl3bzFDSkFPeXRCOUZ4Y1lyR2VaY3ZNOFBlREk2N1hpQlVCaTUwWTNTaWdfczZaRG1KMVlOdkQ2eFUtWU9RQjBaUTNYR3NQUkhNeGRRT0h5Zml6Vk5nYmpoenljSjhCcjRPSW1qX1lOLTl6dExuU2hhTFIwQ0l1c3U1YWdSeEg?oc=5",
-     "source": "TheStreet",
-     "published": "2026-11-25T15:00:00Z"
-    },
-    {
      "title": "Alison Dooher on Schwab's AI Strategy",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnFuaURVNDZ1MVMxbTB2U3R5RndUOWt3SlVlOFRSZmlGY2xxaEtkUm9kM1RhRjlmUHNRRWE0QUMxZGdSS2pnZzZpcktYeXRqS2RzVHdfVDhtc0UyQWFZZzM2VkVnejluZGRFQ3hUMm53YTF2R1hRZmlIMVZ5dXVkQmlwUU1Bemh0OWVVWmU0MGE4X0xQYm91azM4Rkp3TUJGOGI3V1h5RkFRY1hEaEdlZmdfOF9kS09nMkdjaWpzY0pjZERxcDZ4MEc4LWk?oc=5",
      "source": "Wealth Management",
      "published": "2026-11-25T14:40:04Z"
-    },
-    {
-     "title": "SCHW: SEC Form S-3ASR filed by Charles Schwab Corporation",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVRLTm9zOU1GaXZ6N3ZOMzhVUmNLNU40Y1dBTXVucngxR21YTF9wYW1hejB1bkdaYjliRUF2c0t0OGdBdUFGSjhKbVRWXzhnMktNR2lfdWNLTGtyQlhCN1g0LTA5aS1XVlFPSThkWEEyY3V5X1RWcEtIb3ZDZ0VFQkd3TWtUYXI2UzE3Q0JZOTk2V0hfZTl1T3JR?oc=5",
-     "source": "Quantisnow",
-     "published": "2026-11-25T14:06:27Z"
     }
    ],
-   "news_at": "2026-11-25T20:26:18Z"
+   "news_at": "2026-11-25T22:40:18Z"
   }
  }
 }
