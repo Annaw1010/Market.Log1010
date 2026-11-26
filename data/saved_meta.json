@@ -4,6 +4,30 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "Banks Face a Tsunami of Patches and Are Racing to Fix Them",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVENrcGUxc05PTkt5Qjd0cEp2aGl3dDNIb3ZqYS1WZzhKV1oyZ1dTX0xPWTlnT3l2SHF2VzFBM2loUmd1YnZoeUlybkk0eVVQNEtSRUJTM3U4ZTNPX0t1aU0zVGJlQnJoX2F2bjRhVlNEcHl2WHEwSmVWTmRjRDFaU3lGOTVkc3FYb09rLWZDa1hlU1NlczJVYnhBME9TMG1JVkNrekN6QWhESjI0NWV1dGVxQ0ZsRktULXlxVmtlNWh0Qkk?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-26T08:58:27Z"
+    },
+    {
+     "title": "JPMorgan Chase (JPM) Sees Record AI Debt Issuance As 2027 Spending Nears Double",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHZ5YU5GTW9XQWgyeDVMTjdEVGs3bjFXeWxTR0lnQW9lUEVMbWNPSjJqYS1ES1I3WGoxMy1xSGU1VEhKSG41c0NBN2MyejVxRUJhYWxENS1CQmd1M281c3BMRzBLWlVQanFLS3RyYWZUUjFoQlJDalZEenAzREVVRHA5bjllMXh1ODQyUzhfWnZoQ3FHVkNWcE5XSU5VTnlndVZxMFF4OXRXeTVZb09kSmpEOGdwcjIyRVFaOHY2VDEtTXAxT1HSAcsBQVVfeXFMUDNJNEo2TWdOamtQd0RzODRZWTY1eWhfWDVvbENrS19uSXZLS096c0p0Tkd0SlRhOTdqdkctTXdiOUk5cXRjcTdrS25OTnp3cTJ4YlNINm9JMXgxZHZPOHZYczA3ZVFMZkxaTDI1NGY0LTB0VzhJRHQ0cVNSZkZZVE5jVTRBb0NlRlpaLU9WODZfOGJWaXNpaC1yUnQtOEFQeXYyQ3I4NFZWenNRcnlxZnI2OGNLLThZQ2VHWHZqeTk1WWJGSExmcmN3SUk?oc=5",
+     "source": "Simply Wall St",
+     "published": "2026-11-26T08:12:41Z"
+    },
+    {
+     "title": "What Is JPMorgan Chase (JPM) Saying With Its $450 Billion AI Debt Call?",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGhBc2I3QjlQXzhURDdwTEp3YlBJQTd2OXNGNzVpUGNBR2NVLW4tRk9GRnhCVlBmVUk5WERiVWVJYWgtaHBqa0diZ1ZjdERYSWRVZ0dnSnRKZmttSWFJN0tOTWdwa2lpTGNFNkg1X0kxYW5Scm9JaUhHa3ZGU0UtRVNidnV4WmJFb0FfVjVLZnR0dW9nRnFWUw?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-26T08:08:38Z"
+    },
+    {
+     "title": "Large-Model Token Volume Surges 79% but Prices Collapse; JPMorgan Says Spending Growth Slumps to 8%, With Only DRAM Rising in Memory Market",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xZlBUdmI1RkxQX1o5S01SYnF4YXJqdFVzMDdqaDRwQkJwY1JLanVJVmF4RFhpakxpZVFoWUtJSWdSVTNFY3l0T0FMQkU5aFd2TlRTRGFyMUNjODFYNlJ6UDhycHI4ZGZKUmE3MThrVGZjVndGSGc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-26T08:05:00Z"
+    },
+    {
      "title": "Fast Fixes for Cyber Flaws Mean Tech Outages Likely to Continue",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlV6UG50WWI3T0o1bjB1Q0J4X0l1NUJqYTVyem5IX3VIUTBnOEgwcXNYVXNfMGItV1d3eXUzN1VzejBDZ2NfYUtvNnBlcTJVZGVQMlJHeEg1ZllSUVBCQmRIdnJ3MlBseHkzUDlHNXBHUW44Sk40cW5UQUlmXzEtQXdtN05ra0NhUTVrcUs0WXdCZGxWS1RZYTVldkw4ZEVlSVk1N3ZyV29WczR3Q0JialJrRG5qY2k0?oc=5",
      "source": "Bloomberg.com",
@@ -14,115 +38,91 @@
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcWdFcThXUFJTT3VMN210R2RMVlBkRWhWbk1IQ1h2WGNNVUk4bU1peWtkOW1wSkZwVXEtOU1RYldKclZNdVNscjNlX0pmaXMtZk8wdGQ2X1ltQWtLVVZBYml3VWs1eGNfR1hNd1h3U3YwVkFCQ09sYk5TRXc4d3oyZmhlZkdSMXBVSVd4M1ZJQjBaUDlBeTA0SmF0ZmVBS0dTd1Y3V1ZqZldiYnpBNk9wejN1aDRRLVR0TWlyLTJwNVctUFo2YVBoeDh1eWJMZnp3RHZZVU1Nc3A?oc=5",
      "source": "Africa Intelligence",
      "published": "2026-11-26T05:42:18Z"
-    },
-    {
-     "title": "Demand deposits to total deposits of JPMorgan Chase & Co. – EUROTLX:4JPM",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmRrR3haN3hZNzRobUpxb05RdEUyM0QtTnhycUdaVGZycnlpM3VPMW11bUxPZXl6TGp3ZnNMaWltQnh0aVV4cHM0b2Fibjl4RDgxWVAwZXhFekZwVUR0OW0xR0RoY0s0Mkp1U201WDNjOGhSSkVYQzhKakJjV1RvTlE4blRHWVdxNWRGa1VKQ0Y0Nzk2SE1HMUxHUkJPR3YzOFhjV3Z6YjgzQ3ZIb3FVZ2xxcw?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-26T04:13:59Z"
-    },
-    {
-     "title": "Banks Face a Tsunami of Patches and Are Racing to Fix Them",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVENrcGUxc05PTkt5Qjd0cEp2aGl3dDNIb3ZqYS1WZzhKV1oyZ1dTX0xPWTlnT3l2SHF2VzFBM2loUmd1YnZoeUlybkk0eVVQNEtSRUJTM3U4ZTNPX0t1aU0zVGJlQnJoX2F2bjRhVlNEcHl2WHEwSmVWTmRjRDFaU3lGOTVkc3FYb09rLWZDa1hlU1NlczJVYnhBME9TMG1JVkNrekN6QWhESjI0NWV1dGVxQ0ZsRktULXlxVmtlNWh0Qkk?oc=5",
-     "source": "Bloomberg",
-     "published": "2026-11-26T02:29:02Z"
-    },
-    {
-     "title": "12 Big Funds Bought JPMorgan Chase Last Quarter, While 12 Sold. Who’s Right?",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2hBejFjbWRnbUtMbFNYd01hRGs1NXpmVkl0SG9jeHZrRXRfN2EyeHVXQzNtVFZ2T21UbG84VnNKRHYwb3JJdEtzVEZaRmRXWUJVSXA4aVVNVmkwWmtzSG9ZRDlPaElNV2ZMR2Q1RDNKV2lETGt4TFNHcDhRNVAwY0lTTkJtcWpqaTdyenI3OHB4dnRwM3NYNXFuZkhXem8?oc=5",
-     "source": "TIKR.com",
-     "published": "2026-11-26T02:15:00Z"
-    },
-    {
-     "title": "JPMorgan sees AI investment doubling next year before stalling in 2028",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QNzBLNDcxT2tGLTd0N1ozRWNDYjExSHowTVRMbTVRMDNtM2tKSGtvYTZBczZtbUdEczNZQmxRRTFtQXVycEN4a1F4bFlBQUlGbm84alpTbw?oc=5",
-     "source": "헤럴드경제",
-     "published": "2026-11-26T00:37:36Z"
     }
    ],
-   "news_at": "2026-11-26T06:23:41Z"
+   "news_at": "2026-11-26T09:11:22Z"
   },
   "NYSE:GS": {
    "news": [
     {
-     "title": "Goldman Sachs: US Data Center Power Capacity to Add Another 52 GW by 2028 as Backlash Fails to Halt AI Expansion",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SejJ4RUJNN2xIcUN0LUxSazgzZGplUmZKbVZTQk51VjhwWngxZG5DTGx6UjRIQ2FQV2NRMWk1b0FYUnd2M0tGMVRmTTZFNHE4Y05kQnE2U3BGd2czLWhnZmlGaEVseHc1OFNQZ0JFNGRtbThzaWc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-26T04:35:00Z"
+     "title": "Goldman: Data center boom boosts US power and gas demand",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVRKVF8zcHFmNURaazg3LWNyM01HUHhyQ3ZjdGlGMXBIT1ZPcllwSWpfM1g1dHM2WEJrR3JtVGJFV1NYaW9MYkhqcER6ZGsyZ2JPWFV5eHhveGY3cUhBYzlHczJXaUl0amVYTVRSeVdMOVRLaDBnclBla1F5bXYzYkFHTE5lNnNQaEZUTy13RkZEYTVQb19YZjA0ZDg?oc=5",
+     "source": "IDNFinancials",
+     "published": "2026-11-26T08:40:00Z"
     },
     {
-     "title": "Who Pays for the Trillion-Dollar AI Bet? Goldman Sachs Says 15% Returns Are Within Reach, While a Frontline Investor Warns of \"Reverse Bank\" Risk",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xa1BLdWdDVi16QXZLMzVnVTBPRlhBZFdoRll6dmJoNXVSYmJrRU54eXgwS25FVkhicW03Tk5FRDNBRURrc19LcEtaU2RSSk5fWHRjdkpIVzFnTUphaXFEQ2xFdWEwYmVRZ1JqSmFPZHFUdGtueFE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-26T04:15:00Z"
-    },
-    {
-     "title": "Upgrade Hong Kong stocks to overweight! Goldman Sachs: Valuations and positions are at low levels; three main themes are worth deploying.",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON09oX0hDTksxZ1d1NE44dXYwUDJWN19EcE05aUpRX1RQRTRJd0F4cVpVcXA3UlZlZDhJRm5JTEV6Tk1LNnlDMUJjSDR6RmxsSjZoRWlZdGxzenJjdEs1WkJmUGwwaEtsSVRmNXozb092eGkybDFVQ0QwZnZCVmk3OUozZVRpLXphdTZnczRTYTJFSFJMRVV5b2NfTFFUTGJ2NWZ3RkNUQzZ4cUU1MHZJ?oc=5",
-     "source": "富途牛牛",
-     "published": "2026-11-26T03:15:00Z"
-    },
-    {
-     "title": "Goldman Sachs Cautions Against ‘Buy the Dips’ Tech Stocks as Markets Remain Vulnerable",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zd0pjMTNMN0lOazl0RTlsRmp5ak1QRnVnWnZSTTJnWHNrbGppZmZGMkJwZnR2UUZrVWFfV1JqaWFRNjdFNzlHY0xtMlByNnpYVHB1SUdjeUJhOXlsWU54MQ?oc=5",
-     "source": "kaohoon international",
-     "published": "2026-11-26T03:14:23Z"
-    },
-    {
-     "title": "GS : The Positioning Reset Creates More Favourable Asymmetry — But This Isn't Capitulation",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2VfR29FSFVvNThTVS1IQ0tPMzdJNEVOMkd4MlJIaXJTZDhNdmJxanA2NjBXdUtWZE0wZEkyaElIVWQ0NGFiOTctb2FydGVFS0ZGRGdwaWd0MGdRbXJZTmVRYzIzY0FvV2RzTV9TU3VscG1fLTBkYTQ5Sk9TbzVaUzN6b1A?oc=5",
+     "title": "When the Machines Take Over — Goldman Sachs: Have the Trend Followers Finally Run Out of Firepower?",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjZiRG85WmpIaWlobGF4bTNYX1IteV9ud2xyTWNVczlIZVV1aWNvX3NLR0hmQjZjWFU5ZFprdTN0ajRGN29WWVBRd1ZsQTZMWDk5ZGN6S1c2NkJ0akZ4bWRTNmZHSl8xUVhOVkZCTF9ERXFoaklRbUFVVzBsS3k4T0FDbHcwZw?oc=5",
      "source": "The Dark Side Of The Boom",
-     "published": "2026-11-26T02:05:24Z"
+     "published": "2026-11-26T08:30:55Z"
     },
     {
-     "title": "Goldman says hedge funds pile into shorts, with ETF shorts posting a 19-point weekly jump",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemxpcEJuUzVtRGVEYW1lS0xtaUpGaWcySkhzTEN3TS1yeFE2NUR6T2VGalRTem15MHhyZTJLZXNaa2tnQXNuNy1zWGQzSEg2TUtyNTdDVHhIVUJEWVMwX0owLXdqbGRsSEdLaEkzdWw4SUk3Q3QxNzFaaGpUSmVmX2x4emQwUk1zU2ozYzQxU1lEbEFMZjJmajZ4QUhranZ3RS1BUU5UM1FYS0NXZDBrNXdBUFE2NVNjODIzRDdaSQ?oc=5",
-     "source": "investingLive",
-     "published": "2026-11-26T01:35:23Z"
+     "title": "Goldman Sachs survey shows wealthy Europeans shift to alternative assets for AI exposure",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ25faTRXOXlhRXE2ckpDcE5Ud3hEdTdZZEFXTkJVeGxBell5LXhBR2p1M3lKaTNvZm9DS0lhaXNvc0phUm9fWEFvTmY4YlhjUG81SkVPTm9IazhSS2tnVlBQbmhOUVZYenFTVXQ3cVFtemdEYmg3RnJpNDFMdTJ3b3FweGpYcVFhWjJKQzdOZURLMEdrdXZYbg?oc=5",
+     "source": "Traders Union",
+     "published": "2026-11-26T07:54:24Z"
+    },
+    {
+     "title": "Goldman Sachs MiniMax Research Report: M3 Pro to Launch Soon, Maintains Buy Rating and HK$760 Target Price",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWlfNHpYNUZybWxFY1dtTUJqVlUwSzBkenp4MGhnU1R4WXVid0lyV0thWFRhdnJtVzNOM29JS2ViczlOaVp3SVhMZVVxeVNnMTdDSDBvOXZaa3lQQzd0RHktVTVRR3lseGJvS3FGRXhUQWs2dko5Y1llVUhRMjJFd2p3QmpCRW1BaTMxODNEUkc5NEwxRWVZdGdlVjhvaTNRSTlRWU5FN25vZk1mV1E5Y0lVUWRXMXpPcUNYb1dSakVWN2lnblpheU55WTI?oc=5",
+     "source": "深潮TechFlow",
+     "published": "2026-11-26T07:03:31Z"
+    },
+    {
+     "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZExOeERBTjlNMGl0ZEdEWERPTWpPTmt3MzNXN25oVkJWcVJhc29WeTM3Um9VS2N6TnFPcW5xbXRhVGo5eXFmUzNjN2MyYmw1dWp3dDc3NkF5cHZkOU1rTEVXM29XTnA1Y2xIdWN6ejNYdFRDQ2ZpaWowNzdnbXNzeEZnZ3JuOG9u0gGOAUFVX3lxTE4tcXlqbkUxaDUycnFOdEY4MnNRa2szanMwengyekNmTzI3Uk10aDhjQURfeXpBM240SS1JUDNyWG5vbGU5emwwNjdPbk80ZXdmX1dXX2tmUGxIdUtDR3d4RDRhbU85ZV9NMFh5Y3pLaWxlQnFLZzZ2dktCM2pRX3MxUi1Ib2VVRnBzY1BScXc?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-26T06:48:12Z"
+    },
+    {
+     "title": "Goldman Sachs cuts price target for Bioarctic to SEK 342 (345), reiterates neutral - BN",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHUyaG9vbXpuUTNqa1ByWl95a29RelhGYXZIT3pZRjdDUG11c0ExQndUaHdCSGNQV0cyQ2pmQ25lNS04cHZWaTBCeGwtZFhMcVRTNXV0LXBkMjN2Wkx5TTE5Wi11a1NLVC1lVDZ5YUd4SjhyLUZQZERCLUp5SjIyMXduZ0JfcjhGcUxlSWZ0dVUwZGpBc3Q1VXhoNG9tOGtoN2syTmpzMmE2R3hFZ2E2MjdnczJuWXhhZEFHSG5vaklmYjdpMWYtcG1GWldTM0Vp?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-11-26T06:47:16Z"
     }
    ],
-   "news_at": "2026-11-26T06:23:41Z"
+   "news_at": "2026-11-26T09:11:22Z"
   },
   "NYSE:MS": {
    "news": [
+    {
+     "title": "Bilfinger SE (GBF) Reports Morgan Stanley Voting Rights Threshold Notification",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGFxXzFYeUpETEFhQWlyaUthbGYyNkVTbm9jZWJlVnB3VDVxc0dESERXb0VYY253ZVpjb3h3aDZyaFNKZmNrVDlpRFNZM3JBMzJvOW1qN09VTy1sVFVKTEFjUkJOUWNPNWZkVXRNUmtickh4eDYzTDlBQjB4RENnbGdlOE55XzE4eHI5MFZJcEdxbVliSHlhUnc5WFhQcVliMzNVUGNxNEM5Qklzd0VwakVQRElyT2RWelhwOWhFclRySU9xNmV1STNySUFNMGJJWWxxZA?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T08:29:11Z"
+    },
+    {
+     "title": "Bilfinger SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMHdZWVl1MlprN3FqdWppd2hfclpsc0c2QjdhZThwVEFQUWFOT09kSm5XeGp1OFJDMUY0TWEwamhOc25yZjA5Y2pMZjIxU3piMGl0SklmMFZxeTFZUW11dlNwdTRtbXRZLVVZMEx1Z0hNb1FwX1hUbGd6cW9iai1Va21aUWo0cFlBZTE1MC1xdWh4NkZ0dFVJUG1udDZGR1Jvd1pxQUpxYVZNWFZ5VjU2M0pWQ0ZaUVdZNHV3d0JGSTZOMnBNMnRBWEREeFppNzd0Mm1GaU1DWm5yU1ZxdE9lQU5zR3Z1UzNrX2hJR2pWS0NOTFlJWE5ocjJEMTh2Ti1xV1owUFRIaWtWOFBvZUt5dkJfZHdmTER4OUJBUktGTWNfbXdWODlaSA?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T08:29:11Z"
+    },
+    {
+     "title": "Bilfinger SE (GBF) Receives Morgan Stanley Voting Rights Notice",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlp1SkxCd0k0S3BmSDdDUjBqeDQ2d29aYy1GRy0tTFk2UlBENW96aVI5Q3pSWjVtMnhSeExoeWxOSVYzeFNwRXpTSFpoM2hhVzlQcHlrS3EzZmdBWVo2U1p0X2Z6Rk5uVk0tSk9rTW9UY1J5dnowQ0tlWGRkYzJEbEFHcUlYT21saFJjejZsMWZDRkZxNDJEaEhxWnkzY3VDc2UwbUdpRGJvVXBSQjFOQnNQZkswQTMwSl9QZFM0RGNxdGJudkYzbA?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T08:16:11Z"
+    },
+    {
+     "title": "Key facts: Urban Outfitters Q3 Sales Rise 8.9%; Morgan Stanley Cuts Rating and Target",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSVY2aC10RzRQYmZtYk5vRXhEZlFhck9zLXRuTWdteXBXS0liMUFPREVpWl9DdXI2c1NWMDZza2IxRjNfazhqbDNkSzlhRVdwT2lvTVZnNUZZTFh4UXlDTERRNFhUMDdmLWhySS1ad3NISXYza0pUWUNXbGJzUm5mbVNoekRrVldUQ3draDdDbVpnUWJxaE9ucllKUXA1dWZDbUNVODF4SzBXUEhMMy1pZHR6azk5MjFQdVNKVHBtTG1CZzAtVlhmck1qdTRMMm1Bd0JxdTUyQzdpemlf?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T08:00:00Z"
+    },
+    {
+     "title": "Morgan Stanley’s ex-AI head explains the nightmare underlying banks’ tech systems",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iSjY2NDdpQXRCUmlSRUQ2QVhUcXY0ZWVpMEEtWHZKVkRUY2lXMmoycnBlQ1VBcEVMYm0yazZpTHBNRU5WY29hcVVVYTBVWV9xY193T0xlSHNkWHQ5ZzZuZlZza3hsdmZHUzAxSA?oc=5",
+     "source": "eFinancialCareers",
+     "published": "2026-11-26T07:59:06Z"
+    },
     {
      "title": "Morgan Stanley Has An Edge With Anthropic’s New Millionaires",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzExVDB3cnRaRWRTbTJSOU9kVDFfRFEtUUtmNk45RFNoTXlqZ09KTDZkak5TZFJiWTFNSHhzVm1WSnNUdUVtbEhIaEdmUGZkZFlTSnNKTkVUTFlnVC1zdkhPNkhWY0hkdkttN29BeklJQll0a000NFM5VThQbkliVmEwbEdOZFhiVWx3SmxZdkFYSmJKazdNWE5GcUg0elF0TjdnYTE5MDh4Nk9yZ1hHOGUwdzI?oc=5",
      "source": "Bloomberg.com",
      "published": "2026-11-26T05:00:00Z"
-    },
-    {
-     "title": "Deals & Moves: Raymond James Snags $320M Morgan Stanley Team",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXNQblhsLXpEV2RmZHhlM0I2ZzU4blZ6V2QxeVFUX2FPa2Vaa1RSeE9pX3RiR0JHd2hMbUstb2FfSG0tRzJKVzQ5YXYzaG1LakFMMjFxU2I1V3g1NXlTUlA3ZGRYRVluMVdoSEQ3ZmpkaVVzNEptRVlFVnNfMVVFc3hLaTRZc216WWdpdTBVMWQ1SDhwNkxVNmczR1F3bFMxUW5iQXBB?oc=5",
-     "source": "Wealth Management",
-     "published": "2026-11-26T00:58:27Z"
-    },
-    {
-     "title": "The 3 Highest-Yielding Dividend Stocks Among Ken Fisher’s Top Holdings",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkRsV3d0Z3pjbGZYcjVxd0ZObW1JeHZIclBfWXI0V2Z0LWdBcE92R196RHZEQ0hNVWpPTURZeWhBZmM3QXYwekdBaVN6Tmc1Ql9VVnB1dXJ0ODFiaUJjMkNMOHJlcmZiY2IyVmJxaW8wRlQwZmRmdGF1RjF1Sm1tRGJpeVZiRGlCa1pNOUE5cENMNVhyQkYyRkg1cw?oc=5",
-     "source": "TIKR.com",
-     "published": "2026-11-26T00:56:50Z"
-    },
-    {
-     "title": "Morgan Stanley’s $1.96 trillion portfolio tilts to bitcoin, adds XRP exposure",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejdtSEtBSzBJMUpNekdHQl9KVzh0clFOdU1aeUpUd3dQQkl6WUtoZFBNTnlKLWFLbl9FOGtSYmlpWXA0cGNUN0Q0cmZycjFMLWk1T3AtOGFZVkRPWF90R3NUYXpSREdNaVZCNlpyM2llZ3lTSG1fRGIwY1BsYU0yam1JSkN5QTRhUjJmSHdmRWhvX2VDX29pUm9nazV4a0RIRnVaLWdMcDZYR0ZHeEE?oc=5",
-     "source": "디지털투데이",
-     "published": "2026-11-25T23:50:58Z"
-    },
-    {
-     "title": "How Much of Your Portfolio Should Be in Bitcoin After a 50% Drop?",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTJjQzZhWENWb0szVF9ZbUNZNnB0VDJnTXJ3TzlQT1BjdzNXbXB3OEJRamxmQ1hjMXduZER1TVRNRFJCTU9EZlF1T1cxSXl0Nzc0a0JpNG5jaFU4Y1VxZF9GNlFzcGdKZjZ1Slk2TlJHLXdPeXFaMFYzMndfTzRucTR3ZjlTaWlTNm9uM0h1WGtqVjVyN0dyWVB1UG5lQ05zbGI1RFJRa3VlUlBtLWhadkN1SW1FTC1tbk5BU2pEZw?oc=5",
-     "source": "24/7 Wall St.",
-     "published": "2026-11-25T22:14:00Z"
-    },
-    {
-     "title": "Raymond James lands $320M Morgan Stanley team in Indiana",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTJkUEljcjQ3bmsta3IxaExDc29ZU1BtN1BjT2tER1FSSVg0cXRQcUp5R25XaXlTeTBpUDMwY09yMm0wNWE2c3ZrM2gzdFNmXzl2TFZXMDVnWmhObllMaDlQaXBRR0hNSV9ESnpsLW9ZUjJmOFY4LUFkUjR0WUlpWnZHVlZ6M2lQbklCRy1QT2lYMkVRTEI1NFI4dGNJTzFnSnI2LVpRdkh4YmJZREpGQS0xQjZra014UU1kVw?oc=5",
-     "source": "InvestmentNews",
-     "published": "2026-11-25T22:09:39Z"
     }
    ],
-   "news_at": "2026-11-26T06:23:41Z"
+   "news_at": "2026-11-26T09:11:22Z"
   },
   "NYSE:RY": {
    "news": [
@@ -168,50 +168,68 @@
   "NYSE:UBS": {
    "news": [
     {
-     "title": "Falling knife or bottom-fishing? Gold investors seek answers from Fed and PBOC",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzVDa09EaVBiWlEtaEk3Z0gwdF9EV2IxSU9oaGJEOW50ZjQ0aXlSbm9ra0Rzel9kZ3hWSUJwUkNYYjh2aWxSRFlxbnRlLU5wN3Yxck9TWV9pWHZQdkhmSFFmbGVJS2Q5NElQVWx5eWcxMmxWLVdYSlFMcGMzQXp4dS1SczMteGFMY1JpVTdlN2xnTzVQaWk4TnBIdmRfSC1QV3dOYjRXZm9Ld3lhQWEzMXd4UmpKN0NpVFo5OG9QODhxa0xlYzZRQldR?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-26T05:35:57Z"
+     "title": "UBS Group AG Ceases to Be Substantial Holder in West African Resources on 24 November 2026",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTV5MHprOHJJaXZnU2d5ZnBJQVRiNkJyOFZOMjZTZ2R0Nkx1bkxDaVZScEVVdXdQbnQwWGdOQllUc1JjUk1GWDNrdTBFNnY4ZU10OTNMX1VBY0JjYmZDSV9Ba0QyY0p5Ukdrd3VqWDMxRjVpR1ZKZ3cwU0ZCeUI2TkJSbVdhdTJjb0tHU3RMbGhCMUUtU1VOblI2U2ZLa1dJRVRSSVV1UGltOUZ5QjBpSVdxWmlvUmloUTFLd0p1YUg3NVBZN0s2c1ZEMzQ?oc=5",
+     "source": "Kalkine",
+     "published": "2026-11-26T08:22:07Z"
     },
     {
-     "title": "Applied Materials Keeps Sliding: Why UBS Still Sees 94% Upside",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGh5YW95U3VkMHVkT2pHZ2F1QndPZGd5WnVfTXU4RUVfSFdYVVNSWXNkSl9rYS00ZkhIQmRiZnBjU29rQW1jZ08wdzRaZjAwS1ZvZnh4ZGZtVW9LU2hTUjF4ZHJ4bDlMVkdZLXhGOGNxbk9oaTlvSFFqRnd6eGc4dkFGTUtYMWR2V2otLUFpWQ?oc=5",
-     "source": "TIKR.com",
-     "published": "2026-11-26T02:15:00Z"
+     "title": "UBS sees Chinese AI chips taking 88% of China's market by 2028",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUxaZ0FlWXNGQWIzTVlQb1laOXF0YmNkaWdJcXlxclhVYU5jY2FmamxnWkpVSUR6UTEwaWFhNXpkaFZwMTVHbXRDUDFSYWxkd1o3V1BialVtSHNodERYOHI1dXhaczVrUE0ydDNkaVJsc0N3cTNGWENPVU5JSU9IMzZfVGdJT1Ji?oc=5",
+     "source": "MLQ.ai",
+     "published": "2026-11-26T08:19:25Z"
     },
     {
-     "title": "Merck KGaA (MKKGY) Presents at UBS Global Biopharma Conference 2026 - Slideshow",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWFEbld6Y2VYV1RiMzBVdGJFdTA0TklQcl9aMnY1cWgwQ3pUYVcyUXVFSjFyVjVaeUNEVy1JS01VbGZBWVdDZUg0OHlscXB2QUFIX3MtTTFLdmZNcllaZUQwN1JUdjVtV3BweThlQUZKcmZtS3BGZnN3ZldFdTVUNS1OcUVWZ24xYlZoX1A4VmhnOGZxSnZoNGVjNlg2VGtCQmswUEFrN3VVZmNicUh5dDNOTmhuVjItaDg4Q3JKMW9TUkRLRkkwOXFuYWRLNUhEdXd1QXRQZEg?oc=5",
-     "source": "Seeking Alpha",
-     "published": "2026-11-25T23:14:05Z"
+     "title": "UBS names its top European luxury stock picks for 2027",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSC1zYzdQQkdIZENRcjFzWFkzWHZGejJpVlpZZEdQeW5ramVaUy1TVGFkaEI0cUFqd05CZ0Ytcld3UmRZYmtmcU5jeU1uUWFjTWRJR3JsX2V0VjQ5NWtCNjdaLUtxZnl1anBrbVZhdXZ6UC1Zb2JCbzVOYTM4c2QzOFQ0U3lTanpuVy1vZVoyQzFhalBuaG1fNk1LQXlhVmpJM0dkUUduR2VhN3FaalprSA?oc=5",
+     "source": "Investing.com",
+     "published": "2026-11-26T07:27:59Z"
     },
     {
-     "title": "Notification of an acquisition of beneficial interest in securities by UBS Group AG",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1dQUVhqc3pWV2pZc0NZOENjUy0xWndQU1VwYVBmTnBrSXpibkYydzRhUFM4X2Q4cVhScGd6Y3poQzJqZUJabkVZeGc3a1FLRTU3QjJHNlV2ZlRWTWlLLWZkMy1LcWJHYTk5V3NzMk1CTDVMMzVwU0NYRlpHUktkMWFTWUtoOU55WkwtQ3M0R0hnVXAxTmxZRDRucnR3UEtHbTdmazI3Z3hyVEVpdHE1UllOZWtnWkFTdXc3ZWZvRTRjYTg1VVV6TnpLaw?oc=5",
-     "source": "Swiss Resource Capital AG",
-     "published": "2026-11-25T22:12:26Z"
+     "title": "UBS: Positive earnings and lower debt meet a cautious pivot to affordable housing",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUG45VlNOWVhJN0xTb1V5eUl5eWEzcklvT1JxbUh0REpINGY1cWo0enRaNDlua2F5eFJBcFR5ZEZ4MkxUMS1Vb0xYUHU4YVRFajJaajdKRFJIeFBCclJoTU1kbDlqOUQ2ekJ0QWVGQjlrang3amQyb1I4X1ZvVlpWa0trcG94eGttQUg1N1FZYl92THJQdjFJZ1lSOGY4MGpHQ0hTRWV3c3U4VlptNnc2aGF0M3VGRUdWMVh3azA1Q1I1Ry03MmVNbi0yeGFvSTllMkJWd3VoWVBLYWxvTzJkZFJIWktGblM2NTJNM0NtakFIUHBfelE?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T06:16:00Z"
     },
     {
-     "title": "Swiss parliament progresses with 90 per cent UBS capital requirement",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2V1YXpqNWM2S3BvVjhBQkc0di1UbTUyUUt0Rlc1bUY2WGI4TVZpNEFaV2tmWHVreXU4M0FjejlVS25rRmFhRGZhVHZhOUljNXNhbmpvaEFBdGVjWl96cVpMNV9ncVZ5Q01qTUktZUNmdFZXbDhvRHl2SjFTMVcxb09wVDl6ZFBEVjVBZDBHLUZwNGRxS3JqOGdpY19HRDRWN2lz?oc=5",
-     "source": "FStech",
-     "published": "2026-11-25T20:36:00Z"
+     "title": "UBS: Profit returned, net debt fell, and a €58m green bond was placed amid housing undersupply",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRlBjbU5zZVhBZUhSZVF3Tjc1dnpFcHRxTHFIZkRJTjc1Z3o1VXZaMkZXNFhrZFoxd0E5cTVQdFdlV1dTdHlYOV9lTmltWEpQMkpHN1JPR240UUh5VnVHYUFMaUNqUnYzaU9pQ2FCbThKdEJDYUEzb2ZYejNBSEpGdTAySXN5SEdOamFkb18wMks5OHdzSUtYU0RaeXlub3YtUlFTalFOeVdYZXZsby13S2VUTmkxYVNicURBQ0Rad0NjR3c1Tm12TVlqVHFNMWdoUFVwU29QSERyOXJ6dlByU2p0STlSWTdyYlpJVXpuQTZaRDI0Y25VYmVMOTV5SFJEUUFF?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T06:16:00Z"
     },
     {
-     "title": "Peloton gets a higher UBS forecast on stronger underlying EBITDA",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTFpBSHplM0daVjVrSnJXemV4TUxPRzhjWGthWlpsdnhxanBhbVF5b1pwaUJVZDBsZU5LX2lIc1F6emZuVFN3MUtCV09LYmVSSkFoRUN6VVllbzJoODlMQ3FXQm5idE9lZFNZcEVTbklZd1E0eEdHc0tlcl81V2h4MlREZHFRSVdvWWctbWU5dkNmYkw3Zms1a2RUckhpMndORllXQ3VIcU5hbGVXLU5zTDl0NF9kWkFVSXhBaXRIVDZEZ2l5N2d0Y2psTTRsLUhp?oc=5",
-     "source": "Proactive financial news",
-     "published": "2026-11-25T20:19:00Z"
+     "title": "UBS: Earnings turned positive, net debt fell, and a €58m green bond extended financing runway",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObmtKdGctdDlza0tsYk0wUDZmWmRvdXFHNjM4VlZBYU1ReTlweXZEM2g5Q1BkbTdqalh0Vk5QWW9KVExPQlcxU0pyRU1CbUVrbXhlN1IzVTNBVWFEb1lJYlp2NVk2RnlPUnRWX0k4OHFRQy1HcGpnMElMRUNSRmxock5BTmpwTFpabkYwVVB1Y085SE41enNEbUd2WmctY09LS2VoLXJVS3dYa2IyQTNrVXFvbHdIR29ndjZ0QWttM2VjcmgwZVdyNld4WFBVYXFpWXl6WFZkU3FoN0RHZ0lhNVB3V09xX1RlZUlBcUV4UF9URTg1UzQwU3dBNXZmYnZiQ3c?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T06:16:00Z"
     }
    ],
-   "news_at": "2026-11-26T06:23:41Z"
+   "news_at": "2026-11-26T09:11:22Z"
   },
   "NYSE:BAC": {
    "news": [
     {
+     "title": "Bank of America Corporation $BAC Stock Sold by Caxton Associates LLP",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFZwcU8wTmlYdWJkREJUM19iWk5uU2ZGQl9NZzh0Y3RMT0JERXpPYUt0dlMzWUNZUVlMWmVFdml3VkNTQUQzR3JhVUU1ZHdnT2RFWUdQYmZwTElTcHgteWJCNFdaSENTNUtrbEItdFJfeGctSVc5dXZyREVNM1hoOUZMdHlSeGtaSDduZWtRNkRXWXlCZ0xhZENnRnBpZDh0ZWFnb005MEdrQk0yVzBvY1kzRHU0dXVablkwX1JxZFpzN0pOZkNN?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-26T08:53:59Z"
+    },
+    {
+     "title": "Overseas Research Daily 1126 | Bank of America: Bull market in equities expected to continue next year, but hard landing risks are underestimated",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDNXOXpOYlpjSThXa0hNWDlrQ083NnNIN18tUjdBem9kY3M3Ni1ka2NHWEhCa0NfbDFoZm1NMUZCc2llaG1INjlTU0JXcnphMmxYVEFYYWtHTjdseHBqX1ZFbUY3RFhBbWpBWDZad0pMX0F1MEhJZGNhbFpqUllyQjM3OHpMaWt0WkJqQXR3aGowRnJWUUxNSzVlRXg0R1hrMXpmbw?oc=5",
+     "source": "富途牛牛",
+     "published": "2026-11-26T08:32:00Z"
+    },
+    {
+     "title": "Dollar Forecasts Raised at Bank of America on Three Back-to-Back Fed Hikes",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTVsVUk2VUdmNjd0YWJRWEVpZjkxajJrcVF5R04yVzBKbTFfWUMxTWdtcXRFaWNfUFlwNDlSZVo0R1k5ZmZLN3ZYSnJHUjRVcFJ3QUMxZmc4Vm82dU9GN0Q5N0JKSElCcThsODlhUUhLZThzcVdKUklPMmJMWGMyTEh0RllraHZrTG5BdXJMYVgzOG5XSTRxWlZTSzFSQy14c1pHWVpfN3dWQ1c4WXliNndRak4wZw?oc=5",
+     "source": "Pound Sterling Live",
+     "published": "2026-11-26T08:17:49Z"
+    },
+    {
      "title": "Are banks open on Black Friday 2026?",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXdHa3QzQ1h3bDJ1NUdBUVNUNXJ2aGlDcUhtaXRrMEp6TmtSR2xGY1hlTDBsOVB6TWJRSXctMENtVUYzTlAxOHdpTUJ2OXpock5YejBXdDR1OElQbkl3M2d2dVdmdXFZWWx4bG1qb2RUZFZ1RzhfekswTkNhVWJfU2R5N0HSAZgBQVVfeXFMUFFRS3ZReU9JZHdBR1hMY3FTSUxhcUFKaFRXakFNOFA5WU5IQVJabFUwNHhDeTdqNWJqelVHR1ZxNlEtNlJ4SnhzYkJqeDBWa2tFbVVpZ3VyOVV4TzRJb1JSWXR5ZmxsLWJwMjVoelNqWDZHRnNsSktEUTZ1M0ZZc0VrUVJJNGVwZnFQd1ZuaXhiWUM5cTQtZGo?oc=5",
-     "source": "PennLive.com",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMT2F0MU5ZYWRJbGpTd1hxLWRsY3d5T1NlbWdFLUR0NFlZc1NCZG05cVBwX0FZQkdRSVNDaFRZSkdGa0phQkFLT2ozUEdMRTF5eC1Tb3NvTFg2N3M5RDJrTVJJUTk0bFRpVmMxMXNQSUhnWDlpMjZjSDhpNGHSAZABQVVfeXFMTjUwcHZxNkg2RWVJMXVneU9UcFNiMTBsM1J0d2FwaEk5SGwzZE44RjZLYm1hY2hSbW5vS0tLQ1JxLVRWQURTbUJ4RDJvZ3dpUWxWTkdHdTZILXlGbC1Cdi1sYnI0eTJyX2tETmhOSzdQMFZtWjgxRVU3YUZKWG4teTB3dFIxYXdnZk1BZExvNkNk?oc=5",
+     "source": "AL.com",
      "published": "2026-11-26T06:00:00Z"
     },
     {
@@ -225,27 +243,9 @@
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGp0VjVfUm84ci1jS0dnaTZJYklzRFlMYzZhYlBuS2JRMXR2RHZCUUZPVWQzQ0E0aXozTWZ5NDJfTnJPZHM1YjAtZndNU1p5bWtaQ0VBZnl0dkVQOU9fZ214N09tQmZqSzVuX01QLXVOMWROUG5USlc4OWVuVGxaSThtM2V4SmpTZm1IT01LeExHcXZ1TkZfeTZkTzdUNm9JeHZRdjBiLWhISlJUcmNUTG9BendVckxya25JOVRkQnBQbmhpeXpn?oc=5",
      "source": "The Motley Fool",
      "published": "2026-11-26T02:34:56Z"
-    },
-    {
-     "title": "LA Rams and BofA Celebrate Thanksgiving with A Place Called Home",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGZjQks0WG5TSW1BT3VsUGtIVXRtd1hLUWVSaXh2VV9KbHQyYlM1c1B6RlVLV1ZRejVGQlFrWVBKNVh2a0tCbHJPSng5MWs0SlNTZW55cnU1bDU3eElJYWFFTzQ4VE0zSDRQeDVGTi14MGkyQ01tektSQVdoa1BCbWw5NjZJY1VyT0NwWmpLakUwOGRKVTNJ?oc=5",
-     "source": "Los Angeles Sentinel",
-     "published": "2026-11-26T02:08:10Z"
-    },
-    {
-     "title": "Savannah man gets 27 years after Bank of America robbery and failed carjackings",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2pzMkRNdkhrQTZLaU5aTllUMEc1MGdQMmFCSWRwWVFOeG5TN0tmSEt2d0JXeGxQdHNQdU91NUNGT1lJLXNjMVlzbG8yV0Q0bGE0LWJSNDFiUE81YkF5dERQS0tnYkhjZThJX0NlRVhHbFF0am9ieFFBQ2dHR3g3VUdJUXJCdXRKVDhDUVV4QmZ2bXNNbGc?oc=5",
-     "source": "WJCL",
-     "published": "2026-11-26T01:32:00Z"
-    },
-    {
-     "title": "Bank of America 2027 Economic Outlook: AI Investment as the Top US Economy Uncertainty, Fed Projected to Hike Interest Rates 3 More Times",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5",
-     "source": "36Kr",
-     "published": "2026-11-26T01:04:25Z"
     }
    ],
-   "news_at": "2026-11-26T06:23:41Z"
+   "news_at": "2026-11-26T09:11:22Z"
   },
   "NYSE:SCHW": {
    "news": [
