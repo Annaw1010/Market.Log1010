@@ -127,7 +127,7 @@
   "NYSE:RY": {
    "news": [
     {
-     "title": "Salesforce and Slack to be adopted on financial firms' internal networks… Salesforce meets all mandatory items in FSC's safety assessment",
+     "title": "Salesforce Slack meets key security requirements for use on financial firms' internal networks",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nTXZ6SVU5NlV2eTd6cUhqQWF2OExkNTRHZ19zSkpiN1pvcXk3R3l6NldnUFpmUEl1THJLYVQydnkyMmpuOFY3eDg5X21CT0MtLWlIUXk4T1hUbzZvLUozUm9NWndhbndVWTNn?oc=5",
      "source": "머니투데이",
      "published": "2026-11-27T00:17:31Z"
@@ -163,7 +163,7 @@
      "published": "2026-11-26T00:15:28Z"
     }
    ],
-   "news_at": "2026-11-27T03:31:11Z"
+   "news_at": "2026-11-27T06:08:27Z"
   },
   "NYSE:UBS": {
    "news": [
@@ -250,6 +250,12 @@
   "NYSE:SCHW": {
    "news": [
     {
+     "title": "Why Charles Schwab (SCHW) Is Back In The Spotlight",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZlBGcnlwejZScGY3T2Z3dnlnVC1pTUY3amZZMEhweDJBUFpWM0JBNl9rRDA0WmFqeHg0X0J0ZUw1OEtiQUNMNXZrei15Mjl5YWdPejlZWU03X1VwZW1BdnhQQ2Zpdkh5TTl6WWtPdndCYXAwQUZlcWlvZENmODU5Xy1Sdk5wbHpzVGZIWS16VzlCZTVLdGJfRnZrZVA1WjlXUGVDWm04bkw5ZjQ1RmtOUk5BSVAtLWtRU0NqWjZxcHp3NUZia082OWdUNTJ2R0FvR1BrZkVR0gHWAUFVX3lxTFBmUEZyeXB6NlJwZjdPZnd2eWdULWlNRjdqZlkwSHB4MkFQWlYzQkE2X2tEMDRaYWp4eDRfQnRlTDU4S2JBQ0w1dmt6LXkyOXlhZ096OVlZTTdfVXBlbUF2eFBDZml2SHlNOXpZa092d0JhcDBBRmVxaW9kQ2Y4NTlfLVJ2TnBsenNUZkhZLXpXOUJlNUt0Yl9GdmtlUDVaOVdQZUNabThuTDlmNDVGa05STkFJUC0ta1FTQ2paNnFwenc1RmJrTzY5Z1Q1MnZHQW9HUGtmRVE?oc=5",
+     "source": "Simply Wall St",
+     "published": "2026-11-27T04:21:30Z"
+    },
+    {
      "title": "What Makes Charles Schwab (NYSE:SCHW) Latest Platform Update Significant?",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2NiNzNNbjFPakI3MlJ2ZGJzMjc0dm1XQXlsbDNjemFmdVE3N2w4a2RVRUtCUXh4LWlsMzFiQnlXdk5DeU9IUEUzeVRmbjk4RTdwRHRBLXFfelYtNFVjbE5LMlBMVTZlYUpSaU9yckRVb0FxcC1mb3BLLWY0dVZwSnZkRGVwUjRDS0RaUjhlUjdJM0dqMTQtZm4zbDBORWI2azF0N2NCeWVsS002THFzV0lMZFM?oc=5",
      "source": "Kalkine Media",
@@ -278,15 +284,9 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBscm9WUU1HS25rSmY5d0NwMVg1NEM1T25FT2J6Rlh1QTRiVkhNNjh2OTI4TUtwWmlEZEVDekx4dGo4NXVLWWpyMjk3SjZFbjdGbHg5aEZKQWh2RzRNT015Wlo4VmFtUzdpTkVUYlc0Zw?oc=5",
      "source": "Nubia Magazine!",
      "published": "2026-11-26T12:05:00Z"
-    },
-    {
-     "title": "3,134,652 The Charles Schwab Corporation $SCHW Shares Sold by Dodge & Cox",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUgtd0xOdE9mLWdfQVhzSkpZdGc0SnI0ZC1jc3pvcTdvbUtNeWF5d3BSczZ5SkZqMHZzM0pjNnlyb3J0cGxBN2kzNTQ0dUpWeVZZczRsR2NfeGxiR0xGX1FHNXhTUHY0VlpfX01KcEgwRTlVa2tORFoxX25lMGRFdlpwaVZtNk1SRXF3bjBCRHI3YnJYNFJERlRsTjU1WmhKek51U2hNbWpvbUNHRlBFSUpwcy01d1RnUjNvVktNZklRZndMa0R2Tg?oc=5",
-     "source": "MarketBeat",
-     "published": "2026-11-26T10:02:23Z"
     }
    ],
-   "news_at": "2026-11-27T03:31:11Z"
+   "news_at": "2026-11-27T06:08:27Z"
   }
  }
 }
