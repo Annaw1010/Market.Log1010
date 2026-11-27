@@ -145,12 +145,6 @@
      "published": "2026-11-26T11:39:35Z"
     },
     {
-     "title": "1 in 3 Canadians faced a holiday scam",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6MEJOa2tTN2NMdXNISXAzN2FIbTk5OGV1bmFVU3AxaDhPc0otdHptVVBkQjhld3YweVVNN1hjR1JUSkV6N21oazJ6ZkVSb0Zka3Z2RE84MnR1SXZtZ2cydTlvb0diUlgzLWg2dWVFeVNMRUhQM3c?oc=5",
-     "source": "Money.ca",
-     "published": "2026-11-26T09:20:04Z"
-    },
-    {
      "title": "Royal Bank Of Canada (RY) Expected to Release Earnings on Thursday",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmk1QjJlUWFEczJiY25hdGdjeVZPUVN1VHl4RVJyeEFNVEVrWUN6OFBlRUxpaC1FZDMzTlBheEJGNDdjZTdlR2xJUTVELTVhM3o4bUhfdGpPcVl0UlI2Y3hHVjZCUUlQZ2NjYldRZ3RjOU9nem1XQTV3OHBrRjl4NGk3MVZNZWhLRWJzc3pvb1h6ZU9qLUp1VFM4b1dPYzdZNHhHRHBsdWZVQkpPQm43d3p5YlFfUGxRWllieUlYcjA5Z0VNZGc?oc=5",
      "source": "MarketBeat",
@@ -161,9 +155,15 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBadHhwNVVVQ3FpXzBjUnROdFduZTNNVXBMQjA1T2QtRFZIS3hTaDRXMzJGbUdJQ09oanljeC1LaGRGQ1ZvZUU2TDBTc2plVEU2TGhpcTgxLURHOW9uZkV1MQ?oc=5",
      "source": "WebWire",
      "published": "2026-11-26T00:15:28Z"
+    },
+    {
+     "title": "Royal Bank of Canada Revises Blue Owl Credit Income Stake to 0.79% Following Overstatement",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmF2QjNJZGprWUhoME5GUXNYZ2s4SVh4QmZFeEF3VG9zYlNGVHAya2FSNll4SE9kRnJ3QlN0ckJYWUVVa201N2tOR3VDQ0dObkxBQ1FtcDE3NDQxQU80Z1JvOVlLUVowTkdUYXZaNndJc3pyTjhDRHR3VUNtWTgxYU5wQlZEazRJbDBaTllPckhCb0NWVUxnRENWZG9nNWxOWVh2MlloYUdjTEhtTkdRankzTDFqZldVNUpQTlg2THBxRGh3TlJWUVRucXpVRWNN?oc=5",
+     "source": "Kalkine Media",
+     "published": "2026-11-25T20:14:04Z"
     }
    ],
-   "news_at": "2026-11-27T06:08:27Z"
+   "news_at": "2026-11-27T09:12:15Z"
   },
   "NYSE:UBS": {
    "news": [
@@ -286,7 +286,7 @@
      "published": "2026-11-26T12:05:00Z"
     }
    ],
-   "news_at": "2026-11-27T06:08:27Z"
+   "news_at": "2026-11-27T09:12:15Z"
   }
  }
 }
