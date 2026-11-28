@@ -4,6 +4,30 @@
   "NYSE:JPM": {
    "news": [
     {
+     "title": "JPMorgan: A Sector Sell-Off Left It Priced At The Floor (NYSE:JPM)",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXBIdEQwcjBQOTdSVHFCTGoxWGNXbGlaN2hpcmlQcEo0WGlIRTJqZnM2dGlVT0NaT0lkem9Zc0d0N3dFX2ttdXFSOUhjMENCTlNUQ19XZVBFV25vNUh2M2Fab1pBcTAxQVhnbHlXVXNTZERheE5wY21fTjhHN2I2QXdmOGZIYm5CR1ZqYmdmY0RaZzVxZ1o0MDJuOA?oc=5",
+     "source": "Seeking Alpha",
+     "published": "2026-11-28T11:16:00Z"
+    },
+    {
+     "title": "JPM Stock Quote Price and Forecast",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1aWp3QkNGcnZrLWNLMmhtOV9CUnpqNGF5WlFDMTV2VEt2bmtYd2hSUXhONFZlaWluY1NrenVST2lTZ3gzU1dNek05anp0MGc?oc=5",
+     "source": "CNN",
+     "published": "2026-11-28T10:17:42Z"
+    },
+    {
+     "title": "JPM6582298 Bond Yield and Price — FINRA:JPM6582298",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsVUxuWW42YmdONlVjZzFZU3A0ck5DaWl4OXd2WlNCT2NTLVZnaDFCUHJmc2F0WEc5alR6RmZKenNVUF9ZRXVmZjZsNjBCZGdXcVhEZ1RmWUNDbjdKLUZtRzMxRQ?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-28T10:08:25Z"
+    },
+    {
+     "title": "JPMorgan leans on small advisory teams to speed client work and cut bureaucracy",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEFYREtNaVZIXy1CUTNDVXdYNm1YNE91a2Zhamtfand6SU84Qk11a2liWmgxMTJJclZmWmI2Ym9pQnJNT1FibVo5czVaNEtNRmw5SWlELVg0V2phZkkyR3V0b2t6c0w1SzFZdjEtcmxKVERjOXBpR192NHdTMllDVDlPaE5CY1l2T3J0T1oxZVlMcExrWVFV?oc=5",
+     "source": "Traders Union",
+     "published": "2026-11-28T09:37:25Z"
+    },
+    {
      "title": "News - Hacker group leaks personal data of JPMorgan’s richest clients",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVRSNWhoWG85Z0tqWVFFZVBCNXZ4QVAtTW9jaWFPU1ZMeV93YmczX1hwendyRXEzUXZFUG9NZ2pXX2RFQmlSWUpYQXM3dERqZ0s3RGV6N3ZNaU54VFB4T3d4YVFBck5SOEZ0N0xQUVpqTU93SERqRFJuYUVsWVhybkZQdDhoeWNmS3p1MndjbmRMRnJDOHc2Nm8zS0c?oc=5",
      "source": "teiss",
@@ -14,77 +38,65 @@
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnJ1T25zWnJuM0xOTkRycGduVnExRjhGWTJKdUl4Y2hCZzZkb2RhMEx5ZWNtT2x2NDh6QUgtWmhqSF93OXlRQ01BczlhTks3Y24zYk9JRzZ6clFfdkw1dEVrbjNLOTV5SFZGenVDUndKZ1dfdUpTRHNteHJZSk1ROGJ3cFd2ckFvbk9LMFJ5aWNJZWFjYmQ5VjRwM1BORXExS2ZITHN6T0ZkT3F0SUhHY2pubWRvb0U?oc=5",
      "source": "WSJ",
      "published": "2026-11-28T00:00:00Z"
-    },
-    {
-     "title": "JPM: SEC Form FWP filed by JP Morgan Chase & Co.",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU25ZcElvREZ0N0k0VzNVMlZtYTBZekFNVDgtdjd0cGlNSEtpVTE0bU9Tc0hUeHNmNWNLazRuZnE2RmNLZEV6NUttNTM1MjNCejByVUdtMmdUWjRxUmVjVlZ6U1pqVzhOSnZkamFkTzN2amo5TENhX3h0X0k5OGhWSmRyd29fYVNMall3?oc=5",
-     "source": "Quantisnow",
-     "published": "2026-11-27T22:05:45Z"
-    },
-    {
-     "title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa01VV2lJTWEyWm1WRTJGZnA4eUQzQUhrUFRLZ1ZETmQ3NnJ1RFdrTnBzQ1BoZVpSelUyZUNaM0JUblpBUHhvRG9FZ0NxYmNjYThCQjRIby10V09SQURmWFFvNmRqV0k5TUQzR0JqbHdkWHg2R0JHNW5hYVVMWnlnLUtLX1Z4MXltRjFDejRwRWFWeEdMMDhQTUVOYw?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-11-27T21:45:02Z"
-    },
-    {
-     "title": "QIAGEN Reports JPMorgan Chase Voting Rights Notification",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3pqcGI0dkhiUnM4RXBRVGduQTZYcTNzRFJzX2swbTVLeFRmWkJZRjl4b2xuRFQwTEtmcWJ2M3RQNUtsaGZEVW10R1pJVjRIclVuYlk0b3VlZDRQZFFvd3NnVEFtS1NFYmlMX0tFOUcwbUlJMlc5UEN3NDd3R2ttMWZZYlNsWmpNQVFFdzFsb2JLZVk1a0FhT29EMXVNZTNkQXVpUmNFUHFtTGx3?oc=5",
-     "source": "TipRanks",
-     "published": "2026-11-27T21:37:28Z"
-    },
-    {
-     "title": "Why JPMorgan Chase Fans May Look To ETFs Right Now",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2NKTjBfcGpwaVBaTk9WVzJ2bUY0NmlrTkh5Wk5abEt5TjNRRUFFa2RWdEl3cEowSGNpTS1fanNtblVSYjZSMG9INDhMWHd1WGxOVDM3bTFiODlvbHA0RVh5S2tnZHNvWE1uX1E3WVVyYkVicjV1azhiaDFTUFdTT2taZFRvT1ItYTFSYkNYRWdobWZveExRTA?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-11-27T21:13:49Z"
     }
    ],
-   "news_at": "2026-11-28T09:18:14Z"
+   "news_at": "2026-11-28T12:14:31Z"
   },
   "NYSE:GS": {
    "news": [
     {
-     "title": "Goldman Sachs Initiates Unitree Robotics at \"Sell\": Target Price 347.1 Yuan, More Than 50% Below Market",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uYWluWWU2OVNMLXRzWk51TUpYTFBfa1JOQmJKSDdvakJ2VkxxZEt5MHUzb014cXNqb0ZxWFZtM01RQjRQb2c4eHd6d1M4RmtnNFJUMnRxc3o4Qi1pU3V6ZUpOVzNlLWFlMXZjTlZEZjBqRy1IcFE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-28T07:05:00Z"
+     "title": "Are Goldman Sachs and Morgan Stanley “Over Earning” on the AI Boom? Both Fell 20%+ in 3 Months",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRVdZamRDelFkODJEMzR6UGJwa1dKT1R3bGREX0FEVWh3VkVGeExDNXRxcEFtMUlKd050c3hSbG5wRWI0ZkFsZXJUSXlzelR2OGZOYkNESnBHUDZxUzNTdHVmcUdUOS1uOE04WlBtRk8ta28tcU1peGlYNmhGMml1cTd0cUwtVGRocXpzeFBYOExEQkxxVk5hYnlMUnNLVkphUlRuZGQ2VmRhc0xiX2F0RXRRWW81QQ?oc=5",
+     "source": "TIKR.com",
+     "published": "2026-11-28T11:03:45Z"
     },
     {
-     "title": "Goldman Sachs' Tony Pasquariello: After the Great Liquidation, Is the AI Trade Still Paying?",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFlJZnAwM1BuMVBIQkJnbklYTlZHOWFncmZOaTVPdXRWOWdYWXowMXlHSERKN0k4aEtiRU52UGJJWU56NHdUY0pQOFBrOUFmR19jN2dqOHdyQlU3Y0tfdzdmdnlnR3VBMnMyUm9pX2NaSkUwcWg4OUtGWTJIcmpUendfRjMyZEY3?oc=5",
-     "source": "The Dark Side Of The Boom",
-     "published": "2026-11-28T06:30:46Z"
+     "title": "Imperial Oil Limited $IMO Holdings Decreased by Goldman Sachs Group Inc.",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa01yYVNGd3kwb2dPSVNVTEdGV0tUbmozRm96RDQwdllaczVMa3l4Nm43UjdDZFh6bmVmLUFKdjdhQ2VrLTg3RmpCc0RHOXd4dElRTTYtdjlPblpTQ2lGcWVUMldrNWMtUGVvcUljODFCRTZHbDlLLVhsTnlxQTc1SkFNSEUwa3NVWTFhNGdrU080aDBqLWU3cjRZdnFBZWxqMUJ0TzRUTU5SZ2tOOUdPUV95eTRsZmNCNG9vM3lfSWt4NEg1Qm1VU0lhaw?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-28T10:59:22Z"
     },
     {
-     "title": "Form 4 Goldman Sachs Group For: 28 November By Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmlwODBTZ1JubjdXUE9DWngyNk5ZYkExaTNGVTJvMXVFTDJCVjhiaDJjbWhxY04tUjNwUzhtaWNmbklMUVJ6VXFOV3ZUdzlxcUpCVWRBLWpwWUdFYUFjdEtwNlNuYllndmVGdU9vazMxNVdoNGhsNk9qR3FWNmZxYm5TYjNLbFdIMWJlUlc4THFMUVVDci1ha3Fyam1TYjAwN3VRenpR?oc=5",
-     "source": "Investing.com India",
-     "published": "2026-11-28T05:17:11Z"
+     "title": "633,283 TC Energy Corporation $TRP Shares Sold by Goldman Sachs Group Inc.",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcTRSYmpKcldfck9jRjF6Y1J3bTlGZmEwa3ZpcEN5UW1SUHVmcHZxdHFHNXpneV9yMnZFc2ZYaGtlNmtpQXZjSWFnbHB2bEpteXhIY3pEbk1tZHp2X1plZC1rWlhUZ1AtaWs5dVJZaEplUzYxSWw1VnRWZHU1VGVjcWEyaVZVT1AwSm9wSzBRWDVuZ2RaSDNrZHdrRF81dXZWMmFKSlRfal9idVlMNlRha2RieFVweG5WWW5sZW04SkhjS0o1TjQ3SXZMaTA?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-28T10:59:22Z"
     },
     {
-     "title": "Following one of the largest position liquidations in his career, the head of Goldman Sachs’ hedge fund division warns that the most profitable phase of AI-driven trading may have passed.",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1BIZXY5ZHFBQll4SE5KQ0ZEUU5aZWRaam5jRFJxVkNQb2xONjlFSFJlcWY3WXk1aGc5NGxyaEMyT3A4Z0k1SEYtZmY4M2lnZ1p5WXZWRzJGSXNrZkVWTTRKNVhrTDBxdExBRmdCLTNQX0lkdldaUGtHT3BBYmUxNW5TbVZVa1lQcnU0M2ZzVjB2QldqRldpN2NPbHRIUHBtWF83VHdNQnJRQUk?oc=5",
-     "source": "富途牛牛",
-     "published": "2026-11-28T04:16:40Z"
+     "title": "Cadence Design Systems, Inc. $CDNS Stock: Goldman Sachs Group Inc. Lowers Stake",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0IxSFZTRUJmRk82dXJPZzFCMk1kdzNMNkxLbzhzNnRRN1NwMEROUVZqOXdOOVJFWEsyRS15RFpDbVZMRXRZLXlOeTI3NTB5d3IyNG5OS1dCSWpncF9fZzNTeWFzWW9BWXNVS19sQkhWNWJsRUxPemVhdUtVbktxcFBEUXRJUDZWUmNmM1N3VHI3RnVjdGpWSl84MVU5SlgxRHZ2LU5uX19aOV9UeUZGTlV1RGFSd3gwQUlucS1OUTk1aWdmbmJmNllTd2o2RjlW?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-28T10:59:22Z"
     },
     {
-     "title": "Former Goldman Sachs Strategist Warns: Fed's Hawkish Stance Could Trigger Risk-Asset Selloff That Forces a December Hold",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56OFpTSDlLZ2N2cVpCVFFDRUFsck5Ra3dXRVRtaU5MZWtBUE9odGFVbDQyWWc0X1ljekVKV3V6Z05TeEpLV3ppeXgxdWtZSnlDUm45cEFaVUE4NVNZY1lGeWFCYkIyeC1CTkR5NVpER0h4VU9pRFE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-28T02:35:00Z"
+     "title": "72,191 Monolithic Power Systems, Inc. $MPWR Shares Sold by Goldman Sachs Group Inc.",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmNSckxWLThJM0lDUmlDWWdBTTNuYWJLcnRXcXA5VVZqR1A2RlRhaE04UkNmNTFEYXMwRk5MeUVQV1Uwai1oYkhBUzk0S01ZbXdGM2xjcWFYZGNTemZCMXozRFliZjRreEV5ZlgtZUdpdEFBTDUyT0U5NmdNMHM5T3V6NzdCWlIzaGF3aGtLVEdCMkp0MzBEaW13VkYxV1pmdFhWRmxkdEJvRWJMYUdJbnpkdDNCWDVfVGRvandwWnIxcUFKN2ktVUZBWUo2NEJVMFMwcWtB?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-28T10:53:42Z"
     },
     {
-     "title": "After the AI Trade Unwinds, US Stocks Are Trapped in a 'Fragile Equilibrium.' Goldman Sachs Says Credit Markets Hold the Key.",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nRndtY1hGOG8zVVFodXAtMFBzX2ROOEZnRjBKaDV5ME82SlFSV3cyejhDWTRhZDJ5eGF0T05PdEdnRUx3VmZkVmZNV1FtUzVsRkt1VlVURnhxOGxUd0VxMEhOM21kdWVwREdzQWRiamVNY1l1Z0E?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-28T01:35:00Z"
+     "title": "Canadian Natural Resources Limited $CNQ Stock: Goldman Sachs Group Inc. Decreases Holdings",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbDFubkpTRUhUZU1WM2pfeUY0WmE5TFdjSDJsQTY2emcza05UcjBIYnoxeERtRHNSdkdpSFJYMjVlSmUweld6dk9wUE8zMzBDVlN0ZXkwRnpuZkFLOU1tVHRqZGEzUmhjYkVzenAzXzJIZjJ0OWNSYUt4eUJhbmRKVjFkWngtWXJzY0FIejhTN2ZzQllVdzVpZEdGdTNMRl9NMmYtTDhSTVZ1elVKeUE3aUJxYVV0R0dHUGFpQUZRSFZGalo5MEVldUlEbFo2cjhMVm5zZVVNUW9mdmxpM29RQ0Vn?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-28T10:51:15Z"
     }
    ],
-   "news_at": "2026-11-28T09:18:14Z"
+   "news_at": "2026-11-28T12:14:31Z"
   },
   "NYSE:MS": {
    "news": [
+    {
+     "title": "Are Goldman Sachs and Morgan Stanley “Over Earning” on the AI Boom? Both Fell 20%+ in 3 Months",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSVdUNGdmS0NZbU1xem5OZnBWN2VNMEF5N1pBd1lydjgxVFVjLWs0RDlpQ2RKeGpPcmdfV3Vzbzd1emRfNzRFSHNKUk5SM2FtTTZ3blJpTW1HT3pCaXh6S21UNHF5bFZfWjRQMTRrcmxNejJuZzNMQlM5Skx4bWRma1JJdG9wVmtIdkdpbnhMVVFaZHlPM0R1WXFVUmo0MWkzbk9fbVB4OFVpWUVPYUFQaE9LcTY1QzlfTHB3RHZMektiNlNQVVhtN292bGVVX3pWVjVTdHpJOE83NE0wUW8zcWd0QS05bV9jUkdRY2FFTHhwVXFrOWRoeUZB?oc=5",
+     "source": "TIKR.com",
+     "published": "2026-11-28T10:36:41Z"
+    },
+    {
+     "title": "After working at Morgan Stanley and Amazon, Indian woman quits Rs 9 crore Meta job to start her own venture",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYTU2am1leV9tVzc4Q1FjQ0tnd290VHZsMjB1YWhnaFJZMjBaU1JQbmNCb3RHYUlnVmFNNjRENWZteUduLXZEdlNHWmZjQXRnNEF6WjhfT05Uc3JTZmd1U054X1R1TEo0QWppb3lUdkp2X0pKT09PaUFxSWY0aTExc1VCWV85c2FiOUllN0JOR3RNSHd3QXFCbkJwWk55WWVkNVltOHBEejhUTm5abE9yVC1vLURzMHh3UXVvZkoyNm5mZHVPbERrNDQzajNkS3Q1UkVSUlNIQVZIR09ycUtFdkZEWDBOMml6LTNzcnFMQzZRdjg?oc=5",
+     "source": "Moneycontrol.com",
+     "published": "2026-11-28T10:28:41Z"
+    },
     {
      "title": "Is Morgan Stanley (MS) Fully Priced For Its Capital Returns?",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3d3dHd3SXNhTG9HRjRoWFM5Sk1lMzJzY0FhSkdWeENrV2lmckZMOTJIYnFxaUF5T21QOGdOXzBwYVlBRS1FcEpDd3BrXzhRZzFsZnZmOXlQbUwzOVhLbjU1SVlWU3M4cGJSSVN4OVYyZ0lWSDA5SmRydTNhZmtpU01HdEIwd0tDZmFBNncyQkJfY3V1NG40OTI0RQ?oc=5",
@@ -104,25 +116,13 @@
      "published": "2026-11-28T06:09:00Z"
     },
     {
-     "title": "Morgan Stanley Finance LLC Launches Auto-Callable Buffered Jump Securities Linked to SPUMP40 Index Due December 2031",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM0c3YjZBdmFKY2s3V3BXbkh4RE5NaUxFdmMzcVE2MFFKQkZOV2o2b3A5ZTNWSFdfZC1UTDd6TDMxZmVQMUd6RVBnNWNfZ2o4TlVMTlpURjR6alpfT1MxNjU2cjVHbWVsczFSNjdzWFYxeGNhSllnMFAteXpoSUlCQzRRVmM0TUNPblN3cGw5ZVE0T1BCTlpyYzBfOU1RakJ1ejgtbHVxNU11OU5FMnhPb1Z2THVtWldGTnBiN0kyNUhWeXd5R1JhYk5rSmpkSkRHcThVTmpjcXJfNkR0WmdPcHZOLWVuWlVGZ09XLVEtT1E4SE5DSlE?oc=5",
-     "source": "Kalkine Media",
-     "published": "2026-11-28T01:28:18Z"
-    },
-    {
-     "title": "MS: SEC Form FWP filed by Morgan Stanley",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEg1c1ZNSzdvc0FpRF8wdTduaTRkWDBQM09zWUU3OGl2QjQ5YVlqanljTlNhU2ZxeFpvWHFCV29MS2h4eENEVkRUQVhkOFExRnBOLWVpU0tuWUcxUVJxeEk3dUZBU0QzazAzaG5rcjZSLVJQbnNkeTllSkRlcTFtaGFGRnVXQQ?oc=5",
-     "source": "Quantisnow",
-     "published": "2026-11-27T22:35:45Z"
-    },
-    {
-     "title": "MS: Morgan Stanley sells step-up notes tied to Amplitude Index, due 2033",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWFqbmY3RFZEZFdEV3N2MXRpclpwLXI1dTRVTThNSVBDZy1uS3JMa1lMRmVlREdxTk1qTHU3TzBTWGtqWl9WNzN4WEpQZXA5UlZ4QWtqSW56Wk1TQ2dxbUdPeTFGdXF2OW1RT2hxbGxsekNpbDlneXd2SnNPcjRHNll1OWxYZw?oc=5",
-     "source": "Quantisnow",
-     "published": "2026-11-27T22:20:45Z"
+     "title": "Morgan Stanley Inst Asia Opp A (MSAUX) Seasonal returns chart",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfdThMWlhpYzZ1cDVoS2tsZ2QzTUlRQkVPSllXa2tkaXp3d2pZSGdsck04YjN3YXpkVGtPVVJCZnhsdjV3YXhVQjZsMmhiWXFQZ3Bva0tSeWZKZm1CSDJ6TmJRVQ?oc=5",
+     "source": "Yahoo Finance UK",
+     "published": "2026-11-27T23:31:16Z"
     }
    ],
-   "news_at": "2026-11-28T09:18:14Z"
+   "news_at": "2026-11-28T12:14:31Z"
   },
   "NYSE:RY": {
    "news": [
@@ -262,12 +262,6 @@
      "published": "2026-11-27T23:45:15Z"
     },
     {
-     "title": "Whole Foods is just the beginning. What's coming to Sarasota Square",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHl4QkdxS0tRdkhTV1NNbDZ6NllUNHpLWENwLWJiekhqcHFmY1BkUmFjVjRBZHo2V1lzb2ZIUkJxbElSc0xFRFBHbkRxdEVmMm54MXUtcEdhT1lJSkcwNWJzbk1lRGtsbHlvaml6NUc2Q0l4UnpOX0RZR2hUZGdkdnVjWVdFUllDSlp6VnVtUUYxeHFkSm5Gb2NTNHRpbGthOHFZbzEybk10WkNtU0NFWThtaDFtYmFEdlRURmNKb2luSFdkQktDcXJsTWp1eGoySW41QmhEbi1xQm5aTkxZZUVjeHRRWFRSWGMyRQ?oc=5",
-     "source": "Sarasota Herald-Tribune",
-     "published": "2026-11-27T21:25:00Z"
-    },
-    {
      "title": "Fidelity flags key 401(k), IRA rule; Vanguard, Schwab warn on facts",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0xrSVJMME1qbEFISW1VMTBZODdWZXF6NHZZSmJwRzFHcE1OQjFyeEFqQnVuT0JyTk4yRUp2aUZoaXdVM3lEODFubWVUc0JjY3RHQkpoTjRwc1lrV3p1dWdjYXZySE9zMGtBd2lzUVdaWkh5MHZ5bmFsU2NlTHVTcFVoRTNlY085R3hVY2ZyZnBNSXlpSHMtUkhIY3NzVm5o?oc=5",
      "source": "TheStreet",
@@ -284,9 +278,15 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80eHY0dmFEUzB5QzZZTkVjX1lRQ25faV96a0NmWWJES2pXV3ZZZGVXUUl2XzZqX2pDa1EwYnZleDVhQnNwQy1FbFFLcVZJNGpfdGRNOE1KMnNhdW1mUjBSUk5rSUhjNzh6ZTVVNmh2LTMzTVUteDlB?oc=5",
      "source": "FinanceBuzz",
      "published": "2026-11-27T10:30:00Z"
+    },
+    {
+     "title": "Why Charles Schwab (SCHW) Is Back In The Spotlight",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDFzZ05va2ticTBJUVg2S3JnTUVJZDhDR2xmeXNFMU5abHZqNUMwTE41QTVEQi00Vm92VzVJQWpyN3ZkS0RzeHgtQXZybUhLNHN0MkltU3FOeTNRVk1tVTBtRkFSM3luYml0T0RKZHBpYldkbkNmM2E2ak9Xc0FtVTlzMmk0WnZDVzA1a3pHQkRzQnd0MjRjcnZ5dVRVcm0wVDN6TUs0SnZQWjJ4aVhTQ0JFcFZMVElkRHZNeDVNMS1tZTlWVjh3Yll1bVFHNDlV0gHWAUFVX3lxTFBmUEZyeXB6NlJwZjdPZnd2eWdULWlNRjdqZlkwSHB4MkFQWlYzQkE2X2tEMDRaYWp4eDRfQnRlTDU4S2JBQ0w1dmt6LXkyOXlhZ096OVlZTTdfVXBlbUF2eFBDZml2SHlNOXpZa092d0JhcDBBRmVxaW9kQ2Y4NTlfLVJ2TnBsenNUZkhZLXpXOUJlNUt0Yl9GdmtlUDVaOVdQZUNabThuTDlmNDVGa05STkFJUC0ta1FTQ2paNnFwenc1RmJrTzY5Z1Q1MnZHQW9HUGtmRVE?oc=5",
+     "source": "Simply Wall St",
+     "published": "2026-11-27T04:21:30Z"
     }
    ],
-   "news_at": "2026-11-28T09:18:14Z"
+   "news_at": "2026-11-28T12:14:31Z"
   }
  }
 }
