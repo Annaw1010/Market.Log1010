@@ -40,10 +40,16 @@
      "published": "2026-11-27T21:13:49Z"
     }
    ],
-   "news_at": "2026-11-28T06:47:27Z"
+   "news_at": "2026-11-28T09:18:14Z"
   },
   "NYSE:GS": {
    "news": [
+    {
+     "title": "Goldman Sachs Initiates Unitree Robotics at \"Sell\": Target Price 347.1 Yuan, More Than 50% Below Market",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uYWluWWU2OVNMLXRzWk51TUpYTFBfa1JOQmJKSDdvakJ2VkxxZEt5MHUzb014cXNqb0ZxWFZtM01RQjRQb2c4eHd6d1M4RmtnNFJUMnRxc3o4Qi1pU3V6ZUpOVzNlLWFlMXZjTlZEZjBqRy1IcFE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-28T07:05:00Z"
+    },
     {
      "title": "Goldman Sachs' Tony Pasquariello: After the Great Liquidation, Is the AI Trade Still Paying?",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFlJZnAwM1BuMVBIQkJnbklYTlZHOWFncmZOaTVPdXRWOWdYWXowMXlHSERKN0k4aEtiRU52UGJJWU56NHdUY0pQOFBrOUFmR19jN2dqOHdyQlU3Y0tfdzdmdnlnR3VBMnMyUm9pX2NaSkUwcWg4OUtGWTJIcmpUendfRjMyZEY3?oc=5",
@@ -73,18 +79,24 @@
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nRndtY1hGOG8zVVFodXAtMFBzX2ROOEZnRjBKaDV5ME82SlFSV3cyejhDWTRhZDJ5eGF0T05PdEdnRUx3VmZkVmZNV1FtUzVsRkt1VlVURnhxOGxUd0VxMEhOM21kdWVwREdzQWRiamVNY1l1Z0E?oc=5",
      "source": "BigGo Finance",
      "published": "2026-11-28T01:35:00Z"
-    },
-    {
-     "title": "Goldman Sachs Bank USA Autocallable Step Up Point to Point CD ACBAVXX (ACBAVXX)",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QRF9JdFVtV2ZwTjB4NE5XdkY4Y19ta2tSbGg4azdBc1R2THh3M2sySGRCeS00STh4SkM1bkM4eFU4OEpXYndYR2ZvdVJiSU00dVlxbVFJa0Q5ZE5n?oc=5",
-     "source": "Yahoo Finance Australia",
-     "published": "2026-11-27T23:51:58Z"
     }
    ],
-   "news_at": "2026-11-28T06:47:27Z"
+   "news_at": "2026-11-28T09:18:14Z"
   },
   "NYSE:MS": {
    "news": [
+    {
+     "title": "Is Morgan Stanley (MS) Fully Priced For Its Capital Returns?",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3d3dHd3SXNhTG9HRjRoWFM5Sk1lMzJzY0FhSkdWeENrV2lmckZMOTJIYnFxaUF5T21QOGdOXzBwYVlBRS1FcEpDd3BrXzhRZzFsZnZmOXlQbUwzOVhLbjU1SVlWU3M4cGJSSVN4OVYyZ0lWSDA5SmRydTNhZmtpU01HdEIwd0tDZmFBNncyQkJfY3V1NG40OTI0RQ?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-28T08:09:48Z"
+    },
+    {
+     "title": "Key facts: Morgan Stanley below 5%; Societe Generale crosses threshold",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmFKc0ZGQmx5ZkN0VndSaDQyQ0tGclc3T0dNTWJHbTFhbUQ4TGZvdElPcVMyZkI1bm8tOEtzd0dtTHRpWmdTZVJTbWxtdUdNbDJTZ2R2d0lRbHhzNVAtRl9UdjdFbEt5cDBGUEtkTG14WWZLSGhOWkt6dlh4VjkxRUxaZmFZWDlIVW5ha3c2cGpNS2dxWkw2bUVuczFvTEZJSzh0ZktveWZsRUtReFQwMEU3RTI4Ujl6dlFYZTJzSkVwazR2b3pQNQ?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-28T08:00:00Z"
+    },
     {
      "title": "Morgan Stanley (MS) Tapped For Potential Japan Business Deal Review",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1BWRldoMmVJdW9saVBKeVdaU2M3eTd5UzJHVEhQcS1VUW9hTUFVdWVJTGM4Q25FNk02U2EyN1I2cE9FTmlqbVFiTWhBMEdpNTcxTUt3c1p2ZGJpU3pVYVk4eEhXUUxaeVI3aTZ4OERVZEFycUtVc01uYjZlSU85andQZmJNWDlfczhUcGdfOUhpNkFYSmlJYkZjTktMdTJx?oc=5",
@@ -99,30 +111,18 @@
     },
     {
      "title": "MS: SEC Form FWP filed by Morgan Stanley",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUk1WnhiM3RsdTRGal94bC02YW9ldURFTHQwNnNYSnJQZXM3RmYzaWZza0c2WUJiZ1lfdjBwcWZPZkFOZUpfTG9vQ2tRRW9QUWM4MTluaVMxdDFXUWhyUzZ2aXdhcGxNYXBsT252ZGczUjR3c1N3U2R1SGJSb19vNWNFLUp1Zw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEg1c1ZNSzdvc0FpRF8wdTduaTRkWDBQM09zWUU3OGl2QjQ5YVlqanljTlNhU2ZxeFpvWHFCV29MS2h4eENEVkRUQVhkOFExRnBOLWVpU0tuWUcxUVJxeEk3dUZBU0QzazAzaG5rcjZSLVJQbnNkeTllSkRlcTFtaGFGRnVXQQ?oc=5",
      "source": "Quantisnow",
-     "published": "2026-11-27T22:40:45Z"
+     "published": "2026-11-27T22:35:45Z"
     },
     {
      "title": "MS: Morgan Stanley sells step-up notes tied to Amplitude Index, due 2033",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWFqbmY3RFZEZFdEV3N2MXRpclpwLXI1dTRVTThNSVBDZy1uS3JMa1lMRmVlREdxTk1qTHU3TzBTWGtqWl9WNzN4WEpQZXA5UlZ4QWtqSW56Wk1TQ2dxbUdPeTFGdXF2OW1RT2hxbGxsekNpbDlneXd2SnNPcjRHNll1OWxYZw?oc=5",
      "source": "Quantisnow",
      "published": "2026-11-27T22:20:45Z"
-    },
-    {
-     "title": "Form FWP Morgan Stanley Finance Filed by: Morgan Stanley Finance LLC",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGdXUkFwanVnUlZsUGwxUF9nTjc4SUVBamhfdzdqMlduZ1BwckFMZllibGFvTzlabDA3WHZMR1ZfYi1KQUdTaXE5M3ZOUkJIempGaGpEYUFSeW82YTYtcVY0NDlpUWduNWhlVGtyanhpM3BNTnNUaFlvOVE0clozLXNZc21pWnowOU43aEd1OEwtRGxLMmFMWnVsQ0JQZ0M3d09DcFp3UlVKSG9MdXlLZGp1bThrd08xdjgwS1B3NVl2clVR?oc=5",
-     "source": "StreetInsider",
-     "published": "2026-11-27T22:16:51Z"
-    },
-    {
-     "title": "Morgan Stanley (MS) Laps the Stock Market: Here's Why",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODRqMFZXUXBBQ3U3Sk9Va05yNllXSEFYejNzMHVSdm1keE9jekFkRWQ3ZTk4Z21xM1ZVOWVuMmRkVW1FeGtVRVpfcFpxb01GcEJMcnFxUEFCRkdXUkF0TmlxNy1HYTNmenFHQ094R0U3ZGVHOFl2ZTMzY29OVEFzVWNYNGdia2FfQzQ0Y0YwbVRBNE5vSUgzNg?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-11-27T21:50:01Z"
     }
    ],
-   "news_at": "2026-11-28T06:47:27Z"
+   "news_at": "2026-11-28T09:18:14Z"
   },
   "NYSE:RY": {
    "news": [
@@ -250,16 +250,22 @@
   "NYSE:SCHW": {
    "news": [
     {
-     "title": "The Charles Schwab Corporation (SCHWPRB) Seasonal returns chart",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UkNLdncwcEp2NXdRelh4UDNnUmVxZjVabkxiYVRIMzluSlRFY0JBbHlyOC1pMmN6bm5YQnlaZEVES0RzZlZ0Uzg2OTlLdG1NTm5Zdm50Z1h2UGFVSVhBYmdTLWh6UQ?oc=5",
-     "source": "Yahoo Finance Singapore",
-     "published": "2026-11-28T00:08:19Z"
+     "title": "The Charles Schwab Corporation $SCHW Shares Sold by Bamco Inc. NY",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlpwQkRBOEVubmJsdWJ4cUx3T3VCc2lYVHJLeHdBYVpoM1F6YzVzWFpmR1Jpc1hBeVBTRUhKZ1RKd1Jsb05ubl92TVJhWDNwWjNfc0xFekRNVGJlLVl4X0Q2blhSSzllRTVMeDdtdmhYT1J2UUo0akdPeWNGVERteS1fWVh1eFJYZndtczlFcUVXNXZ5WFRHRXh2emI4blNOZmNrVVJKbkc4MkJWYXVzbWp0ZmJUUmFLbVRiYWxEdmcyQQ?oc=5",
+     "source": "MarketBeat",
+     "published": "2026-11-28T08:29:39Z"
     },
     {
      "title": "Here's How Much $1000 Invested In Charles Schwab 15 Years Ago Would Be Worth Today",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXFjSFZ3RW5BRmtYLW5PLXpoYXM1UTdoZllMRklhY0dZeDdpWkJ2bkF3RGlMT1A4UF9LeGVQa0tVODd0VGJBaHU5R3JxRlJDclBCR2l0VkVUM0ZhSVNpWENNTTFla0d2cjRTX2dLWDNoS0wtZjZxVDVMYTR5UHhiNy1tMHpBc3ZXTUxEcElHNUhhUlJ5OEd4X1lUdGhFdlZyRUVpdFJlNmE0WmdVYmhBeFBqWm5LOVRBRXBLWmVUWnU?oc=5",
      "source": "Benzinga",
      "published": "2026-11-27T23:45:15Z"
+    },
+    {
+     "title": "Whole Foods is just the beginning. What's coming to Sarasota Square",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHl4QkdxS0tRdkhTV1NNbDZ6NllUNHpLWENwLWJiekhqcHFmY1BkUmFjVjRBZHo2V1lzb2ZIUkJxbElSc0xFRFBHbkRxdEVmMm54MXUtcEdhT1lJSkcwNWJzbk1lRGtsbHlvaml6NUc2Q0l4UnpOX0RZR2hUZGdkdnVjWVdFUllDSlp6VnVtUUYxeHFkSm5Gb2NTNHRpbGthOHFZbzEybk10WkNtU0NFWThtaDFtYmFEdlRURmNKb2luSFdkQktDcXJsTWp1eGoySW41QmhEbi1xQm5aTkxZZUVjeHRRWFRSWGMyRQ?oc=5",
+     "source": "Sarasota Herald-Tribune",
+     "published": "2026-11-27T21:25:00Z"
     },
     {
      "title": "Fidelity flags key 401(k), IRA rule; Vanguard, Schwab warn on facts",
@@ -278,15 +284,9 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80eHY0dmFEUzB5QzZZTkVjX1lRQ25faV96a0NmWWJES2pXV3ZZZGVXUUl2XzZqX2pDa1EwYnZleDVhQnNwQy1FbFFLcVZJNGpfdGRNOE1KMnNhdW1mUjBSUk5rSUhjNzh6ZTVVNmh2LTMzTVUteDlB?oc=5",
      "source": "FinanceBuzz",
      "published": "2026-11-27T10:30:00Z"
-    },
-    {
-     "title": "Why Charles Schwab (SCHW) Is Back In The Spotlight",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDFzZ05va2ticTBJUVg2S3JnTUVJZDhDR2xmeXNFMU5abHZqNUMwTE41QTVEQi00Vm92VzVJQWpyN3ZkS0RzeHgtQXZybUhLNHN0MkltU3FOeTNRVk1tVTBtRkFSM3luYml0T0RKZHBpYldkbkNmM2E2ak9Xc0FtVTlzMmk0WnZDVzA1a3pHQkRzQnd0MjRjcnZ5dVRVcm0wVDN6TUs0SnZQWjJ4aVhTQ0JFcFZMVElkRHZNeDVNMS1tZTlWVjh3Yll1bVFHNDlV0gHWAUFVX3lxTFBmUEZyeXB6NlJwZjdPZnd2eWdULWlNRjdqZlkwSHB4MkFQWlYzQkE2X2tEMDRaYWp4eDRfQnRlTDU4S2JBQ0w1dmt6LXkyOXlhZ096OVlZTTdfVXBlbUF2eFBDZml2SHlNOXpZa092d0JhcDBBRmVxaW9kQ2Y4NTlfLVJ2TnBsenNUZkhZLXpXOUJlNUt0Yl9GdmtlUDVaOVdQZUNabThuTDlmNDVGa05STkFJUC0ta1FTQ2paNnFwenc1RmJrTzY5Z1Q1MnZHQW9HUGtmRVE?oc=5",
-     "source": "Simply Wall St",
-     "published": "2026-11-27T04:21:30Z"
     }
    ],
-   "news_at": "2026-11-28T06:47:27Z"
+   "news_at": "2026-11-28T09:18:14Z"
   }
  }
 }
